@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit NH Events Calendar//EN
+X-WR-CALNAME:Visit NH Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Animal Encounter Series: Animal Adaptations
+DTSTART:20260809T100000
+DTEND:20260809T110000
+DTSTAMP:20260809T160501Z
+UID:3e30473a0e713749caf2ced5@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ nimal-encounter-series-animal-adaptations-f2a7d034a97ac5054237329e538d5d35
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
+ series-animal-adaptations-f2a7d034a97ac5054237329e538d5d35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mike Levine's Miami Spice
+DTSTART:20260809T193000
+DTEND:20260809T210000
+DTSTAMP:20260809T160501Z
+UID:aaeba15c19a13ea60be5e429@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ike-levine-s-miami-spice
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/mike-levine-s-mia
+ mi-spice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
+DTSTART:20260809T080000
+DTEND:20260809T090000
+DTSTAMP:20260809T160501Z
+UID:ed451da04a3d2983ae2e9189@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
+ oga-in-the-woods-at-lost-river-gorge-boulder-caves-1fde874a79aa0b98ab2094e
+ 2cb248fe1
+LOCATION:1712 Lost River Road\, Woodstock\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
+ -at-lost-river-gorge-boulder-caves-1fde874a79aa0b98ab2094e2cb248fe1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kids’ Rock Night—Tuesdays on the Terrace Summer Concert Series
+DTSTART:20260811T180000
+DTEND:20260811T193000
+DTSTAMP:20260809T160501Z
+UID:99bc357e7fc5217dd859bff6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
+ ids-rock-night-tuesdays-on-the-terrace-summer-concert-series
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/kids-rock-night-t
+ uesdays-on-the-terrace-summer-concert-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newfound Nature Series | The Health of the Newfound Watershed
+DTSTART:20260811T190000
+DTEND:20260811T201500
+DTSTAMP:20260809T160501Z
+UID:f8db28bb6144ec52459b0f7f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ ewfound-nature-series-the-health-of-the-newfound-watershed
+LOCATION:178 North Shore Rd\, Hebron\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/newfound-nature-s
+ eries-the-health-of-the-newfound-watershed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norman Brown
+DTSTART:20260811T190000
+DTEND:20260811T200000
+DTSTAMP:20260809T160501Z
+UID:7e7fa4ac2080da3bf65addf7@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ orman-brown-d80935c9ae008311634e87319ada5ab0
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/norman-brown-d809
+ 35c9ae008311634e87319ada5ab0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come to Classical: Sebago Long Lake Music Festival
+DTSTART:20260812T193000
+DTEND:20260812T210000
+DTSTAMP:20260809T160501Z
+UID:1366301cfac3ca17269a3186@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ ome-to-classical-sebago-long-lake-music-festival
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/come-to-classical
+ -sebago-long-lake-music-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Topics in the Garden: UNH Extension Yard and Garden Infoline L
+ ive! FREE
+DTSTART:20260812T180000
+DTEND:20260812T193000
+DTSTAMP:20260809T160501Z
+UID:d0d1f0fc51914f2fbb4cfb95@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ ot-topics-in-the-garden-unh-extension-yard-and-garden-infoline-live!-free
+LOCATION:26 Audubon Way\, Auburn\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/hot-topics-in-the
+ -garden-unh-extension-yard-and-garden-infoline-live!-free
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matteo Mancuso
+DTSTART:20260812T193000
+DTEND:20260812T210000
+DTSTAMP:20260809T160501Z
+UID:0d803a75b58114cda9e4312e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ atteo-mancuso
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/matteo-mancuso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryan Montbleau Band | River House Restaurant Concert Series
+DTSTART:20260812T190000
+DTEND:20260812T213000
+DTSTAMP:20260809T160501Z
+UID:68fba17baed70a62978daf8b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ yan-montbleau-band-river-house-restaurant-concert-series
+LOCATION:105 Marcy St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ryan-montbleau-ba
+ nd-river-house-restaurant-concert-series
+END:VEVENT
+END:VCALENDAR
