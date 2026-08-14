@@ -4,46 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Allen Stone | River House Restaurant Concert Series
-DTSTART:20260813T190000
-DTEND:20260813T213000
-DTSTAMP:20260813T111321Z
-UID:65b2b0c91941479b573222cd@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- llen-stone-river-house-restaurant-concert-series
-LOCATION:105 Marcy St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/allen-stone-river
- -house-restaurant-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Art & Poetry: Dwelling Places
-DTSTART:20260813T053000
-DTEND:20260813T073000
-DTSTAMP:20260813T111321Z
-UID:10b0e6a5ddc3c45218228529@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- rt-poetry-dwelling-places
-LOCATION:266 N Main St\, Concord\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/art-poetry-dwelli
- ng-places
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Devon Allman's 20 Years Strong Tour
-DTSTART:20260813T193000
-DTEND:20260813T213000
-DTSTAMP:20260813T111321Z
-UID:db7364cfc10bc277e753d79b@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
- evon-allman-s-20-years-strong-tour
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/devon-allman-s-20
- -years-strong-tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Four Sticks - Sunset Concert Series
 DTSTART:20260814T063000
 DTEND:20260814T093000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:e49801cea0d60362a61d066e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  our-sticks-sunset-concert-series
@@ -55,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:JustgoXplore Overlanding Expo
 DTSTART:20260814T090000
 DTEND:20260815T180000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:814d37fbbb12f139a4b37159@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
  ustgoxplore-overlanding-expo
@@ -67,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Medallion Music Festival
 DTSTART:20260814T160000
 DTEND:20260815T203000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:eba55c5a234d38850ecef03c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  edallion-music-festival
@@ -79,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Phil Hanley
 DTSTART:20260814T200000
 DTEND:20260814T213000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:4541af2550d172518347e7e6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  hil-hanley
@@ -90,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Settlers Green: Back-To-School Blitz
 DTSTART:20260814T110000
 DTEND:20260815T140000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:db3497ebc23c3727474a8ebe@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ettlers-green-back-to-school-blitz
@@ -102,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Bear Clinic
 DTSTART:20260814T090000
 DTEND:20260814T110000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:a76d83b9e30a7f10709c5904@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  eddy-bear-clinic
@@ -113,12 +77,48 @@ BEGIN:VEVENT
 SUMMARY:Twilight Tour
 DTSTART:20260814T160000
 DTEND:20260814T200000
-DTSTAMP:20260813T111321Z
+DTSTAMP:20260814T111123Z
 UID:1a97e474b15397ed6235775d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  wilight-tour-35f7d54e35869693e4dc43bcdb695320
 LOCATION:14 Hancock Street\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/twilight-tour-35f
  7d54e35869693e4dc43bcdb695320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening With Portland Ballet
+DTSTART:20260815T190000
+DTEND:20260815T213000
+DTSTAMP:20260814T111123Z
+UID:b808cbc7350a18ba77130626@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ n-evening-with-portland-ballet
+LOCATION:319 Vaughan Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/an-evening-with-p
+ ortland-ballet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boots\, Brews\, & BBQ Country Concert at Mel's Funway Park
+DTSTART:20260815T030000
+DTEND:20260815T093000
+DTSTAMP:20260814T111123Z
+UID:5edd848500fed03242148207@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ oots-brews-bbq-country-concert-at-mel-s-funway-park
+LOCATION:454 Charles Bancroft Highway\, Litchfield\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/boots-brews-bbq-c
+ ountry-concert-at-mel-s-funway-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felted Pet Coaster Class with Patsy Frasier
+DTSTART:20260815T130000
+DTEND:20260815T160000
+DTSTAMP:20260814T111123Z
+UID:cd2bab40de3b2bb10614fd0c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ elted-pet-coaster-class-with-patsy-frasier
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/felted-pet-coaste
+ r-class-with-patsy-frasier
 END:VEVENT
 END:VCALENDAR
