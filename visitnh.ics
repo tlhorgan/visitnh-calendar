@@ -4,92 +4,23 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Four Sticks - Sunset Concert Series
-DTSTART:20260814T063000
-DTEND:20260814T093000
-DTSTAMP:20260814T111123Z
-UID:e49801cea0d60362a61d066e@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- our-sticks-sunset-concert-series
-LOCATION:41 Observatory Way\, Intervale\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/four-sticks-sunse
- t-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JustgoXplore Overlanding Expo
-DTSTART:20260814T090000
-DTEND:20260815T180000
-DTSTAMP:20260814T111123Z
-UID:814d37fbbb12f139a4b37159@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
- ustgoxplore-overlanding-expo
-LOCATION:719 Cherry Valley Road\, Gilford\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/justgoxplore-over
- landing-expo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Medallion Music Festival
-DTSTART:20260814T160000
-DTEND:20260815T203000
-DTSTAMP:20260814T111123Z
-UID:eba55c5a234d38850ecef03c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- edallion-music-festival
-LOCATION:Town Common\, Gorham\, NH 03581\, Gorham\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/medallion-music-f
- estival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phil Hanley
-DTSTART:20260814T200000
-DTEND:20260814T213000
-DTSTAMP:20260814T111123Z
-UID:4541af2550d172518347e7e6@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- hil-hanley
-LOCATION:319 New Zealand Road \, Seabrook\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/phil-hanley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Settlers Green: Back-To-School Blitz
-DTSTART:20260814T110000
+SUMMARY:5th Annual Car Show
+DTSTART:20260815T080000
 DTEND:20260815T140000
-DTSTAMP:20260814T111123Z
-UID:db3497ebc23c3727474a8ebe@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- ettlers-green-back-to-school-blitz
-LOCATION:2 Common Court\, North Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-ba
- ck-to-school-blitz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teddy Bear Clinic
-DTSTART:20260814T090000
-DTEND:20260814T110000
-DTSTAMP:20260814T111123Z
-UID:a76d83b9e30a7f10709c5904@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- eddy-bear-clinic
-LOCATION:6 Washington Street Dover\, NH 03820\, Dover\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/teddy-bear-clinic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twilight Tour
-DTSTART:20260814T160000
-DTEND:20260814T200000
-DTSTAMP:20260814T111123Z
-UID:1a97e474b15397ed6235775d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- wilight-tour-35f7d54e35869693e4dc43bcdb695320
-LOCATION:14 Hancock Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/twilight-tour-35f
- 7d54e35869693e4dc43bcdb695320
+DTSTAMP:20260815T104305Z
+UID:db298b52b5bf22b9b8719168@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/5
+ th-annual-car-show
+LOCATION:Deerfield Fairgrounds\, 34 Stage Rd\, Deerfield\, NH 03037\, Deer
+ field\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/5th-annual-car-sh
+ ow
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening With Portland Ballet
 DTSTART:20260815T190000
 DTEND:20260815T213000
-DTSTAMP:20260814T111123Z
+DTSTAMP:20260815T104305Z
 UID:b808cbc7350a18ba77130626@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  n-evening-with-portland-ballet
@@ -101,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Boots\, Brews\, & BBQ Country Concert at Mel's Funway Park
 DTSTART:20260815T030000
 DTEND:20260815T093000
-DTSTAMP:20260814T111123Z
+DTSTAMP:20260815T104305Z
 UID:5edd848500fed03242148207@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  oots-brews-bbq-country-concert-at-mel-s-funway-park
@@ -110,15 +41,88 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/boots-brews-bbq-c
  ountry-concert-at-mel-s-funway-park
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caiola | River House Restaurant Concert Series
+DTSTART:20260815T190000
+DTEND:20260815T213000
+DTSTAMP:20260815T104305Z
+UID:2ca9080f7e504f88c84333e6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ aiola-river-house-restaurant-concert-series
+LOCATION:105 Marcy St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/caiola-river-hous
+ e-restaurant-concert-series
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Felted Pet Coaster Class with Patsy Frasier
 DTSTART:20260815T130000
 DTEND:20260815T160000
-DTSTAMP:20260814T111123Z
+DTSTAMP:20260815T104305Z
 UID:cd2bab40de3b2bb10614fd0c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  elted-pet-coaster-class-with-patsy-frasier
 LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/felted-pet-coaste
  r-class-with-patsy-frasier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kids Farm Party at Charmingfare Farm
+DTSTART:20260815T110000
+DTEND:20260815T150000
+DTSTAMP:20260815T104305Z
+UID:2b820f32ef3c8d4cd44f4751@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
+ ids-farm-party-at-charmingfare-farm-4e421735c9405d0ac10a6f2e1786221b
+LOCATION:774 High Street\, Candia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/kids-farm-party-a
+ t-charmingfare-farm-4e421735c9405d0ac10a6f2e1786221b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhinestone Cowgirls: Legendary Ladies of Country Music
+DTSTART:20260815T193000
+DTEND:20260815T203000
+DTSTAMP:20260815T104305Z
+UID:c93e45a23164ab1850d4f7a7@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ hinestone-cowgirls-legendary-ladies-of-country-music
+LOCATION:Concerts in the Clouds at Castle in the Clouds\, 483 Ossipee Park
+  Rd. Moultonborough NH\, Moultonborough\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/rhinestone-cowgir
+ ls-legendary-ladies-of-country-music
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Caterpillar Lab at Bedrock Gardens
+DTSTART:20260815T100000
+DTEND:20260816T160000
+DTSTAMP:20260815T104305Z
+UID:a43f2710115468e7165bc1ed@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-caterpillar-lab-at-bedrock-gardens-1400fe201fb0fe4188e2fb94a642c1a4
+LOCATION:19 High Road\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-caterpillar-l
+ ab-at-bedrock-gardens-1400fe201fb0fe4188e2fb94a642c1a4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Music of The Beach Boys featuring Pet Sounds LIVE
+DTSTART:20260815T193000
+DTEND:20260815T203000
+DTSTAMP:20260815T104305Z
+UID:7be31530072d42177768ff9c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-music-of-the-beach-boys-featuring-pet-sounds-live
+LOCATION:58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-music-of-the-
+ beach-boys-featuring-pet-sounds-live
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weirs Beach Fireworks
+DTSTART:20260815T213000
+DTEND:20260815T214500
+DTSTAMP:20260815T104305Z
+UID:0363876f200282c47d2db48b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ eirs-beach-fireworks-5ff9832d49d7b4d6bea8f5f599f770ba
+LOCATION:Lakeside Avenue\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/weirs-beach-firew
+ orks-5ff9832d49d7b4d6bea8f5f599f770ba
 END:VEVENT
 END:VCALENDAR
