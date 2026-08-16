@@ -4,125 +4,126 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:5th Annual Car Show
-DTSTART:20260815T080000
-DTEND:20260815T140000
-DTSTAMP:20260815T104305Z
-UID:db298b52b5bf22b9b8719168@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/5
- th-annual-car-show
-LOCATION:Deerfield Fairgrounds\, 34 Stage Rd\, Deerfield\, NH 03037\, Deer
- field\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/5th-annual-car-sh
- ow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An Evening With Portland Ballet
-DTSTART:20260815T190000
-DTEND:20260815T213000
-DTSTAMP:20260815T104305Z
-UID:b808cbc7350a18ba77130626@visitnh-calendar
+SUMMARY:Animal Encounter Series: Critter Communities
+DTSTART:20260816T100000
+DTEND:20260816T110000
+DTSTAMP:20260816T104417Z
+UID:923af533bbd2d0c03e6cc172@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- n-evening-with-portland-ballet
-LOCATION:319 Vaughan Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/an-evening-with-p
- ortland-ballet
+ nimal-encounter-series-critter-communities-c7f11be5c5ca6f5b0a10786ff10efcd
+ 0
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
+ series-critter-communities-c7f11be5c5ca6f5b0a10786ff10efcd0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boots\, Brews\, & BBQ Country Concert at Mel's Funway Park
-DTSTART:20260815T030000
-DTEND:20260815T093000
-DTSTAMP:20260815T104305Z
-UID:5edd848500fed03242148207@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
- oots-brews-bbq-country-concert-at-mel-s-funway-park
-LOCATION:454 Charles Bancroft Highway\, Litchfield\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/boots-brews-bbq-c
- ountry-concert-at-mel-s-funway-park
+SUMMARY:Mount Washington Valley August Craft Fair
+DTSTART:20260816T100000
+DTEND:20260816T110000
+DTSTAMP:20260816T104417Z
+UID:37f3a88a44fc991d74c3463f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ount-washington-valley-august-craft-fair-75cf1970375833310bf0c3dc08d0810e
+LOCATION:1 Norcross Circle\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/mount-washington-
+ valley-august-craft-fair-75cf1970375833310bf0c3dc08d0810e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Caiola | River House Restaurant Concert Series
-DTSTART:20260815T190000
-DTEND:20260815T213000
-DTSTAMP:20260815T104305Z
-UID:2ca9080f7e504f88c84333e6@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
- aiola-river-house-restaurant-concert-series
-LOCATION:105 Marcy St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/caiola-river-hous
- e-restaurant-concert-series
+SUMMARY:Story Songs of the 70s: The Music of Gordon Lightfoot\, Cat Steven
+ s and Harry Chapin
+DTSTART:20260816T193000
+DTEND:20260816T210000
+DTSTAMP:20260816T104417Z
+UID:b07a0da0eeaeefc6420eda33@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ tory-songs-of-the-70s-the-music-of-gordon-lightfoot-cat-stevens-and-harry-
+ chapin
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/story-songs-of-th
+ e-70s-the-music-of-gordon-lightfoot-cat-stevens-and-harry-chapin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felted Pet Coaster Class with Patsy Frasier
-DTSTART:20260815T130000
-DTEND:20260815T160000
-DTSTAMP:20260815T104305Z
-UID:cd2bab40de3b2bb10614fd0c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- elted-pet-coaster-class-with-patsy-frasier
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/felted-pet-coaste
- r-class-with-patsy-frasier
+SUMMARY:Tomato Festival 2026
+DTSTART:20260816T130000
+DTEND:20260816T180000
+DTSTAMP:20260816T104417Z
+UID:bbbfeb473d7c05792f55043d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ omato-festival-2026
+LOCATION:290 Main Avenue\, South Hampton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/tomato-festival-2
+ 026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kids Farm Party at Charmingfare Farm
-DTSTART:20260815T110000
-DTEND:20260815T150000
-DTSTAMP:20260815T104305Z
-UID:2b820f32ef3c8d4cd44f4751@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
- ids-farm-party-at-charmingfare-farm-4e421735c9405d0ac10a6f2e1786221b
-LOCATION:774 High Street\, Candia\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/kids-farm-party-a
- t-charmingfare-farm-4e421735c9405d0ac10a6f2e1786221b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rhinestone Cowgirls: Legendary Ladies of Country Music
-DTSTART:20260815T193000
-DTEND:20260815T203000
-DTSTAMP:20260815T104305Z
-UID:c93e45a23164ab1850d4f7a7@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
- hinestone-cowgirls-legendary-ladies-of-country-music
-LOCATION:Concerts in the Clouds at Castle in the Clouds\, 483 Ossipee Park
-  Rd. Moultonborough NH\, Moultonborough\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/rhinestone-cowgir
- ls-legendary-ladies-of-country-music
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Caterpillar Lab at Bedrock Gardens
-DTSTART:20260815T100000
+SUMMARY:YART Sale
+DTSTART:20260816T120000
 DTEND:20260816T160000
-DTSTAMP:20260815T104305Z
-UID:a43f2710115468e7165bc1ed@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-caterpillar-lab-at-bedrock-gardens-1400fe201fb0fe4188e2fb94a642c1a4
-LOCATION:19 High Road\, Lee\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-caterpillar-l
- ab-at-bedrock-gardens-1400fe201fb0fe4188e2fb94a642c1a4
+DTSTAMP:20260816T104417Z
+UID:4678f4c7d5c0a8514543dab2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
+ art-sale
+LOCATION:319 Vaughan Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/yart-sale
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Music of The Beach Boys featuring Pet Sounds LIVE
-DTSTART:20260815T193000
-DTEND:20260815T203000
-DTSTAMP:20260815T104305Z
-UID:7be31530072d42177768ff9c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-music-of-the-beach-boys-featuring-pet-sounds-live
-LOCATION:58 Opera House Square\, Claremont\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-music-of-the-
- beach-boys-featuring-pet-sounds-live
+SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
+DTSTART:20260816T080000
+DTEND:20260816T090000
+DTSTAMP:20260816T104417Z
+UID:5f64e2495dc4aec4268e082c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
+ oga-in-the-woods-at-lost-river-gorge-boulder-caves-e6a666039728a2ce8df7180
+ b0f45c49e
+LOCATION:1712 Lost River Road\, Woodstock\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
+ -at-lost-river-gorge-boulder-caves-e6a666039728a2ce8df7180b0f45c49e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weirs Beach Fireworks
-DTSTART:20260815T213000
-DTEND:20260815T214500
-DTSTAMP:20260815T104305Z
-UID:0363876f200282c47d2db48b@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
- eirs-beach-fireworks-5ff9832d49d7b4d6bea8f5f599f770ba
-LOCATION:Lakeside Avenue\, Laconia\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/weirs-beach-firew
- orks-5ff9832d49d7b4d6bea8f5f599f770ba
+SUMMARY:3rd Monday Song and Jam Circle
+DTSTART:20260817T183000
+DTEND:20260817T200000
+DTSTAMP:20260816T104417Z
+UID:25ba4c93e1b266c0d240e43a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/3
+ rd-monday-song-and-jam-circle
+LOCATION:Runnells Hall\, 25 Deer Hill Road\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/3rd-monday-song-a
+ nd-jam-circle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Local Artist Series: The Dan Fallon Band
+DTSTART:20260817T190000
+DTEND:20260817T200000
+DTSTAMP:20260816T104417Z
+UID:44cb4ac666296a0c4c6d0b7b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ ocal-artist-series-the-dan-fallon-band
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/local-artist-seri
+ es-the-dan-fallon-band
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newfound Nature Series | Microplastics in New England Lakes
+DTSTART:20260818T190000
+DTEND:20260818T201500
+DTSTAMP:20260816T104417Z
+UID:4da96eae81cc0200103bfcd6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ ewfound-nature-series-microplastics-in-new-england-lakes
+LOCATION:178 North Shore Rd\, Hebron\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/newfound-nature-s
+ eries-microplastics-in-new-england-lakes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North River Music—Tuesdays on the Terrace Summer Concert Series
+DTSTART:20260818T180000
+DTEND:20260818T193000
+DTSTAMP:20260816T104417Z
+UID:1f3aa30dfd6b86b4734c5e4d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ orth-river-music-tuesdays-on-the-terrace-summer-concert-series
+LOCATION:14 Hancock St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/north-river-music
+ -tuesdays-on-the-terrace-summer-concert-series
 END:VEVENT
 END:VCALENDAR
