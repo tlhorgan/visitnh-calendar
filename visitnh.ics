@@ -4,85 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Animal Encounter Series: Critter Communities
-DTSTART:20260816T100000
-DTEND:20260816T110000
-DTSTAMP:20260816T104417Z
-UID:923af533bbd2d0c03e6cc172@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- nimal-encounter-series-critter-communities-c7f11be5c5ca6f5b0a10786ff10efcd
- 0
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
- series-critter-communities-c7f11be5c5ca6f5b0a10786ff10efcd0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mount Washington Valley August Craft Fair
-DTSTART:20260816T100000
-DTEND:20260816T110000
-DTSTAMP:20260816T104417Z
-UID:37f3a88a44fc991d74c3463f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- ount-washington-valley-august-craft-fair-75cf1970375833310bf0c3dc08d0810e
-LOCATION:1 Norcross Circle\, North Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/mount-washington-
- valley-august-craft-fair-75cf1970375833310bf0c3dc08d0810e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Story Songs of the 70s: The Music of Gordon Lightfoot\, Cat Steven
- s and Harry Chapin
-DTSTART:20260816T193000
-DTEND:20260816T210000
-DTSTAMP:20260816T104417Z
-UID:b07a0da0eeaeefc6420eda33@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- tory-songs-of-the-70s-the-music-of-gordon-lightfoot-cat-stevens-and-harry-
- chapin
-LOCATION:36 Main Street\, Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/story-songs-of-th
- e-70s-the-music-of-gordon-lightfoot-cat-stevens-and-harry-chapin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tomato Festival 2026
-DTSTART:20260816T130000
-DTEND:20260816T180000
-DTSTAMP:20260816T104417Z
-UID:bbbfeb473d7c05792f55043d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- omato-festival-2026
-LOCATION:290 Main Avenue\, South Hampton\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/tomato-festival-2
- 026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:YART Sale
-DTSTART:20260816T120000
-DTEND:20260816T160000
-DTSTAMP:20260816T104417Z
-UID:4678f4c7d5c0a8514543dab2@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
- art-sale
-LOCATION:319 Vaughan Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/yart-sale
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
-DTSTART:20260816T080000
-DTEND:20260816T090000
-DTSTAMP:20260816T104417Z
-UID:5f64e2495dc4aec4268e082c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
- oga-in-the-woods-at-lost-river-gorge-boulder-caves-e6a666039728a2ce8df7180
- b0f45c49e
-LOCATION:1712 Lost River Road\, Woodstock\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
- -at-lost-river-gorge-boulder-caves-e6a666039728a2ce8df7180b0f45c49e
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3rd Monday Song and Jam Circle
 DTSTART:20260817T183000
 DTEND:20260817T200000
-DTSTAMP:20260816T104417Z
+DTSTAMP:20260817T105047Z
 UID:25ba4c93e1b266c0d240e43a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/3
  rd-monday-song-and-jam-circle
@@ -94,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Local Artist Series: The Dan Fallon Band
 DTSTART:20260817T190000
 DTEND:20260817T200000
-DTSTAMP:20260816T104417Z
+DTSTAMP:20260817T105047Z
 UID:44cb4ac666296a0c4c6d0b7b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ocal-artist-series-the-dan-fallon-band
@@ -106,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Newfound Nature Series | Microplastics in New England Lakes
 DTSTART:20260818T190000
 DTEND:20260818T201500
-DTSTAMP:20260816T104417Z
+DTSTAMP:20260817T105047Z
 UID:4da96eae81cc0200103bfcd6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  ewfound-nature-series-microplastics-in-new-england-lakes
@@ -118,12 +43,86 @@ BEGIN:VEVENT
 SUMMARY:North River Music—Tuesdays on the Terrace Summer Concert Series
 DTSTART:20260818T180000
 DTEND:20260818T193000
-DTSTAMP:20260816T104417Z
+DTSTAMP:20260817T105047Z
 UID:1f3aa30dfd6b86b4734c5e4d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  orth-river-music-tuesdays-on-the-terrace-summer-concert-series
 LOCATION:14 Hancock St\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/north-river-music
  -tuesdays-on-the-terrace-summer-concert-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summertime Karaoke: Round 3
+DTSTART:20260818T190000
+DTEND:20260818T220000
+DTSTAMP:20260817T105047Z
+UID:849271a09347591a693d1188@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ummertime-karaoke-round-3
+LOCATION:32 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/summertime-karaok
+ e-round-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hulls and Hops Lecture Series - The Long History of Canoes in New 
+ England
+DTSTART:20260819T183000
+DTEND:20260819T200000
+DTSTAMP:20260817T105047Z
+UID:c73b314ad9ee3930bf7433a3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ ulls-and-hops-lecture-series-the-long-history-of-canoes-in-new-england
+LOCATION:130 Whittier Highway (rte 25)\, Moultonborough\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/hulls-and-hops-le
+ cture-series-the-long-history-of-canoes-in-new-england
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madi Diaz | River House Restaurant Concert Series
+DTSTART:20260819T190000
+DTEND:20260819T213000
+DTSTAMP:20260817T105047Z
+UID:9a96f8f8260092913278820d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ adi-diaz-river-house-restaurant-concert-series
+LOCATION:105 Marcy St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/madi-diaz-river-h
+ ouse-restaurant-concert-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathias Lattin & Dylan Triplett
+DTSTART:20260819T193000
+DTEND:20260819T203000
+DTSTAMP:20260817T105047Z
+UID:adb8125a777cc60b36fac5e5@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ athias-lattin-dylan-triplett
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/mathias-lattin-dy
+ lan-triplett
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elvin Bishop Big Fun Trio
+DTSTART:20260820T193000
+DTEND:20260820T203000
+DTSTAMP:20260817T105047Z
+UID:83b803ce9a12338bce62ca10@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ lvin-bishop-big-fun-trio
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/elvin-bishop-big-
+ fun-trio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentlemen's Quartet with acclaimed singer Erin Shields
+DTSTART:20260820T193000
+DTEND:20260820T203000
+DTSTAMP:20260817T105047Z
+UID:531e143e3c2dc67470829975@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ entlemen-s-quartet-with-acclaimed-singer-erin-shields
+LOCATION:Concerts in Town at Brewster Academy’s Anderson Hall (205 S Mai
+ n St\, Wolfeboro\, NH 03894)\, Wolfeboro\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/gentlemen-s-quart
+ et-with-acclaimed-singer-erin-shields
 END:VEVENT
 END:VCALENDAR
