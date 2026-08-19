@@ -4,47 +4,11 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Newfound Nature Series | Microplastics in New England Lakes
-DTSTART:20260818T190000
-DTEND:20260818T201500
-DTSTAMP:20260818T105016Z
-UID:4da96eae81cc0200103bfcd6@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
- ewfound-nature-series-microplastics-in-new-england-lakes
-LOCATION:178 North Shore Rd\, Hebron\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/newfound-nature-s
- eries-microplastics-in-new-england-lakes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:North River Music—Tuesdays on the Terrace Summer Concert Series
-DTSTART:20260818T180000
-DTEND:20260818T193000
-DTSTAMP:20260818T105016Z
-UID:1f3aa30dfd6b86b4734c5e4d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
- orth-river-music-tuesdays-on-the-terrace-summer-concert-series
-LOCATION:14 Hancock St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/north-river-music
- -tuesdays-on-the-terrace-summer-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summertime Karaoke: Round 3
-DTSTART:20260818T190000
-DTEND:20260818T220000
-DTSTAMP:20260818T105016Z
-UID:849271a09347591a693d1188@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- ummertime-karaoke-round-3
-LOCATION:32 Main Street\, Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/summertime-karaok
- e-round-3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hulls and Hops Lecture Series - The Long History of Canoes in New 
  England
 DTSTART:20260819T183000
 DTEND:20260819T200000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:c73b314ad9ee3930bf7433a3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  ulls-and-hops-lecture-series-the-long-history-of-canoes-in-new-england
@@ -56,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Madi Diaz | River House Restaurant Concert Series
 DTSTART:20260819T190000
 DTEND:20260819T213000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:9a96f8f8260092913278820d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  adi-diaz-river-house-restaurant-concert-series
@@ -68,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Mathias Lattin & Dylan Triplett
 DTSTART:20260819T193000
 DTEND:20260819T203000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:adb8125a777cc60b36fac5e5@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  athias-lattin-dylan-triplett
@@ -80,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Becoming Nature Positive Film Screening
 DTSTART:20260820T190000
 DTEND:20260820T210000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:a419a8175a89b5320fb7f88f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ecoming-nature-positive-film-screening
@@ -93,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Dirk Quinn Band
 DTSTART:20260820T180000
 DTEND:20260820T210000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:38b384f027687314eb466a81@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  irk-quinn-band
@@ -104,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Elvin Bishop Big Fun Trio
 DTSTART:20260820T193000
 DTEND:20260820T203000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:83b803ce9a12338bce62ca10@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
  lvin-bishop-big-fun-trio
@@ -116,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlemen's Quartet with acclaimed singer Erin Shields
 DTSTART:20260820T193000
 DTEND:20260820T203000
-DTSTAMP:20260818T105016Z
+DTSTAMP:20260819T110009Z
 UID:531e143e3c2dc67470829975@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  entlemen-s-quartet-with-acclaimed-singer-erin-shields
@@ -124,5 +88,44 @@ LOCATION:Concerts in Town at Brewster Academy’s Anderson Hall (205 S Mai
  n St\, Wolfeboro\, NH 03894)\, Wolfeboro\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/gentlemen-s-quart
  et-with-acclaimed-singer-erin-shields
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantastic Cat | River House Restaurant Concert Series
+DTSTART:20260821T190000
+DTEND:20260821T213000
+DTSTAMP:20260819T110009Z
+UID:330f635e6b68f3b6a397b0c1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ antastic-cat-river-house-restaurant-concert-series
+LOCATION:105 Marcy St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/fantastic-cat-riv
+ er-house-restaurant-concert-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
+ oulder Caves
+DTSTART:20260821T103000
+DTEND:20260821T113000
+DTSTAMP:20260819T110009Z
+UID:c5d9276597ce437a19a54147@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
+ s-59099bb258addc0b9c323862a9dc00d9
+LOCATION:1712 Lost River Road\, Woodstock\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/live-animal-prese
+ ntation-with-a-naturalist-at-lost-river-gorge-boulder-caves-59099bb258addc
+ 0b9c323862a9dc00d9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movies at the Majestic: Summer of Soul
+DTSTART:20260821T190000
+DTEND:20260821T210000
+DTSTAMP:20260819T110009Z
+UID:1eb8213963da59930d804fe9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ovies-at-the-majestic-summer-of-soul
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/movies-at-the-maj
+ estic-summer-of-soul
 END:VEVENT
 END:VCALENDAR
