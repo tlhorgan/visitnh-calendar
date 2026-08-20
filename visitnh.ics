@@ -4,47 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Hulls and Hops Lecture Series - The Long History of Canoes in New 
- England
-DTSTART:20260819T183000
-DTEND:20260819T200000
-DTSTAMP:20260819T110009Z
-UID:c73b314ad9ee3930bf7433a3@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
- ulls-and-hops-lecture-series-the-long-history-of-canoes-in-new-england
-LOCATION:130 Whittier Highway (rte 25)\, Moultonborough\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/hulls-and-hops-le
- cture-series-the-long-history-of-canoes-in-new-england
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madi Diaz | River House Restaurant Concert Series
-DTSTART:20260819T190000
-DTEND:20260819T213000
-DTSTAMP:20260819T110009Z
-UID:9a96f8f8260092913278820d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- adi-diaz-river-house-restaurant-concert-series
-LOCATION:105 Marcy St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/madi-diaz-river-h
- ouse-restaurant-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathias Lattin & Dylan Triplett
-DTSTART:20260819T193000
-DTEND:20260819T203000
-DTSTAMP:20260819T110009Z
-UID:adb8125a777cc60b36fac5e5@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- athias-lattin-dylan-triplett
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/mathias-lattin-dy
- lan-triplett
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Becoming Nature Positive Film Screening
 DTSTART:20260820T190000
 DTEND:20260820T210000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:a419a8175a89b5320fb7f88f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ecoming-nature-positive-film-screening
@@ -57,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Dirk Quinn Band
 DTSTART:20260820T180000
 DTEND:20260820T210000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:38b384f027687314eb466a81@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  irk-quinn-band
@@ -68,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Elvin Bishop Big Fun Trio
 DTSTART:20260820T193000
 DTEND:20260820T203000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:83b803ce9a12338bce62ca10@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
  lvin-bishop-big-fun-trio
@@ -80,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlemen's Quartet with acclaimed singer Erin Shields
 DTSTART:20260820T193000
 DTEND:20260820T203000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:531e143e3c2dc67470829975@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  entlemen-s-quartet-with-acclaimed-singer-erin-shields
@@ -90,10 +53,22 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/gentlemen-s-quart
  et-with-acclaimed-singer-erin-shields
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Comedian Robby Slowik at The Moka Pot
+DTSTART:20260821T183000
+DTEND:20260821T233000
+DTSTAMP:20260820T105045Z
+UID:46ee7ef573bf9894904db41a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ omedian-robby-slowik-at-the-moka-pot
+LOCATION:8 Hanover St\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/comedian-robby-sl
+ owik-at-the-moka-pot
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fantastic Cat | River House Restaurant Concert Series
 DTSTART:20260821T190000
 DTEND:20260821T213000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:330f635e6b68f3b6a397b0c1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  antastic-cat-river-house-restaurant-concert-series
@@ -102,11 +77,35 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/fantastic-cat-riv
  er-house-restaurant-concert-series
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:From Loyalist to Liberty
+DTSTART:20260821T143000
+DTEND:20260821T160000
+DTSTAMP:20260820T105045Z
+UID:f38e63a7f7ac5d86fd5f22ca@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ rom-loyalist-to-liberty-4f3f84adff9cde008c7a4b0615624539
+LOCATION:10 Middle St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
+ liberty-4f3f84adff9cde008c7a4b0615624539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladies of the 80s - Sunset Concert Series
+DTSTART:20260821T063000
+DTEND:20260821T093000
+DTSTAMP:20260820T105045Z
+UID:80609091790a2a1c361a6e40@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ adies-of-the-80s-sunset-concert-series
+LOCATION:41 Observatory Way\, Intervale\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ladies-of-the-80s
+ -sunset-concert-series
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
  oulder Caves
 DTSTART:20260821T103000
 DTEND:20260821T113000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:c5d9276597ce437a19a54147@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
@@ -120,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Movies at the Majestic: Summer of Soul
 DTSTART:20260821T190000
 DTEND:20260821T210000
-DTSTAMP:20260819T110009Z
+DTSTAMP:20260820T105045Z
 UID:1eb8213963da59930d804fe9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  ovies-at-the-majestic-summer-of-soul
