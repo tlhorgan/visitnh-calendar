@@ -4,59 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Becoming Nature Positive Film Screening
-DTSTART:20260820T190000
-DTEND:20260820T210000
-DTSTAMP:20260820T105045Z
-UID:a419a8175a89b5320fb7f88f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
- ecoming-nature-positive-film-screening
-LOCATION:Nashua Community College room 150\, 505 Amherst St. Nashua NH \, 
- Nashua\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/becoming-nature-p
- ositive-film-screening
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dirk Quinn Band
-DTSTART:20260820T180000
-DTEND:20260820T210000
-DTSTAMP:20260820T105045Z
-UID:38b384f027687314eb466a81@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
- irk-quinn-band
-LOCATION:72 Main St\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/dirk-quinn-band
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elvin Bishop Big Fun Trio
-DTSTART:20260820T193000
-DTEND:20260820T203000
-DTSTAMP:20260820T105045Z
-UID:83b803ce9a12338bce62ca10@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
- lvin-bishop-big-fun-trio
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/elvin-bishop-big-
- fun-trio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gentlemen's Quartet with acclaimed singer Erin Shields
-DTSTART:20260820T193000
-DTEND:20260820T203000
-DTSTAMP:20260820T105045Z
-UID:531e143e3c2dc67470829975@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
- entlemen-s-quartet-with-acclaimed-singer-erin-shields
-LOCATION:Concerts in Town at Brewster Academy’s Anderson Hall (205 S Mai
- n St\, Wolfeboro\, NH 03894)\, Wolfeboro\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/gentlemen-s-quart
- et-with-acclaimed-singer-erin-shields
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comedian Robby Slowik at The Moka Pot
 DTSTART:20260821T183000
 DTEND:20260821T233000
-DTSTAMP:20260820T105045Z
+DTSTAMP:20260821T105132Z
 UID:46ee7ef573bf9894904db41a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  omedian-robby-slowik-at-the-moka-pot
@@ -68,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Fantastic Cat | River House Restaurant Concert Series
 DTSTART:20260821T190000
 DTEND:20260821T213000
-DTSTAMP:20260820T105045Z
+DTSTAMP:20260821T105132Z
 UID:330f635e6b68f3b6a397b0c1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  antastic-cat-river-house-restaurant-concert-series
@@ -80,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:From Loyalist to Liberty
 DTSTART:20260821T143000
 DTEND:20260821T160000
-DTSTAMP:20260820T105045Z
+DTSTAMP:20260821T105132Z
 UID:f38e63a7f7ac5d86fd5f22ca@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  rom-loyalist-to-liberty-4f3f84adff9cde008c7a4b0615624539
@@ -92,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Ladies of the 80s - Sunset Concert Series
 DTSTART:20260821T063000
 DTEND:20260821T093000
-DTSTAMP:20260820T105045Z
+DTSTAMP:20260821T105132Z
 UID:80609091790a2a1c361a6e40@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  adies-of-the-80s-sunset-concert-series
@@ -105,7 +56,7 @@ SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
  oulder Caves
 DTSTART:20260821T103000
 DTEND:20260821T113000
-DTSTAMP:20260820T105045Z
+DTSTAMP:20260821T105132Z
 UID:c5d9276597ce437a19a54147@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
@@ -119,12 +70,62 @@ BEGIN:VEVENT
 SUMMARY:Movies at the Majestic: Summer of Soul
 DTSTART:20260821T190000
 DTEND:20260821T210000
-DTSTAMP:20260820T105045Z
+DTSTAMP:20260821T105132Z
 UID:1eb8213963da59930d804fe9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  ovies-at-the-majestic-summer-of-soul
 LOCATION:36 Main Street\, Conway\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/movies-at-the-maj
  estic-summer-of-soul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:43rd Annual Seacoast Jazz Festival at Prescott Park
+DTSTART:20260822T120000
+DTEND:20260822T180000
+DTSTAMP:20260821T105132Z
+UID:1f3426a9234e9608ca13539f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/4
+ 3rd-annual-seacoast-jazz-festival-at-prescott-park
+LOCATION:Prescott Park\, 105 Marcy St\, Portsmouth\, NH\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/43rd-annual-seaco
+ ast-jazz-festival-at-prescott-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NH Irish Festival
+DTSTART:20260822T110000
+DTEND:20260822T160000
+DTSTAMP:20260821T105132Z
+UID:1b3a8bbdbd280fd676a65ed0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ h-irish-festival
+LOCATION:Bank of NH Stage\, 16 S Main St\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/nh-irish-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth Jazz Weekend 2026: Ed Saindon Quartet - A Special Tribu
+ te to Les Harris\, Jr.
+DTSTART:20260822T180000
+DTEND:20260822T200000
+DTSTAMP:20260821T105132Z
+UID:97fd6afd827a79f2d03c217e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ ortsmouth-jazz-weekend-2026-ed-saindon-quartet-a-special-tribute-to-les-ha
+ rris-jr
+LOCATION:77 Daniel St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/portsmouth-jazz-w
+ eekend-2026-ed-saindon-quartet-a-special-tribute-to-les-harris-jr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ring with a Bezel Set Stone Class with Joy Raskin
+DTSTART:20260822T103000
+DTEND:20260822T163000
+DTSTAMP:20260821T105132Z
+UID:b26a94d1c846f08b5bf1817e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ ing-with-a-bezel-set-stone-class-with-joy-raskin-8b7788b2480e648f8e9b5f275
+ a53d5f2
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ring-with-a-bezel
+ -set-stone-class-with-joy-raskin-8b7788b2480e648f8e9b5f275a53d5f2
 END:VEVENT
 END:VCALENDAR
