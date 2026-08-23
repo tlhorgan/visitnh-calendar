@@ -4,84 +4,23 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:43rd Annual Seacoast Jazz Festival at Prescott Park
-DTSTART:20260822T120000
-DTEND:20260822T180000
-DTSTAMP:20260822T104351Z
-UID:1f3426a9234e9608ca13539f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/4
- 3rd-annual-seacoast-jazz-festival-at-prescott-park
-LOCATION:Prescott Park\, 105 Marcy St\, Portsmouth\, NH\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/43rd-annual-seaco
- ast-jazz-festival-at-prescott-park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NH Irish Festival
-DTSTART:20260822T110000
-DTEND:20260822T160000
-DTSTAMP:20260822T104351Z
-UID:1b3a8bbdbd280fd676a65ed0@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
- h-irish-festival
-LOCATION:Bank of NH Stage\, 16 S Main St\, Concord\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/nh-irish-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth Jazz Weekend 2026: Ed Saindon Quartet - A Special Tribu
- te to Les Harris\, Jr.
-DTSTART:20260822T180000
-DTEND:20260822T200000
-DTSTAMP:20260822T104351Z
-UID:97fd6afd827a79f2d03c217e@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- ortsmouth-jazz-weekend-2026-ed-saindon-quartet-a-special-tribute-to-les-ha
- rris-jr
-LOCATION:77 Daniel St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/portsmouth-jazz-w
- eekend-2026-ed-saindon-quartet-a-special-tribute-to-les-harris-jr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ring with a Bezel Set Stone Class with Joy Raskin
-DTSTART:20260822T103000
-DTEND:20260822T163000
-DTSTAMP:20260822T104351Z
-UID:b26a94d1c846f08b5bf1817e@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
- ing-with-a-bezel-set-stone-class-with-joy-raskin-8b7788b2480e648f8e9b5f275
- a53d5f2
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/ring-with-a-bezel
- -set-stone-class-with-joy-raskin-8b7788b2480e648f8e9b5f275a53d5f2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Run The Mountain Series - Switchback and Bark & Burn Canicross
-DTSTART:20260822T090000
-DTEND:20260822T120000
-DTSTAMP:20260822T104351Z
-UID:f6a6d73d237a78ac3a6d2746@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
- un-the-mountain-series-switchback-and-bark-burn-canicross
-LOCATION:719 Cherry Valley Road\, Gilford\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/run-the-mountain-
- series-switchback-and-bark-burn-canicross
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wheels & Waves – Classic Car & Boat Day
-DTSTART:20260822T110000
-DTEND:20260822T150000
-DTSTAMP:20260822T104351Z
-UID:18c9a6648ff74fbf830fee0a@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
- heels-waves-classic-car-boat-day
-LOCATION:130 Whittier Highway (rte 25)\, Moultonborough\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/wheels-waves-clas
- sic-car-boat-day
+SUMMARY:Animal Encounter Series: Animals With Bad Reputations
+DTSTART:20260823T100000
+DTEND:20260823T110000
+DTSTAMP:20260823T104439Z
+UID:ff81ad00e2252e1809fecba8@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ nimal-encounter-series-animals-with-bad-reputations-cfb004d3efb570df2dabf5
+ e1b6ab21fd
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
+ series-animals-with-bad-reputations-cfb004d3efb570df2dabf5e1b6ab21fd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Granite State Choral Society Fall 2026 Rehearsals
 DTSTART:20260823T160000
 DTEND:20260823T183000
-DTSTAMP:20260822T104351Z
+DTSTAMP:20260823T104439Z
 UID:d774f86dee08014e24bffe53@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  ranite-state-choral-society-fall-2026-rehearsals
@@ -93,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry & Pie
 DTSTART:20260823T130000
 DTEND:20260823T150000
-DTSTAMP:20260822T104351Z
+DTSTAMP:20260823T104439Z
 UID:bb59cf2d329499decd6789d3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  oetry-pie
@@ -105,7 +44,7 @@ SUMMARY:Portsmouth Jazz Weekend 2026: ANICK - KLAXTON - EFFENBERGER - CONN
  ORS at The Press Room
 DTSTART:20260823T183000
 DTEND:20260823T203000
-DTSTAMP:20260822T104351Z
+DTSTAMP:20260823T104439Z
 UID:b7cdb9359eb5dca50110d35b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  ortsmouth-jazz-weekend-2026-anick-klaxton-effenberger-connors-at-the-press
@@ -119,7 +58,7 @@ SUMMARY:Portsmouth Jazz Weekend 2026: Artie Bakopolus Quintet Jazz Brunch
  at The Press Room
 DTSTART:20260823T110000
 DTEND:20260823T130000
-DTSTAMP:20260822T104351Z
+DTSTAMP:20260823T104439Z
 UID:0c12c140a162a38da00045c5@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  ortsmouth-jazz-weekend-2026-artie-bakopolus-quintet-jazz-brunch-at-the-pre
@@ -127,5 +66,65 @@ DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
 LOCATION:77 Daniel St\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/portsmouth-jazz-w
  eekend-2026-artie-bakopolus-quintet-jazz-brunch-at-the-press-room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Pressed Flowers and Dried Botanicals
+DTSTART:20260823T130000
+DTEND:20260823T143000
+DTSTAMP:20260823T104439Z
+UID:0e71fb00d52a25168123a9f2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-art-of-pressed-flowers-and-dried-botanicals
+LOCATION:26 Audubon Way\, Auburn\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-art-of-presse
+ d-flowers-and-dried-botanicals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
+DTSTART:20260823T080000
+DTEND:20260823T090000
+DTSTAMP:20260823T104439Z
+UID:fb21ea6bbc3122464260c5e9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
+ oga-in-the-woods-at-lost-river-gorge-boulder-caves-b60a5c999abeecc64056e71
+ a6a15ea3c
+LOCATION:1712 Lost River Road\, Woodstock\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
+ -at-lost-river-gorge-boulder-caves-b60a5c999abeecc64056e71a6a15ea3c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misty Blues Band
+DTSTART:20260824T190000
+DTEND:20260824T203000
+DTSTAMP:20260823T104439Z
+UID:b8354052458b7b9aa5e9dd0b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ isty-blues-band
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/misty-blues-band
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAWS ON THE GREEN: PMSPCA Golf Tournament
+DTSTART:20260824T090000
+DTEND:20260824T133000
+DTSTAMP:20260823T104439Z
+UID:3b73969542aa098881e3e936@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ aws-on-the-green-pmspca-golf-tournament
+LOCATION:Concord Country Club\, 22 Country Club Lane\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/paws-on-the-green
+ -pmspca-golf-tournament
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peace & Justice Conversation: Peace Philosophy in a Nuclear Age
+DTSTART:20260824T190000
+DTEND:20260824T200000
+DTSTAMP:20260823T104439Z
+UID:5a2e9486d61b7a17f58ec5b3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ eace-justice-conversation-peace-philosophy-in-a-nuclear-age
+LOCATION:Zoom\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/peace-justice-con
+ versation-peace-philosophy-in-a-nuclear-age
 END:VEVENT
 END:VCALENDAR
