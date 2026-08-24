@@ -4,99 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Animal Encounter Series: Animals With Bad Reputations
-DTSTART:20260823T100000
-DTEND:20260823T110000
-DTSTAMP:20260823T104439Z
-UID:ff81ad00e2252e1809fecba8@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- nimal-encounter-series-animals-with-bad-reputations-cfb004d3efb570df2dabf5
- e1b6ab21fd
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
- series-animals-with-bad-reputations-cfb004d3efb570df2dabf5e1b6ab21fd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Granite State Choral Society Fall 2026 Rehearsals
-DTSTART:20260823T160000
-DTEND:20260823T183000
-DTSTAMP:20260823T104439Z
-UID:d774f86dee08014e24bffe53@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
- ranite-state-choral-society-fall-2026-rehearsals
-LOCATION:63 South Main Street\, Rochester\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/granite-state-cho
- ral-society-fall-2026-rehearsals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetry & Pie
-DTSTART:20260823T130000
-DTEND:20260823T150000
-DTSTAMP:20260823T104439Z
-UID:bb59cf2d329499decd6789d3@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- oetry-pie
-LOCATION:266 N Main St\, Concord\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/poetry-pie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth Jazz Weekend 2026: ANICK - KLAXTON - EFFENBERGER - CONN
- ORS at The Press Room
-DTSTART:20260823T183000
-DTEND:20260823T203000
-DTSTAMP:20260823T104439Z
-UID:b7cdb9359eb5dca50110d35b@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- ortsmouth-jazz-weekend-2026-anick-klaxton-effenberger-connors-at-the-press
- -room
-LOCATION:77 Daniel St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/portsmouth-jazz-w
- eekend-2026-anick-klaxton-effenberger-connors-at-the-press-room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth Jazz Weekend 2026: Artie Bakopolus Quintet Jazz Brunch 
- at The Press Room
-DTSTART:20260823T110000
-DTEND:20260823T130000
-DTSTAMP:20260823T104439Z
-UID:0c12c140a162a38da00045c5@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- ortsmouth-jazz-weekend-2026-artie-bakopolus-quintet-jazz-brunch-at-the-pre
- ss-room
-LOCATION:77 Daniel St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/portsmouth-jazz-w
- eekend-2026-artie-bakopolus-quintet-jazz-brunch-at-the-press-room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Art of Pressed Flowers and Dried Botanicals
-DTSTART:20260823T130000
-DTEND:20260823T143000
-DTSTAMP:20260823T104439Z
-UID:0e71fb00d52a25168123a9f2@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-art-of-pressed-flowers-and-dried-botanicals
-LOCATION:26 Audubon Way\, Auburn\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-art-of-presse
- d-flowers-and-dried-botanicals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
-DTSTART:20260823T080000
-DTEND:20260823T090000
-DTSTAMP:20260823T104439Z
-UID:fb21ea6bbc3122464260c5e9@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
- oga-in-the-woods-at-lost-river-gorge-boulder-caves-b60a5c999abeecc64056e71
- a6a15ea3c
-LOCATION:1712 Lost River Road\, Woodstock\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
- -at-lost-river-gorge-boulder-caves-b60a5c999abeecc64056e71a6a15ea3c
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Misty Blues Band
 DTSTART:20260824T190000
 DTEND:20260824T203000
-DTSTAMP:20260823T104439Z
+DTSTAMP:20260824T105742Z
 UID:b8354052458b7b9aa5e9dd0b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  isty-blues-band
@@ -107,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:PAWS ON THE GREEN: PMSPCA Golf Tournament
 DTSTART:20260824T090000
 DTEND:20260824T133000
-DTSTAMP:20260823T104439Z
+DTSTAMP:20260824T105742Z
 UID:3b73969542aa098881e3e936@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  aws-on-the-green-pmspca-golf-tournament
@@ -119,12 +30,97 @@ BEGIN:VEVENT
 SUMMARY:Peace & Justice Conversation: Peace Philosophy in a Nuclear Age
 DTSTART:20260824T190000
 DTEND:20260824T200000
-DTSTAMP:20260823T104439Z
+DTSTAMP:20260824T105742Z
 UID:5a2e9486d61b7a17f58ec5b3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  eace-justice-conversation-peace-philosophy-in-a-nuclear-age
 LOCATION:Zoom\, Concord\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/peace-justice-con
  versation-peace-philosophy-in-a-nuclear-age
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ethan Robbins of Cold Chocolate-Tuesdays on the Terrace Outdoor Su
+ mmer Concert Series
+DTSTART:20260825T180000
+DTEND:20260825T193000
+DTSTAMP:20260824T105742Z
+UID:2baf1e6a64586b7457ef9bb4@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ than-robbins-of-cold-chocolate-tuesdays-on-the-terrace-outdoor-summer-conc
+ ert-series
+LOCATION:14 Hancock St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ethan-robbins-of-
+ cold-chocolate-tuesdays-on-the-terrace-outdoor-summer-concert-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Casual Sewing Group
+DTSTART:20260825T180000
+DTEND:20260825T200000
+DTSTAMP:20260824T105742Z
+UID:ca95d021aeafd97257c8868b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ onthly-casual-sewing-group
+LOCATION:Cook Memorial Library\, 93 Main St.\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/monthly-casual-se
+ wing-group
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Tabitha Lemon Memorial Golf Tournament
+DTSTART:20260827T073000
+DTEND:20260827T143000
+DTSTAMP:20260824T105742Z
+UID:8324a42bafd031cc32aa7004@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/2
+ 026-tabitha-lemon-memorial-golf-tournament
+LOCATION:161 Gorham Pond Rd\, Goffstown\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/2026-tabitha-lemo
+ n-memorial-golf-tournament
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Craft: Summer Wind Chimes
+DTSTART:20260827T100000
+DTEND:20260827T120000
+DTSTAMP:20260824T105742Z
+UID:0b9a33b0a5aff49ff1087549@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ dult-craft-summer-wind-chimes
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/adult-craft-summe
+ r-wind-chimes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Will Evans LIVE
+DTSTART:20260827T190000
+DTEND:20260827T200000
+DTSTAMP:20260824T105742Z
+UID:efcd3df4be952f3eb082f847@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ ill-evans-live
+LOCATION:66 Newfields Rd\, Exeter\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/will-evans-live
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Langhorne Slim | River House Restaurant Concert Series
+DTSTART:20260828T190000
+DTEND:20260828T213000
+DTSTAMP:20260824T105742Z
+UID:608b8569bee00b1158d90f4d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ anghorne-slim-river-house-restaurant-concert-series
+LOCATION:105 Marcy St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/langhorne-slim-ri
+ ver-house-restaurant-concert-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slane - Sunset Concert Series
+DTSTART:20260828T063000
+DTEND:20260828T093000
+DTSTAMP:20260824T105742Z
+UID:cda66e54c8588918869c1efc@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ lane-sunset-concert-series
+LOCATION:41 Observatory Way\, Intervale\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/slane-sunset-conc
+ ert-series
 END:VEVENT
 END:VCALENDAR
