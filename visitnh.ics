@@ -4,36 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Ethan Robbins of Cold Chocolate-Tuesdays on the Terrace Outdoor Su
- mmer Concert Series
-DTSTART:20260825T180000
-DTEND:20260825T193000
-DTSTAMP:20260825T124341Z
-UID:2baf1e6a64586b7457ef9bb4@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
- than-robbins-of-cold-chocolate-tuesdays-on-the-terrace-outdoor-summer-conc
- ert-series
-LOCATION:14 Hancock St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/ethan-robbins-of-
- cold-chocolate-tuesdays-on-the-terrace-outdoor-summer-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly Casual Sewing Group
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DTSTAMP:20260825T124341Z
-UID:ca95d021aeafd97257c8868b@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- onthly-casual-sewing-group
-LOCATION:Cook Memorial Library\, 93 Main St.\, Tamworth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/monthly-casual-se
- wing-group
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Tabitha Lemon Memorial Golf Tournament
 DTSTART:20260827T073000
 DTEND:20260827T143000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:8324a42bafd031cc32aa7004@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/2
  026-tabitha-lemon-memorial-golf-tournament
@@ -45,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Adult Craft: Summer Wind Chimes
 DTSTART:20260827T100000
 DTEND:20260827T120000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:0b9a33b0a5aff49ff1087549@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  dult-craft-summer-wind-chimes
@@ -57,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Will Evans LIVE
 DTSTART:20260827T190000
 DTEND:20260827T200000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:efcd3df4be952f3eb082f847@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  ill-evans-live
@@ -68,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Screen Printing with Bill Mitchell
 DTSTART:20260828T103000
 DTEND:20260828T153000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:9e08bf8931947f4f8e9c4dd6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
  ntroduction-to-screen-printing-with-bill-mitchell
@@ -80,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Langhorne Slim | River House Restaurant Concert Series
 DTSTART:20260828T190000
 DTEND:20260828T213000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:608b8569bee00b1158d90f4d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  anghorne-slim-river-house-restaurant-concert-series
@@ -92,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Slane - Sunset Concert Series
 DTSTART:20260828T063000
 DTEND:20260828T093000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:cda66e54c8588918869c1efc@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  lane-sunset-concert-series
@@ -101,10 +75,22 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/slane-sunset-conc
  ert-series
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fairy Garden Party
+DTSTART:20260829T100000
+DTEND:20260829T110000
+DTSTAMP:20260826T105448Z
+UID:dac0685bcbbb37d38eaddd2c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ airy-garden-party
+LOCATION:Epsom Public Library \, Epsom\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/fairy-garden-part
+ y
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Felted Landscape Class with Hannah Gage
 DTSTART:20260829T140000
 DTEND:20260829T160000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:74e727cf8937d366af4bb397@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  elted-landscape-class-with-hannah-gage
@@ -116,12 +102,25 @@ BEGIN:VEVENT
 SUMMARY:Navajo Weaving Seminar
 DTSTART:20260829T140000
 DTEND:20260829T160000
-DTSTAMP:20260825T124341Z
+DTSTAMP:20260826T105448Z
 UID:8d7941405eff28c1dbabb9f9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  avajo-weaving-seminar
 LOCATION:18 Highlawn Road\, Warner\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/navajo-weaving-se
  minar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night of Queen with Gary Mullen & the Works
+DTSTART:20260829T193000
+DTEND:20260829T203000
+DTSTAMP:20260826T105448Z
+UID:5e941217fe6f052176ee1518@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
+ ne-night-of-queen-with-gary-mullen-the-works
+LOCATION:Concerts in the Clouds at Castle in the Clouds\, 483 Ossipee Park
+  Rd. Moultonborough NH\, Moultonborough\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/one-night-of-quee
+ n-with-gary-mullen-the-works
 END:VEVENT
 END:VCALENDAR
