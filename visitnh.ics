@@ -4,46 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Introduction to Screen Printing with Bill Mitchell
-DTSTART:20260828T103000
-DTEND:20260828T153000
-DTSTAMP:20260828T211248Z
-UID:9e08bf8931947f4f8e9c4dd6@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
- ntroduction-to-screen-printing-with-bill-mitchell
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/introduction-to-s
- creen-printing-with-bill-mitchell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Langhorne Slim | River House Restaurant Concert Series
-DTSTART:20260828T190000
-DTEND:20260828T213000
-DTSTAMP:20260828T211248Z
-UID:608b8569bee00b1158d90f4d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
- anghorne-slim-river-house-restaurant-concert-series
-LOCATION:105 Marcy St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/langhorne-slim-ri
- ver-house-restaurant-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slane - Sunset Concert Series
-DTSTART:20260828T063000
-DTEND:20260828T093000
-DTSTAMP:20260828T211248Z
-UID:cda66e54c8588918869c1efc@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- lane-sunset-concert-series
-LOCATION:41 Observatory Way\, Intervale\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/slane-sunset-conc
- ert-series
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Black Bear Trail Races
 DTSTART:20260829T060000
 DTEND:20260829T180000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:d6e64c5a57f2e93d8148656e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  lack-bear-trail-races-027925d2c9c3ba9e6156c66b1dd14e91
@@ -55,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Fairy Garden Party
 DTSTART:20260829T100000
 DTEND:20260829T110000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:dac0685bcbbb37d38eaddd2c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  airy-garden-party
@@ -67,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Felted Landscape Class with Hannah Gage
 DTSTART:20260829T140000
 DTEND:20260829T160000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:74e727cf8937d366af4bb397@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  elted-landscape-class-with-hannah-gage
@@ -79,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Navajo Weaving Seminar
 DTSTART:20260829T140000
 DTEND:20260829T160000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:8d7941405eff28c1dbabb9f9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  avajo-weaving-seminar
@@ -91,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:One Night of Queen with Gary Mullen & the Works
 DTSTART:20260829T193000
 DTEND:20260829T203000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:5e941217fe6f052176ee1518@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
  ne-night-of-queen-with-gary-mullen-the-works
@@ -104,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:The Devil Makes Three | River House Restaurant Concert Series
 DTSTART:20260829T190000
 DTEND:20260829T213000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:607bd628b3f4f9c7b4fa4ce3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-devil-makes-three-river-house-restaurant-concert-series
@@ -116,12 +80,52 @@ BEGIN:VEVENT
 SUMMARY:The Devil Makes Three | presented by the River House Restaurant
 DTSTART:20260829T190000
 DTEND:20260829T213000
-DTSTAMP:20260828T211248Z
+DTSTAMP:20260829T150701Z
 UID:9adac6d73636f0b141b23dfd@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-devil-makes-three-presented-by-the-river-house-restaurant
 LOCATION:105 Marcy Street\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/the-devil-makes-t
  hree-presented-by-the-river-house-restaurant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTiculate Playreading Series: Anthropology by Lauren Gunderson wi
+ th theatre KAPOW at 3S Artspace
+DTSTART:20260830T140000
+DTEND:20260830T160000
+DTSTAMP:20260829T150701Z
+UID:b2ed73f06560df2d2aa3fc7d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ rticulate-playreading-series-anthropology-by-lauren-gunderson-with-theatre
+ -kapow-at-3s-artspace
+LOCATION:319 Vaughan Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/articulate-playre
+ ading-series-anthropology-by-lauren-gunderson-with-theatre-kapow-at-3s-art
+ space
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridgton Jazz plays Big Band Sound
+DTSTART:20260830T160000
+DTEND:20260830T173000
+DTSTAMP:20260829T150701Z
+UID:da941b347f3a63ae45fec23f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-bridgton-jazz-plays-big-band-sound
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-bridgton-jazz
+ -plays-big-band-sound
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
+DTSTART:20260830T080000
+DTEND:20260830T090000
+DTSTAMP:20260829T150701Z
+UID:1ef439be3ddebefd15a40a9c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
+ oga-in-the-woods-at-lost-river-gorge-boulder-caves-1be5b6cd2388f57d17bb309
+ 642820c96
+LOCATION:1712 Lost River Road\, Woodstock\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
+ -at-lost-river-gorge-boulder-caves-1be5b6cd2388f57d17bb309642820c96
 END:VEVENT
 END:VCALENDAR
