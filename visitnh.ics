@@ -4,96 +4,11 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Black Bear Trail Races
-DTSTART:20260829T060000
-DTEND:20260829T180000
-DTSTAMP:20260829T150701Z
-UID:d6e64c5a57f2e93d8148656e@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
- lack-bear-trail-races-027925d2c9c3ba9e6156c66b1dd14e91
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/black-bear-trail-
- races-027925d2c9c3ba9e6156c66b1dd14e91
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fairy Garden Party
-DTSTART:20260829T100000
-DTEND:20260829T110000
-DTSTAMP:20260829T150701Z
-UID:dac0685bcbbb37d38eaddd2c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- airy-garden-party
-LOCATION:Epsom Public Library \, Epsom\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/fairy-garden-part
- y
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Felted Landscape Class with Hannah Gage
-DTSTART:20260829T140000
-DTEND:20260829T160000
-DTSTAMP:20260829T150701Z
-UID:74e727cf8937d366af4bb397@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- elted-landscape-class-with-hannah-gage
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/felted-landscape-
- class-with-hannah-gage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Navajo Weaving Seminar
-DTSTART:20260829T140000
-DTEND:20260829T160000
-DTSTAMP:20260829T150701Z
-UID:8d7941405eff28c1dbabb9f9@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
- avajo-weaving-seminar
-LOCATION:18 Highlawn Road\, Warner\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/navajo-weaving-se
- minar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night of Queen with Gary Mullen & the Works
-DTSTART:20260829T193000
-DTEND:20260829T203000
-DTSTAMP:20260829T150701Z
-UID:5e941217fe6f052176ee1518@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
- ne-night-of-queen-with-gary-mullen-the-works
-LOCATION:Concerts in the Clouds at Castle in the Clouds\, 483 Ossipee Park
-  Rd. Moultonborough NH\, Moultonborough\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/one-night-of-quee
- n-with-gary-mullen-the-works
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devil Makes Three | River House Restaurant Concert Series
-DTSTART:20260829T190000
-DTEND:20260829T213000
-DTSTAMP:20260829T150701Z
-UID:607bd628b3f4f9c7b4fa4ce3@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-devil-makes-three-river-house-restaurant-concert-series
-LOCATION:105 Marcy St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-devil-makes-t
- hree-river-house-restaurant-concert-series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devil Makes Three | presented by the River House Restaurant
-DTSTART:20260829T190000
-DTEND:20260829T213000
-DTSTAMP:20260829T150701Z
-UID:9adac6d73636f0b141b23dfd@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-devil-makes-three-presented-by-the-river-house-restaurant
-LOCATION:105 Marcy Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-devil-makes-t
- hree-presented-by-the-river-house-restaurant
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ARTiculate Playreading Series: Anthropology by Lauren Gunderson wi
  th theatre KAPOW at 3S Artspace
 DTSTART:20260830T140000
 DTEND:20260830T160000
-DTSTAMP:20260829T150701Z
+DTSTAMP:20260830T145341Z
 UID:b2ed73f06560df2d2aa3fc7d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  rticulate-playreading-series-anthropology-by-lauren-gunderson-with-theatre
@@ -107,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:The Bridgton Jazz plays Big Band Sound
 DTSTART:20260830T160000
 DTEND:20260830T173000
-DTSTAMP:20260829T150701Z
+DTSTAMP:20260830T145341Z
 UID:da941b347f3a63ae45fec23f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-bridgton-jazz-plays-big-band-sound
@@ -119,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
 DTSTART:20260830T080000
 DTEND:20260830T090000
-DTSTAMP:20260829T150701Z
+DTSTAMP:20260830T145341Z
 UID:1ef439be3ddebefd15a40a9c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
  oga-in-the-woods-at-lost-river-gorge-boulder-caves-1be5b6cd2388f57d17bb309
@@ -127,5 +42,89 @@ DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
 LOCATION:1712 Lost River Road\, Woodstock\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
  -at-lost-river-gorge-boulder-caves-1be5b6cd2388f57d17bb309642820c96
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lantern-Making Workshop
+DTSTART:20260901T150000
+DTEND:20260901T170000
+DTSTAMP:20260830T145341Z
+UID:05a7b5eaa8e96c4713d5b0ed@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ antern-making-workshop
+LOCATION:Cook Memorial Library\, 93 Main St.\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/lantern-making-wo
+ rkshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seacoast Memory Cafe at NHPL
+DTSTART:20260902T140000
+DTEND:20260902T150000
+DTSTAMP:20260830T145341Z
+UID:1afe8cc4b412c8bce42c7357@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ eacoast-memory-cafe-at-nhpl
+LOCATION:239 Atlantic Avenue\, North Hampton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/seacoast-memory-c
+ afe-at-nhpl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gifts of the Garden: Q&A Sessions - FREE
+DTSTART:20260903T090000
+DTEND:20260903T110000
+DTSTAMP:20260830T145341Z
+UID:9e6067bfd7ba03b36a1939c2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ ifts-of-the-garden-q-a-sessions-free-91c36680559207577344dedd42bf7b5d
+LOCATION:26 Audubon Way\, Auburn\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/gifts-of-the-gard
+ en-q-a-sessions-free-91c36680559207577344dedd42bf7b5d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karl Denson's Tiny Universe
+DTSTART:20260903T193000
+DTEND:20260903T203000
+DTSTAMP:20260830T145341Z
+UID:0a11b77b5d806ff91b400c72@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
+ arl-denson-s-tiny-universe
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/karl-denson-s-tin
+ y-universe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Loyalist to Liberty
+DTSTART:20260904T143000
+DTEND:20260904T160000
+DTSTAMP:20260830T145341Z
+UID:ef8074fcf7bf957768bf650f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ rom-loyalist-to-liberty-31b094a34329c75dc9392075a7a0300f
+LOCATION:10 Middle St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
+ liberty-31b094a34329c75dc9392075a7a0300f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Loyalist to Liberty
+DTSTART:20260904T143000
+DTEND:20260904T160000
+DTSTAMP:20260830T145341Z
+UID:2c2c56e1143c93ba1032ee8a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ rom-loyalist-to-liberty-8300f81c31862b8ba0aa53ec488c1b91
+LOCATION:10 Middle St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
+ liberty-8300f81c31862b8ba0aa53ec488c1b91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make Your Own Earrings Class with Becky Sawyer
+DTSTART:20260904T100000
+DTEND:20260904T130000
+DTSTAMP:20260830T145341Z
+UID:8e021a1dc10adde4bd0a8a50@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ake-your-own-earrings-class-with-becky-sawyer
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/make-your-own-ear
+ rings-class-with-becky-sawyer
 END:VEVENT
 END:VCALENDAR
