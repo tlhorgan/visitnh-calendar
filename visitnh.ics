@@ -4,50 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:ARTiculate Playreading Series: Anthropology by Lauren Gunderson wi
- th theatre KAPOW at 3S Artspace
-DTSTART:20260830T140000
-DTEND:20260830T160000
-DTSTAMP:20260830T145341Z
-UID:b2ed73f06560df2d2aa3fc7d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- rticulate-playreading-series-anthropology-by-lauren-gunderson-with-theatre
- -kapow-at-3s-artspace
-LOCATION:319 Vaughan Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/articulate-playre
- ading-series-anthropology-by-lauren-gunderson-with-theatre-kapow-at-3s-art
- space
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bridgton Jazz plays Big Band Sound
-DTSTART:20260830T160000
-DTEND:20260830T173000
-DTSTAMP:20260830T145341Z
-UID:da941b347f3a63ae45fec23f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-bridgton-jazz-plays-big-band-sound
-LOCATION:36 Main Street\, Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-bridgton-jazz
- -plays-big-band-sound
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga in the Woods at Lost River Gorge & Boulder Caves
-DTSTART:20260830T080000
-DTEND:20260830T090000
-DTSTAMP:20260830T145341Z
-UID:1ef439be3ddebefd15a40a9c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/y
- oga-in-the-woods-at-lost-river-gorge-boulder-caves-1be5b6cd2388f57d17bb309
- 642820c96
-LOCATION:1712 Lost River Road\, Woodstock\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/yoga-in-the-woods
- -at-lost-river-gorge-boulder-caves-1be5b6cd2388f57d17bb309642820c96
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lantern-Making Workshop
 DTSTART:20260901T150000
 DTEND:20260901T170000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:05a7b5eaa8e96c4713d5b0ed@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  antern-making-workshop
@@ -59,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Seacoast Memory Cafe at NHPL
 DTSTART:20260902T140000
 DTEND:20260902T150000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:1afe8cc4b412c8bce42c7357@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  eacoast-memory-cafe-at-nhpl
@@ -71,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Gifts of the Garden: Q&A Sessions - FREE
 DTSTART:20260903T090000
 DTEND:20260903T110000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:9e6067bfd7ba03b36a1939c2@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  ifts-of-the-garden-q-a-sessions-free-91c36680559207577344dedd42bf7b5d
@@ -80,10 +40,22 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/gifts-of-the-gard
  en-q-a-sessions-free-91c36680559207577344dedd42bf7b5d
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hopkinton State Fair 2026
+DTSTART:20260903T080000
+DTEND:20260907T230000
+DTSTAMP:20260831T173902Z
+UID:d00f5e3b5aa13ba000ba931a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ opkinton-state-fair-2026
+LOCATION:392 Kearsarge Avenue\, Contoocook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/hopkinton-state-f
+ air-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karl Denson's Tiny Universe
 DTSTART:20260903T193000
 DTEND:20260903T203000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:0a11b77b5d806ff91b400c72@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
  arl-denson-s-tiny-universe
@@ -95,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:From Loyalist to Liberty
 DTSTART:20260904T143000
 DTEND:20260904T160000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:ef8074fcf7bf957768bf650f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  rom-loyalist-to-liberty-31b094a34329c75dc9392075a7a0300f
@@ -107,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:From Loyalist to Liberty
 DTSTART:20260904T143000
 DTEND:20260904T160000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:2c2c56e1143c93ba1032ee8a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  rom-loyalist-to-liberty-8300f81c31862b8ba0aa53ec488c1b91
@@ -116,10 +88,33 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
  liberty-8300f81c31862b8ba0aa53ec488c1b91
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gary Hoey
+DTSTART:20260904T193000
+DTEND:20260904T203000
+DTSTAMP:20260831T173902Z
+UID:7f8fe2a1650b1ee2ca1e758f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ ary-hoey
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/gary-hoey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodbye to Summer - Improv Show
+DTSTART:20260904T190000
+DTEND:20260904T213000
+DTSTAMP:20260831T173902Z
+UID:07f6d2b14590f1b234c2b61d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ oodbye-to-summer-improv-show
+LOCATION:266 N Main St\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/goodbye-to-summer
+ -improv-show
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Make Your Own Earrings Class with Becky Sawyer
 DTSTART:20260904T100000
 DTEND:20260904T130000
-DTSTAMP:20260830T145341Z
+DTSTAMP:20260831T173902Z
 UID:8e021a1dc10adde4bd0a8a50@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  ake-your-own-earrings-class-with-becky-sawyer
