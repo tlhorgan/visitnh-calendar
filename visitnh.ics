@@ -4,69 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:From Loyalist to Liberty
-DTSTART:20260904T143000
-DTEND:20260904T160000
-DTSTAMP:20260904T142433Z
-UID:ef8074fcf7bf957768bf650f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- rom-loyalist-to-liberty-31b094a34329c75dc9392075a7a0300f
-LOCATION:10 Middle St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
- liberty-31b094a34329c75dc9392075a7a0300f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Loyalist to Liberty
-DTSTART:20260904T143000
-DTEND:20260904T160000
-DTSTAMP:20260904T142433Z
-UID:2c2c56e1143c93ba1032ee8a@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- rom-loyalist-to-liberty-8300f81c31862b8ba0aa53ec488c1b91
-LOCATION:10 Middle St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
- liberty-8300f81c31862b8ba0aa53ec488c1b91
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gary Hoey
-DTSTART:20260904T193000
-DTEND:20260904T203000
-DTSTAMP:20260904T142433Z
-UID:7f8fe2a1650b1ee2ca1e758f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
- ary-hoey
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/gary-hoey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goodbye to Summer - Improv Show
-DTSTART:20260904T190000
-DTEND:20260904T213000
-DTSTAMP:20260904T142433Z
-UID:07f6d2b14590f1b234c2b61d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
- oodbye-to-summer-improv-show
-LOCATION:266 N Main St\, Concord\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/goodbye-to-summer
- -improv-show
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make Your Own Earrings Class with Becky Sawyer
-DTSTART:20260904T100000
-DTEND:20260904T130000
-DTSTAMP:20260904T142433Z
-UID:8e021a1dc10adde4bd0a8a50@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- ake-your-own-earrings-class-with-becky-sawyer
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/make-your-own-ear
- rings-class-with-becky-sawyer
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anat Cohen Quartet
 DTSTART:20260905T193000
 DTEND:20260905T203000
-DTSTAMP:20260904T142433Z
+DTSTAMP:20260905T132850Z
 UID:6af6c4d28756a0686585c1ed@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  nat-cohen-quartet
@@ -75,10 +16,22 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/anat-cohen-quarte
  t
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Family Chalk Art Festival
+DTSTART:20260905T110000
+DTEND:20260905T130000
+DTSTAMP:20260905T132850Z
+UID:a8d28e90af4b1fb74ef00551@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ amily-chalk-art-festival
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/family-chalk-art-
+ festival
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Labor Day Weekend Craft Fair at Gunstock
 DTSTART:20260905T100000
 DTEND:20260906T170000
-DTSTAMP:20260904T142433Z
+DTSTAMP:20260905T132850Z
 UID:c968d4327db05c6a51938694@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  abor-day-weekend-craft-fair-at-gunstock-599b573facd7e5823ccdf7b94aabacad
@@ -90,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:MILFORD - Sept. 5/6 Gluten Never Ever Expo
 DTSTART:20260905T100000
 DTEND:20260905T160000
-DTSTAMP:20260904T142433Z
+DTSTAMP:20260905T132850Z
 UID:6aed69b7ff6a8f5280a87b1a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  ilford-sept-5-6-gluten-never-ever-expo
@@ -102,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:The Gibson Center's Labor Day Weekend Craft Fair
 DTSTART:20260905T090000
 DTEND:20260906T150000
-DTSTAMP:20260904T142433Z
+DTSTAMP:20260905T132850Z
 UID:be419afd3d4b43d8f2d95478@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-gibson-center-s-labor-day-weekend-craft-fair
@@ -114,12 +67,63 @@ BEGIN:VEVENT
 SUMMARY:Wildquack Duck Race & Music Festival
 DTSTART:20260905T100000
 DTEND:20260905T150000
-DTSTAMP:20260904T142433Z
+DTSTAMP:20260905T132850Z
 UID:5859dd7ec2189dc0d6be11fb@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  ildquack-duck-race-music-festival
 LOCATION:Main Street\, Jackson\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/wildquack-duck-ra
  ce-music-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocktails & Closets - a Glamorous Gathering & Fundraiser at One of
+  Waterville Valleys Historic Home
+DTSTART:20260906T163000
+DTEND:20260906T190000
+DTSTAMP:20260905T132850Z
+UID:1786a5665020b27ed5dcc021@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ ocktails-closets-a-glamorous-gathering-fundraiser-at-one-of-waterville-val
+ leys-historic-home
+LOCATION:13 Greeley Hill Road\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/cocktails-closets
+ -a-glamorous-gathering-fundraiser-at-one-of-waterville-valleys-historic-ho
+ me
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Summer Bash
+DTSTART:20260906T170000
+DTEND:20260906T203000
+DTSTAMP:20260905T132850Z
+UID:6b2bdfb026d71d90ec56bf2b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ nd-of-summer-bash
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/end-of-summer-bas
+ h
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Summer Fireworks
+DTSTART:20260906T203000
+DTEND:20260906T204500
+DTSTAMP:20260905T132850Z
+UID:69b4698a311199c2bbc6394f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ nd-of-summer-fireworks
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/end-of-summer-fir
+ eworks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shades of Blue Featuring Jon Butcher & Diane Blue
+DTSTART:20260906T193000
+DTEND:20260906T203000
+DTSTAMP:20260905T132850Z
+UID:4be72244ed9d4140b1645425@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ hades-of-blue-featuring-jon-butcher-diane-blue
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/shades-of-blue-fe
+ aturing-jon-butcher-diane-blue
 END:VEVENT
 END:VCALENDAR
