@@ -4,83 +4,11 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Anat Cohen Quartet
-DTSTART:20260905T193000
-DTEND:20260905T203000
-DTSTAMP:20260905T132850Z
-UID:6af6c4d28756a0686585c1ed@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- nat-cohen-quartet
-LOCATION:135 Congress St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/anat-cohen-quarte
- t
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Chalk Art Festival
-DTSTART:20260905T110000
-DTEND:20260905T130000
-DTSTAMP:20260905T132850Z
-UID:a8d28e90af4b1fb74ef00551@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- amily-chalk-art-festival
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/family-chalk-art-
- festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Weekend Craft Fair at Gunstock
-DTSTART:20260905T100000
-DTEND:20260906T170000
-DTSTAMP:20260905T132850Z
-UID:c968d4327db05c6a51938694@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
- abor-day-weekend-craft-fair-at-gunstock-599b573facd7e5823ccdf7b94aabacad
-LOCATION:719 Cherry Valley Road\, Rt. 11A\, Gilford\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/labor-day-weekend
- -craft-fair-at-gunstock-599b573facd7e5823ccdf7b94aabacad
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MILFORD - Sept. 5/6 Gluten Never Ever Expo
-DTSTART:20260905T100000
-DTEND:20260905T160000
-DTSTAMP:20260905T132850Z
-UID:6aed69b7ff6a8f5280a87b1a@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- ilford-sept-5-6-gluten-never-ever-expo
-LOCATION:Hampshire Dome 34 Emerson Road\, Milford\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/milford-sept-5-6-
- gluten-never-ever-expo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gibson Center's Labor Day Weekend Craft Fair
-DTSTART:20260905T090000
-DTEND:20260906T150000
-DTSTAMP:20260905T132850Z
-UID:be419afd3d4b43d8f2d95478@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-gibson-center-s-labor-day-weekend-craft-fair
-LOCATION:14 Grove Street\, North Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-gibson-center
- -s-labor-day-weekend-craft-fair
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildquack Duck Race & Music Festival
-DTSTART:20260905T100000
-DTEND:20260905T150000
-DTSTAMP:20260905T132850Z
-UID:5859dd7ec2189dc0d6be11fb@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
- ildquack-duck-race-music-festival
-LOCATION:Main Street\, Jackson\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/wildquack-duck-ra
- ce-music-festival
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cocktails & Closets - a Glamorous Gathering & Fundraiser at One of
   Waterville Valleys Historic Home
 DTSTART:20260906T163000
 DTEND:20260906T190000
-DTSTAMP:20260905T132850Z
+DTSTAMP:20260906T134258Z
 UID:1786a5665020b27ed5dcc021@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  ocktails-closets-a-glamorous-gathering-fundraiser-at-one-of-waterville-val
@@ -94,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:End of Summer Bash
 DTSTART:20260906T170000
 DTEND:20260906T203000
-DTSTAMP:20260905T132850Z
+DTSTAMP:20260906T134258Z
 UID:6b2bdfb026d71d90ec56bf2b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
  nd-of-summer-bash
@@ -106,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:End of Summer Fireworks
 DTSTART:20260906T203000
 DTEND:20260906T204500
-DTSTAMP:20260905T132850Z
+DTSTAMP:20260906T134258Z
 UID:69b4698a311199c2bbc6394f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
  nd-of-summer-fireworks
@@ -115,15 +43,88 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/end-of-summer-fir
  eworks
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MILFORD - Sept. 5/6 Gluten Never Ever Expo
+DTSTART:20260906T100000
+DTEND:20260906T160000
+DTSTAMP:20260906T134258Z
+UID:ea0b0adf96fe165e0945f75f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ilford-sept-5-6-gluten-never-ever-expo-aeb0d605fc0a6492e59b5d8532b13262
+LOCATION:Hampshire Dome 34 Emerson Rd\, Milford\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/milford-sept-5-6-
+ gluten-never-ever-expo-aeb0d605fc0a6492e59b5d8532b13262
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shades of Blue Featuring Jon Butcher & Diane Blue
 DTSTART:20260906T193000
 DTEND:20260906T203000
-DTSTAMP:20260905T132850Z
+DTSTAMP:20260906T134258Z
 UID:4be72244ed9d4140b1645425@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  hades-of-blue-featuring-jon-butcher-diane-blue
 LOCATION:135 Congress St\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/shades-of-blue-fe
  aturing-jon-butcher-diane-blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weirs Beach Fireworks
+DTSTART:20260906T213000
+DTEND:20260906T214500
+DTSTAMP:20260906T134258Z
+UID:0301e4e259356543fdf1c97e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ eirs-beach-fireworks-36d82effe8adc8f9457b84d8ef74b1e7
+LOCATION:Lakeside Avenue\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/weirs-beach-firew
+ orks-36d82effe8adc8f9457b84d8ef74b1e7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animal Encounter Series: Home Sweet Habitat
+DTSTART:20260907T100000
+DTEND:20260907T110000
+DTSTAMP:20260906T134258Z
+UID:1a5bc6f049f741673172e4fa@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ nimal-encounter-series-home-sweet-habitat-ef16173f2bf6afab57050caa40efda95
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
+ series-home-sweet-habitat-ef16173f2bf6afab57050caa40efda95
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peace & Justice Conversations: Legislative Ethics Complaint
+DTSTART:20260907T190000
+DTEND:20260907T200000
+DTSTAMP:20260906T134258Z
+UID:68235572a1679d0c25504ac6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ eace-justice-conversations-legislative-ethics-complaint
+LOCATION:Online\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/peace-justice-con
+ versations-legislative-ethics-complaint
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Habitat for Humanity Greater Nashua Manchester Pickleball Tourname
+ nt
+DTSTART:20260908T170000
+DTEND:20260908T200000
+DTSTAMP:20260906T134258Z
+UID:dabe5fc39d44e144a1cb95aa@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ abitat-for-humanity-greater-nashua-manchester-pickleball-tournament
+LOCATION:6 Mountain Laurels Dr\, Nashua\, NH\, Nashua\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/habitat-for-human
+ ity-greater-nashua-manchester-pickleball-tournament
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History Science Fusion! Homeschool Program (ages 5-8)
+DTSTART:20260908T093000
+DTEND:20260908T120000
+DTSTAMP:20260906T134258Z
+UID:d88e14c144fd10423b6c68f2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ istory-science-fusion!-homeschool-program-ages-5-8
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/history-science-f
+ usion!-homeschool-program-ages-5-8
 END:VEVENT
 END:VCALENDAR
