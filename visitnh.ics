@@ -4,85 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Cocktails & Closets - a Glamorous Gathering & Fundraiser at One of
-  Waterville Valleys Historic Home
-DTSTART:20260906T163000
-DTEND:20260906T190000
-DTSTAMP:20260906T134258Z
-UID:1786a5665020b27ed5dcc021@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
- ocktails-closets-a-glamorous-gathering-fundraiser-at-one-of-waterville-val
- leys-historic-home
-LOCATION:13 Greeley Hill Road\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/cocktails-closets
- -a-glamorous-gathering-fundraiser-at-one-of-waterville-valleys-historic-ho
- me
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:End of Summer Bash
-DTSTART:20260906T170000
-DTEND:20260906T203000
-DTSTAMP:20260906T134258Z
-UID:6b2bdfb026d71d90ec56bf2b@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
- nd-of-summer-bash
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/end-of-summer-bas
- h
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:End of Summer Fireworks
-DTSTART:20260906T203000
-DTEND:20260906T204500
-DTSTAMP:20260906T134258Z
-UID:69b4698a311199c2bbc6394f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
- nd-of-summer-fireworks
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/end-of-summer-fir
- eworks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MILFORD - Sept. 5/6 Gluten Never Ever Expo
-DTSTART:20260906T100000
-DTEND:20260906T160000
-DTSTAMP:20260906T134258Z
-UID:ea0b0adf96fe165e0945f75f@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- ilford-sept-5-6-gluten-never-ever-expo-aeb0d605fc0a6492e59b5d8532b13262
-LOCATION:Hampshire Dome 34 Emerson Rd\, Milford\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/milford-sept-5-6-
- gluten-never-ever-expo-aeb0d605fc0a6492e59b5d8532b13262
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shades of Blue Featuring Jon Butcher & Diane Blue
-DTSTART:20260906T193000
-DTEND:20260906T203000
-DTSTAMP:20260906T134258Z
-UID:4be72244ed9d4140b1645425@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- hades-of-blue-featuring-jon-butcher-diane-blue
-LOCATION:135 Congress St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/shades-of-blue-fe
- aturing-jon-butcher-diane-blue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weirs Beach Fireworks
-DTSTART:20260906T213000
-DTEND:20260906T214500
-DTSTAMP:20260906T134258Z
-UID:0301e4e259356543fdf1c97e@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
- eirs-beach-fireworks-36d82effe8adc8f9457b84d8ef74b1e7
-LOCATION:Lakeside Avenue\, Laconia\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/weirs-beach-firew
- orks-36d82effe8adc8f9457b84d8ef74b1e7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Animal Encounter Series: Home Sweet Habitat
 DTSTART:20260907T100000
 DTEND:20260907T110000
-DTSTAMP:20260906T134258Z
+DTSTAMP:20260907T155410Z
 UID:1a5bc6f049f741673172e4fa@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  nimal-encounter-series-home-sweet-habitat-ef16173f2bf6afab57050caa40efda95
@@ -94,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Peace & Justice Conversations: Legislative Ethics Complaint
 DTSTART:20260907T190000
 DTEND:20260907T200000
-DTSTAMP:20260906T134258Z
+DTSTAMP:20260907T155410Z
 UID:68235572a1679d0c25504ac6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  eace-justice-conversations-legislative-ethics-complaint
@@ -107,7 +32,7 @@ SUMMARY:Habitat for Humanity Greater Nashua Manchester Pickleball Tourname
  nt
 DTSTART:20260908T170000
 DTEND:20260908T200000
-DTSTAMP:20260906T134258Z
+DTSTAMP:20260907T155410Z
 UID:dabe5fc39d44e144a1cb95aa@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  abitat-for-humanity-greater-nashua-manchester-pickleball-tournament
@@ -119,12 +44,83 @@ BEGIN:VEVENT
 SUMMARY:History Science Fusion! Homeschool Program (ages 5-8)
 DTSTART:20260908T093000
 DTEND:20260908T120000
-DTSTAMP:20260906T134258Z
+DTSTAMP:20260907T155410Z
 UID:d88e14c144fd10423b6c68f2@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  istory-science-fusion!-homeschool-program-ages-5-8
 LOCATION:14 Hancock Street\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/history-science-f
  usion!-homeschool-program-ages-5-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History in Action Homeschool Program (ages 9-12)
+DTSTART:20260908T093000
+DTEND:20260908T120000
+DTSTAMP:20260907T155410Z
+UID:2135f5d458d0de987e63912d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ istory-in-action-homeschool-program-ages-9-12
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/history-in-action
+ -homeschool-program-ages-9-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hulls and Hops Lecture Series - Atlantic Dash 2026-Renee Blacken
+DTSTART:20260909T183000
+DTEND:20260909T200000
+DTSTAMP:20260907T155410Z
+UID:be9e536ed9be22d918d3502b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ ulls-and-hops-lecture-series-atlantic-dash-2026-renee-blacken
+LOCATION:130 Whittier Highway (rte 25)\, Moultonborough\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/hulls-and-hops-le
+ cture-series-atlantic-dash-2026-renee-blacken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic
+DTSTART:20260909T190000
+DTEND:20260909T200000
+DTSTAMP:20260907T155410Z
+UID:3c1454cff01bc3f0b749acb9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ ractical-magic
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/practical-magic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Honor Summit
+DTSTART:20260909T200000
+DTEND:20260912T030000
+DTSTAMP:20260907T155410Z
+UID:3503bf20428bd178bebc045a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-honor-summit
+LOCATION:Mount Washington Summit\, Sargent's Purchase\, Goshen\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-honor-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Craft: Air-Dry Clay Plants
+DTSTART:20260910T100000
+DTEND:20260910T120000
+DTSTAMP:20260907T155410Z
+UID:11b78cd3a1f446558ae549ab@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ dult-craft-air-dry-clay-plants
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/adult-craft-air-d
+ ry-clay-plants
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three Men and a One-Shilling Knife: A Genealogical Look at Local H
+ istory
+DTSTART:20260910T180000
+DTEND:20260910T190000
+DTSTAMP:20260907T155410Z
+UID:9febcd6a8187645234b17ddb@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ hree-men-and-a-one-shilling-knife-a-genealogical-look-at-local-history
+LOCATION:239 Atlantic Avenue \, New Hampton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/three-men-and-a-o
+ ne-shilling-knife-a-genealogical-look-at-local-history
 END:VEVENT
 END:VCALENDAR
