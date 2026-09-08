@@ -4,35 +4,11 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Animal Encounter Series: Home Sweet Habitat
-DTSTART:20260907T100000
-DTEND:20260907T110000
-DTSTAMP:20260907T155410Z
-UID:1a5bc6f049f741673172e4fa@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- nimal-encounter-series-home-sweet-habitat-ef16173f2bf6afab57050caa40efda95
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
- series-home-sweet-habitat-ef16173f2bf6afab57050caa40efda95
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peace & Justice Conversations: Legislative Ethics Complaint
-DTSTART:20260907T190000
-DTEND:20260907T200000
-DTSTAMP:20260907T155410Z
-UID:68235572a1679d0c25504ac6@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- eace-justice-conversations-legislative-ethics-complaint
-LOCATION:Online\, Concord\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/peace-justice-con
- versations-legislative-ethics-complaint
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Habitat for Humanity Greater Nashua Manchester Pickleball Tourname
  nt
 DTSTART:20260908T170000
 DTEND:20260908T200000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:dabe5fc39d44e144a1cb95aa@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  abitat-for-humanity-greater-nashua-manchester-pickleball-tournament
@@ -44,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:History Science Fusion! Homeschool Program (ages 5-8)
 DTSTART:20260908T093000
 DTEND:20260908T120000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:d88e14c144fd10423b6c68f2@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  istory-science-fusion!-homeschool-program-ages-5-8
@@ -56,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:History in Action Homeschool Program (ages 9-12)
 DTSTART:20260908T093000
 DTEND:20260908T120000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:2135f5d458d0de987e63912d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  istory-in-action-homeschool-program-ages-9-12
@@ -68,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Hulls and Hops Lecture Series - Atlantic Dash 2026-Renee Blacken
 DTSTART:20260909T183000
 DTEND:20260909T200000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:be9e536ed9be22d918d3502b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  ulls-and-hops-lecture-series-atlantic-dash-2026-renee-blacken
@@ -80,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Practical Magic
 DTSTART:20260909T190000
 DTEND:20260909T200000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:3c1454cff01bc3f0b749acb9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  ractical-magic
@@ -91,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:The Honor Summit
 DTSTART:20260909T200000
 DTEND:20260912T030000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:3503bf20428bd178bebc045a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-honor-summit
@@ -102,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Adult Craft: Air-Dry Clay Plants
 DTSTART:20260910T100000
 DTEND:20260910T120000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:11b78cd3a1f446558ae549ab@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  dult-craft-air-dry-clay-plants
@@ -115,12 +91,35 @@ SUMMARY:Three Men and a One-Shilling Knife: A Genealogical Look at Local H
  istory
 DTSTART:20260910T180000
 DTEND:20260910T190000
-DTSTAMP:20260907T155410Z
+DTSTAMP:20260908T143649Z
 UID:9febcd6a8187645234b17ddb@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  hree-men-and-a-one-shilling-knife-a-genealogical-look-at-local-history
 LOCATION:239 Atlantic Avenue \, New Hampton\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/three-men-and-a-o
  ne-shilling-knife-a-genealogical-look-at-local-history
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9/11 Memorial Walk
+DTSTART:20260911T170000
+DTEND:20260911T180000
+DTSTAMP:20260908T143649Z
+UID:b58ba4c3c36f57156cfd670c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/9
+ -11-memorial-walk
+LOCATION:Main Street\, Jackson\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/9-11-memorial-wal
+ k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rodney Harrison
+DTSTART:20260911T190000
+DTEND:20260911T203000
+DTSTAMP:20260908T143649Z
+UID:50f702157378e4c1fcbb9d85@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ odney-harrison
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/rodney-harrison
 END:VEVENT
 END:VCALENDAR
