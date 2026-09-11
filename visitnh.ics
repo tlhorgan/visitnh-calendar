@@ -4,35 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Adult Craft: Air-Dry Clay Plants
-DTSTART:20260910T100000
-DTEND:20260910T120000
-DTSTAMP:20260910T142955Z
-UID:11b78cd3a1f446558ae549ab@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- dult-craft-air-dry-clay-plants
-LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/adult-craft-air-d
- ry-clay-plants
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Three Men and a One-Shilling Knife: A Genealogical Look at Local H
- istory
-DTSTART:20260910T180000
-DTEND:20260910T190000
-DTSTAMP:20260910T142955Z
-UID:9febcd6a8187645234b17ddb@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- hree-men-and-a-one-shilling-knife-a-genealogical-look-at-local-history
-LOCATION:239 Atlantic Avenue \, New Hampton\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/three-men-and-a-o
- ne-shilling-knife-a-genealogical-look-at-local-history
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:9/11 Memorial Walk
 DTSTART:20260911T170000
 DTEND:20260911T180000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:b58ba4c3c36f57156cfd670c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/9
  -11-memorial-walk
@@ -44,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Norman Brown
 DTSTART:20260911T190000
 DTEND:20260911T200000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:500faaf60f5a7243db5350ec@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  orman-brown
@@ -55,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Norman Brown
 DTSTART:20260911T213000
 DTEND:20260911T223000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:0a4aa08c42dfa3ce4f44ad6a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  orman-brown-df75a0a06c6c2584a1eb9071c9a26a9d
@@ -67,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Rodney Harrison
 DTSTART:20260911T190000
 DTEND:20260911T203000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:50f702157378e4c1fcbb9d85@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
  odney-harrison
@@ -75,10 +50,22 @@ LOCATION:319 New Zealand Road \, Seabrook\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/rodney-harrison
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Art in the Park Festival
+DTSTART:20260912T110000
+DTEND:20260912T150000
+DTSTAMP:20260911T142907Z
+UID:7912e5cdc9319ee68c050056@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ rt-in-the-park-festival
+LOCATION:139 St. Gaudens\, Cornish\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/art-in-the-park-f
+ estival
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blizzard of Ozz
 DTSTART:20260912T193000
 DTEND:20260912T213000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:65378686a8481322d51e8f99@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  lizzard-of-ozz
@@ -90,7 +77,7 @@ SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
  oulder Caves
 DTSTART:20260912T103000
 DTEND:20260912T113000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:393e13fe2d6a9bc8f88fee4c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
@@ -101,10 +88,22 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/live-animal-prese
  0a3591e27632461e07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Silver Rings with Faceted Stones Class with Joy Raskin
+DTSTART:20260912T103000
+DTEND:20260912T163000
+DTSTAMP:20260911T142907Z
+UID:0dc57deabe3f6162bbd4b292@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ilver-rings-with-faceted-stones-class-with-joy-raskin
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/silver-rings-with
+ -faceted-stones-class-with-joy-raskin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Two To Lou Rocks 2026!
 DTSTART:20260912T150000
 DTEND:20260912T220000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:1f1b99bef03c4d97a495d20c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  wo-to-lou-rocks-2026!
@@ -116,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans and First Responders Art Program
 DTSTART:20260912T090000
 DTEND:20260912T110000
-DTSTAMP:20260910T142955Z
+DTSTAMP:20260911T142907Z
 UID:4cba41fac8b3125b1bffe558@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
  eterans-and-first-responders-art-program
