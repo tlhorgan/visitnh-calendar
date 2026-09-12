@@ -4,56 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:9/11 Memorial Walk
-DTSTART:20260911T170000
-DTEND:20260911T180000
-DTSTAMP:20260911T142907Z
-UID:b58ba4c3c36f57156cfd670c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/9
- -11-memorial-walk
-LOCATION:Main Street\, Jackson\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/9-11-memorial-wal
- k
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norman Brown
-DTSTART:20260911T190000
-DTEND:20260911T200000
-DTSTAMP:20260911T142907Z
-UID:500faaf60f5a7243db5350ec@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
- orman-brown
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/norman-brown
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norman Brown
-DTSTART:20260911T213000
-DTEND:20260911T223000
-DTSTAMP:20260911T142907Z
-UID:0a4aa08c42dfa3ce4f44ad6a@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
- orman-brown-df75a0a06c6c2584a1eb9071c9a26a9d
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/norman-brown-df75
- a0a06c6c2584a1eb9071c9a26a9d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rodney Harrison
-DTSTART:20260911T190000
-DTEND:20260911T203000
-DTSTAMP:20260911T142907Z
-UID:50f702157378e4c1fcbb9d85@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
- odney-harrison
-LOCATION:319 New Zealand Road \, Seabrook\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/rodney-harrison
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Art in the Park Festival
 DTSTART:20260912T110000
 DTEND:20260912T150000
-DTSTAMP:20260911T142907Z
+DTSTAMP:20260912T133831Z
 UID:7912e5cdc9319ee68c050056@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  rt-in-the-park-festival
@@ -65,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Blizzard of Ozz
 DTSTART:20260912T193000
 DTEND:20260912T213000
-DTSTAMP:20260911T142907Z
+DTSTAMP:20260912T133831Z
 UID:65378686a8481322d51e8f99@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  lizzard-of-ozz
@@ -73,11 +27,22 @@ LOCATION:58 Opera House Square\, Claremont\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/blizzard-of-ozz
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Corn Maze
+DTSTART:20260912T090000
+DTEND:20261003T050000
+DTSTAMP:20260912T133831Z
+UID:c460dd35d6e301638cb5c80e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ orn-maze
+LOCATION:250 West Road\, Canterbury\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/corn-maze
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
  oulder Caves
 DTSTART:20260912T103000
 DTEND:20260912T113000
-DTSTAMP:20260911T142907Z
+DTSTAMP:20260912T133831Z
 UID:393e13fe2d6a9bc8f88fee4c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
@@ -91,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Silver Rings with Faceted Stones Class with Joy Raskin
 DTSTART:20260912T103000
 DTEND:20260912T163000
-DTSTAMP:20260911T142907Z
+DTSTAMP:20260912T133831Z
 UID:0dc57deabe3f6162bbd4b292@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ilver-rings-with-faceted-stones-class-with-joy-raskin
@@ -103,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Two To Lou Rocks 2026!
 DTSTART:20260912T150000
 DTEND:20260912T220000
-DTSTAMP:20260911T142907Z
+DTSTAMP:20260912T133831Z
 UID:1f1b99bef03c4d97a495d20c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  wo-to-lou-rocks-2026!
@@ -115,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans and First Responders Art Program
 DTSTART:20260912T090000
 DTEND:20260912T110000
-DTSTAMP:20260911T142907Z
+DTSTAMP:20260912T133831Z
 UID:4cba41fac8b3125b1bffe558@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
  eterans-and-first-responders-art-program
@@ -123,5 +88,40 @@ LOCATION:Tamworth Community Nurse Association\, 86 Main Street\, Tamworth
  \, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/veterans-and-firs
  t-responders-art-program
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Turkey Wing Workshop with Larry Antonuk
+DTSTART:20260913T100000
+DTEND:20260913T160000
+DTSTAMP:20260912T133831Z
+UID:b4966c1a1d0b419e274d903b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ asic-turkey-wing-workshop-with-larry-antonuk
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/basic-turkey-wing
+ -workshop-with-larry-antonuk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davy Knowles
+DTSTART:20260913T193000
+DTEND:20260913T203000
+DTSTAMP:20260912T133831Z
+UID:6db0c2c6907f02ae279f3752@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ avy-knowles
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/davy-knowles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cybersecurity Awareness for New Hampshire Residents
+DTSTART:20260916T103000
+DTEND:20260916T113000
+DTSTAMP:20260912T133831Z
+UID:c570d58690bec224b4bdf9a0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ ybersecurity-awareness-for-new-hampshire-residents
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/cybersecurity-awa
+ reness-for-new-hampshire-residents
 END:VEVENT
 END:VCALENDAR
