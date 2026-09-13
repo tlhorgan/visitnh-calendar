@@ -4,96 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Art in the Park Festival
-DTSTART:20260912T110000
-DTEND:20260912T150000
-DTSTAMP:20260912T133831Z
-UID:7912e5cdc9319ee68c050056@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- rt-in-the-park-festival
-LOCATION:139 St. Gaudens\, Cornish\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/art-in-the-park-f
- estival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blizzard of Ozz
-DTSTART:20260912T193000
-DTEND:20260912T213000
-DTSTAMP:20260912T133831Z
-UID:65378686a8481322d51e8f99@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
- lizzard-of-ozz
-LOCATION:58 Opera House Square\, Claremont\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/blizzard-of-ozz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Corn Maze
-DTSTART:20260912T090000
-DTEND:20261003T050000
-DTSTAMP:20260912T133831Z
-UID:c460dd35d6e301638cb5c80e@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
- orn-maze
-LOCATION:250 West Road\, Canterbury\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/corn-maze
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
- oulder Caves
-DTSTART:20260912T103000
-DTEND:20260912T113000
-DTSTAMP:20260912T133831Z
-UID:393e13fe2d6a9bc8f88fee4c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
- ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
- s-ee9ab7c12f12d50a3591e27632461e07
-LOCATION:1712 Lost River Road\, Woodstock\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/live-animal-prese
- ntation-with-a-naturalist-at-lost-river-gorge-boulder-caves-ee9ab7c12f12d5
- 0a3591e27632461e07
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silver Rings with Faceted Stones Class with Joy Raskin
-DTSTART:20260912T103000
-DTEND:20260912T163000
-DTSTAMP:20260912T133831Z
-UID:0dc57deabe3f6162bbd4b292@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- ilver-rings-with-faceted-stones-class-with-joy-raskin
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/silver-rings-with
- -faceted-stones-class-with-joy-raskin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two To Lou Rocks 2026!
-DTSTART:20260912T150000
-DTEND:20260912T220000
-DTSTAMP:20260912T133831Z
-UID:1f1b99bef03c4d97a495d20c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- wo-to-lou-rocks-2026!
-LOCATION:Sandlot Event Center \, Sandown\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/two-to-lou-rocks-
- 2026!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Veterans and First Responders Art Program
-DTSTART:20260912T090000
-DTEND:20260912T110000
-DTSTAMP:20260912T133831Z
-UID:4cba41fac8b3125b1bffe558@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
- eterans-and-first-responders-art-program
-LOCATION:Tamworth Community Nurse Association\, 86 Main Street\, Tamworth
- \, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/veterans-and-firs
- t-responders-art-program
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Basic Turkey Wing Workshop with Larry Antonuk
 DTSTART:20260913T100000
 DTEND:20260913T160000
-DTSTAMP:20260912T133831Z
+DTSTAMP:20260913T142704Z
 UID:b4966c1a1d0b419e274d903b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  asic-turkey-wing-workshop-with-larry-antonuk
@@ -105,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Davy Knowles
 DTSTART:20260913T193000
 DTEND:20260913T203000
-DTSTAMP:20260912T133831Z
+DTSTAMP:20260913T142704Z
 UID:6db0c2c6907f02ae279f3752@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  avy-knowles
@@ -116,12 +30,95 @@ BEGIN:VEVENT
 SUMMARY:Cybersecurity Awareness for New Hampshire Residents
 DTSTART:20260916T103000
 DTEND:20260916T113000
-DTSTAMP:20260912T133831Z
+DTSTAMP:20260913T142704Z
 UID:c570d58690bec224b4bdf9a0@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  ybersecurity-awareness-for-new-hampshire-residents
 LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/cybersecurity-awa
  reness-for-new-hampshire-residents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Bath with Marci Starr
+DTSTART:20260916T173000
+DTEND:20260916T190000
+DTSTAMP:20260913T142704Z
+UID:2b71f73e8a7b8ca3e027c827@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ound-bath-with-marci-starr
+LOCATION:Unitarian Universalist Fellowship of the Eastern Slopes\, 30 Tamw
+ orth Road\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/sound-bath-with-m
+ arci-starr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Bowl Sound Bath
+DTSTART:20260917T180000
+DTEND:20260917T190000
+DTSTAMP:20260913T142704Z
+UID:97fcf122e9a67cc7b50603d7@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ rystal-bowl-sound-bath
+LOCATION:109R Water Street - level 2\, Exeter\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/crystal-bowl-soun
+ d-bath
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roomful of Blues
+DTSTART:20260917T193000
+DTEND:20260917T203000
+DTSTAMP:20260913T142704Z
+UID:af2664093c976b4c752ae6ee@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ oomful-of-blues-f049f35cdc912933d2a9ed033c5fc9bb
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/roomful-of-blues-
+ f049f35cdc912933d2a9ed033c5fc9bb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bark in the Park 2026
+DTSTART:20260918T130000
+DTEND:20260919T160000
+DTSTAMP:20260913T142704Z
+UID:853ca907b879883689957102@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ ark-in-the-park-2026
+LOCATION:Schouler Park Norcross Circle\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/bark-in-the-park-
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camp Resilience Leadership & Wellness Gala
+DTSTART:20260918T170000
+DTEND:20260918T230000
+DTSTAMP:20260913T142704Z
+UID:55775a09625829e117341d40@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ amp-resilience-leadership-wellness-gala
+LOCATION:725 Laconia Rd\, Tilton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/camp-resilience-l
+ eadership-wellness-gala
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe List
+DTSTART:20260918T200000
+DTEND:20260918T213000
+DTSTAMP:20260913T142704Z
+UID:ca61b59f73ec6adb51ad108a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ oe-list
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/joe-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicole Zuraitis
+DTSTART:20260918T193000
+DTEND:20260918T203000
+DTSTAMP:20260913T142704Z
+UID:8337619c48428464be91d18f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ icole-zuraitis
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/nicole-zuraitis
 END:VEVENT
 END:VCALENDAR
