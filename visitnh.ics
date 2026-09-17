@@ -4,35 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Cybersecurity Awareness for New Hampshire Residents
-DTSTART:20260916T103000
-DTEND:20260916T113000
-DTSTAMP:20260916T150053Z
-UID:c570d58690bec224b4bdf9a0@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
- ybersecurity-awareness-for-new-hampshire-residents
-LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/cybersecurity-awa
- reness-for-new-hampshire-residents
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Bath with Marci Starr
-DTSTART:20260916T173000
-DTEND:20260916T190000
-DTSTAMP:20260916T150053Z
-UID:2b71f73e8a7b8ca3e027c827@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- ound-bath-with-marci-starr
-LOCATION:Unitarian Universalist Fellowship of the Eastern Slopes\, 30 Tamw
- orth Road\, Tamworth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/sound-bath-with-m
- arci-starr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crystal Bowl Sound Bath
 DTSTART:20260917T180000
 DTEND:20260917T190000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:97fcf122e9a67cc7b50603d7@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  rystal-bowl-sound-bath
@@ -44,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Roomful of Blues
 DTSTART:20260917T193000
 DTEND:20260917T203000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:af2664093c976b4c752ae6ee@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
  oomful-of-blues-f049f35cdc912933d2a9ed033c5fc9bb
@@ -56,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Bark in the Park 2026
 DTSTART:20260918T130000
 DTEND:20260919T160000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:853ca907b879883689957102@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ark-in-the-park-2026
@@ -68,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Buy One\, Get One FREE Tickets - Opening Weekend!
 DTSTART:20260918T190000
 DTEND:20260920T230000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:8b7723c525fc0c4a752e5dcd@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  uy-one-get-one-free-tickets-opening-weekend!
@@ -80,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Camp Resilience Leadership & Wellness Gala
 DTSTART:20260918T170000
 DTEND:20260918T230000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:55775a09625829e117341d40@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  amp-resilience-leadership-wellness-gala
@@ -92,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Comedian Bob Marley
 DTSTART:20260918T193000
 DTEND:20260918T213000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:68192a69b64e582b097bbed6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  omedian-bob-marley-5a589d2b16023cc001db4646d908534f
@@ -104,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Joe List
 DTSTART:20260918T200000
 DTEND:20260918T213000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:ca61b59f73ec6adb51ad108a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
  oe-list
@@ -115,11 +90,36 @@ BEGIN:VEVENT
 SUMMARY:Nicole Zuraitis
 DTSTART:20260918T193000
 DTEND:20260918T203000
-DTSTAMP:20260916T150053Z
+DTSTAMP:20260917T150419Z
 UID:8337619c48428464be91d18f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  icole-zuraitis
 LOCATION:135 Congress St\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/nicole-zuraitis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felted Birch Landscape Class with Hannah Gage
+DTSTART:20260919T140000
+DTEND:20260919T160000
+DTSTAMP:20260917T150419Z
+UID:9ba941470fa2fef60041471b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ elted-birch-landscape-class-with-hannah-gage-98b323f0d10f0af4079c110d21463
+ a66
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/felted-birch-land
+ scape-class-with-hannah-gage-98b323f0d10f0af4079c110d21463a66
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonviolence Festival
+DTSTART:20260919T130000
+DTEND:20260919T150000
+DTSTAMP:20260917T150419Z
+UID:d02d5051e27579019ffa5d58@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ onviolence-festival
+LOCATION:NH State House\, 107 N Main St\, Concord\, NH\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/nonviolence-festi
+ val
 END:VEVENT
 END:VCALENDAR
