@@ -4,34 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Crystal Bowl Sound Bath
-DTSTART:20260917T180000
-DTEND:20260917T190000
-DTSTAMP:20260917T150419Z
-UID:97fcf122e9a67cc7b50603d7@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
- rystal-bowl-sound-bath
-LOCATION:109R Water Street - level 2\, Exeter\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/crystal-bowl-soun
- d-bath
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roomful of Blues
-DTSTART:20260917T193000
-DTEND:20260917T203000
-DTSTAMP:20260917T150419Z
-UID:af2664093c976b4c752ae6ee@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
- oomful-of-blues-f049f35cdc912933d2a9ed033c5fc9bb
-LOCATION:135 Congress St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/roomful-of-blues-
- f049f35cdc912933d2a9ed033c5fc9bb
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bark in the Park 2026
 DTSTART:20260918T130000
 DTEND:20260919T160000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:853ca907b879883689957102@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ark-in-the-park-2026
@@ -43,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Buy One\, Get One FREE Tickets - Opening Weekend!
 DTSTART:20260918T190000
 DTEND:20260920T230000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:8b7723c525fc0c4a752e5dcd@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  uy-one-get-one-free-tickets-opening-weekend!
@@ -55,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Camp Resilience Leadership & Wellness Gala
 DTSTART:20260918T170000
 DTEND:20260918T230000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:55775a09625829e117341d40@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  amp-resilience-leadership-wellness-gala
@@ -67,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Comedian Bob Marley
 DTSTART:20260918T193000
 DTEND:20260918T213000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:68192a69b64e582b097bbed6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  omedian-bob-marley-5a589d2b16023cc001db4646d908534f
@@ -79,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Joe List
 DTSTART:20260918T200000
 DTEND:20260918T213000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:ca61b59f73ec6adb51ad108a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
  oe-list
@@ -90,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Nicole Zuraitis
 DTSTART:20260918T193000
 DTEND:20260918T203000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:8337619c48428464be91d18f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  icole-zuraitis
@@ -98,10 +74,22 @@ LOCATION:135 Congress St\, Portsmouth\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/nicole-zuraitis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Choir! Choir! Choir! present Landslide: A Fleetwood Mac Sing-Along
+DTSTART:20260919T193000
+DTEND:20260919T213000
+DTSTAMP:20260918T143310Z
+UID:0cbb4cd60451f25d59f4d7e3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ hoir!-choir!-choir!-present-landslide-a-fleetwood-mac-sing-along
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/choir!-choir!-cho
+ ir!-present-landslide-a-fleetwood-mac-sing-along
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Felted Birch Landscape Class with Hannah Gage
 DTSTART:20260919T140000
 DTEND:20260919T160000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:9ba941470fa2fef60041471b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  elted-birch-landscape-class-with-hannah-gage-98b323f0d10f0af4079c110d21463
@@ -114,12 +102,23 @@ BEGIN:VEVENT
 SUMMARY:Nonviolence Festival
 DTSTART:20260919T130000
 DTEND:20260919T150000
-DTSTAMP:20260917T150419Z
+DTSTAMP:20260918T143310Z
 UID:d02d5051e27579019ffa5d58@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  onviolence-festival
 LOCATION:NH State House\, 107 N Main St\, Concord\, NH\, Concord\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/nonviolence-festi
  val
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Party
+DTSTART:20260919T183000
+DTEND:20260919T213000
+DTSTAMP:20260918T143310Z
+UID:ab7caec6426ab386710c579b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ tar-party
+LOCATION:139 St. Gaudens Rd\, Cornish\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/star-party
 END:VEVENT
 END:VCALENDAR
