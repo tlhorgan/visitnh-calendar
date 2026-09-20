@@ -4,122 +4,122 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:18th Annual Hampton Falls Craft Festival
-DTSTART:20260919T100000
+SUMMARY:Jazz Piano: 4 Cool Dudes and a Baby Grand at The Press Room
+DTSTART:20260920T170000
+DTEND:20260920T183000
+DTSTAMP:20260920T141606Z
+UID:c26869e774264a108cff338c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ azz-piano-4-cool-dudes-and-a-baby-grand-at-the-press-room
+LOCATION:77 Daniel St.\, Portsmouth\, NH\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/jazz-piano-4-cool
+ -dudes-and-a-baby-grand-at-the-press-room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesse Roper
+DTSTART:20260920T193000
+DTEND:20260920T203000
+DTSTAMP:20260920T141606Z
+UID:e377e47615a47f9924747162@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ esse-roper-30e09fb8deab920d37f65d0da7713bce
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/jesse-roper-30e09
+ fb8deab920d37f65d0da7713bce
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parlor Greens
+DTSTART:20260920T193000
+DTEND:20260920T203000
+DTSTAMP:20260920T141606Z
+UID:0623f6feb7bcc091e29cf054@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ arlor-greens
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/parlor-greens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seacoast Science Center 24th Annual BioBlitz
+DTSTART:20260920T070000
 DTEND:20260920T160000
-DTSTAMP:20260919T135641Z
-UID:af80b2df755193660b319c66@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/1
- 8th-annual-hampton-falls-craft-festival
-LOCATION:4 Lincoln Ave.\, Hampton Falls\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/18th-annual-hampt
- on-falls-craft-festival
+DTSTAMP:20260920T141606Z
+UID:5420ccc49f92870ac9b5c709@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ eacoast-science-center-24th-annual-bioblitz
+LOCATION:570 Ocean Blvd.\, in Odiorne Point State Park\, Rye\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/seacoast-science-
+ center-24th-annual-bioblitz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Art Workshop: Sculpting a Gestural Hand
-DTSTART:20260919T123000
-DTEND:20260919T163000
-DTSTAMP:20260919T135641Z
-UID:7861391d59bef075d81ab121@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
- rt-workshop-sculpting-a-gestural-hand
-LOCATION:Saint-Gaudens National Historical Park\, 139 Saint-Gaudens Road\,
-  Cornish\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/art-workshop-scul
- pting-a-gestural-hand
+SUMMARY:Star Island Open House
+DTSTART:20260920T120000
+DTEND:20260920T190000
+DTSTAMP:20260920T141606Z
+UID:79f098e6e28b817bbcfb2a87@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ tar-island-open-house
+LOCATION:Star Island\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/star-island-open-
+ house
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Comedian\, Sarah Tollemache and more at Moka Pot\, Manchester NH(2
-  shows)
-DTSTART:20260919T183000
-DTEND:20260919T233000
-DTSTAMP:20260919T135641Z
-UID:75acb107f4b80f3ff4d43d90@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
- omedian-sarah-tollemache-and-more-at-moka-pot-manchester-nh-2-shows
-LOCATION:8 Hanover St\, Manchester\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/comedian-sarah-to
- llemache-and-more-at-moka-pot-manchester-nh-2-shows
+SUMMARY:North Hampton Parks & Recreation 4th Annual Golf Tournament
+DTSTART:20260921T080000
+DTEND:20260921T150000
+DTSTAMP:20260920T141606Z
+UID:ba13d1ec330976b7ce5df3b4@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ orth-hampton-parks-recreation-4th-annual-golf-tournament
+LOCATION:101 North Road\, North Hampton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/north-hampton-par
+ ks-recreation-4th-annual-golf-tournament
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall Arts & Crafts Fair
-DTSTART:20260919T100000
-DTEND:20260920T160000
-DTSTAMP:20260919T135641Z
-UID:5e94b7c9b0a2d9482b7a601c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- all-arts-crafts-fair-f78a106d73007a5a30683138e37f6b16
-LOCATION:120 Laconia Road\, Tilton\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/fall-arts-crafts-
- fair-f78a106d73007a5a30683138e37f6b16
+SUMMARY:Peace and Justice Conversations: U.S. Militarism and Racism
+DTSTART:20260921T190000
+DTEND:20260921T200000
+DTSTAMP:20260920T141606Z
+UID:c3bfad35822536c1623a00c4@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ eace-and-justice-conversations-u-s-militarism-and-racism
+LOCATION:via Zoom\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/peace-and-justice
+ -conversations-u-s-militarism-and-racism
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Granite State Comicon
-DTSTART:20260919T100000
-DTEND:20260920T160000
-DTSTAMP:20260919T135641Z
-UID:e524d7d9fb31a1d15c8cb2ee@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
- ranite-state-comicon
-LOCATION:700 Elm Street\, Manchester\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/granite-state-com
- icon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harvest Festival
-DTSTART:20260919T100000
-DTEND:20260919T160000
-DTSTAMP:20260919T135641Z
-UID:5994f111411eb177820d7caa@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
- arvest-festival
-LOCATION:33 Village Rd\, Waterville Valley\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/harvest-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEBfest 2026
-DTSTART:20260919T110000
-DTEND:20260919T150000
-DTSTAMP:20260919T135641Z
-UID:38d83d6ab10461b300a1135c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
- ebfest-2026
-LOCATION:51 N Park St\, Lebanon\, NH 03766\, Lebanon\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/lebfest-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lagerfest
-DTSTART:20260919T120000
-DTEND:20260919T160000
-DTSTAMP:20260919T135641Z
-UID:e7c53c2a67908f5ed5a6938d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
- agerfest
-LOCATION:378 Central St\, Franklin\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/lagerfest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roland's Basement: Sounds of the 70s
-DTSTART:20260919T070000
-DTEND:20260919T093000
-DTSTAMP:20260919T135641Z
-UID:073bb8a7278748261362aa33@visitnh-calendar
+SUMMARY:Rain Gardens – A Beautiful Way to Capture the Rain
+DTSTART:20260921T180000
+DTEND:20260221T190000
+DTSTAMP:20260920T141606Z
+UID:5eab100f1d8e288134879112@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
- oland-s-basement-sounds-of-the-70s
-LOCATION:38 Ladd's Lane\, Epping\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/roland-s-basement
- -sounds-of-the-70s
+ ain-gardens-a-beautiful-way-to-capture-the-rain
+LOCATION:26 Audubon Way\, Auburn\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/rain-gardens-a-be
+ autiful-way-to-capture-the-rain
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viva Las Elvis
-DTSTART:20260919T193000
-DTEND:20260919T213000
-DTSTAMP:20260919T135641Z
-UID:3f70a14d9b5afe92590441a9@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
- iva-las-elvis-767e7ec80b175a29d9a6f89392c11c6f
-LOCATION:58 Opera House Square\, Claremont\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/viva-las-elvis-76
- 7e7ec80b175a29d9a6f89392c11c6f
+SUMMARY:Majestic Cafe: Conway Karaoke
+DTSTART:20260922T190000
+DTEND:20260922T220000
+DTSTAMP:20260920T141606Z
+UID:97e8a4d053d263c7983486f7@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ajestic-cafe-conway-karaoke
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/majestic-cafe-con
+ way-karaoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Fly Butterfly": A Dolly Parton Tribute Concert
+DTSTART:20260923T190000
+DTEND:20260923T210000
+DTSTAMP:20260920T141606Z
+UID:0d123245ad21e2e90d270515@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ ly-butterfly-a-dolly-parton-tribute-concert
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/fly-butterfly-a-d
+ olly-parton-tribute-concert
 END:VEVENT
 END:VCALENDAR
