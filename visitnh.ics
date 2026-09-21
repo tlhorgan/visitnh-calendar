@@ -4,69 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Jazz Piano: 4 Cool Dudes and a Baby Grand at The Press Room
-DTSTART:20260920T170000
-DTEND:20260920T183000
-DTSTAMP:20260920T141606Z
-UID:c26869e774264a108cff338c@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
- azz-piano-4-cool-dudes-and-a-baby-grand-at-the-press-room
-LOCATION:77 Daniel St.\, Portsmouth\, NH\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/jazz-piano-4-cool
- -dudes-and-a-baby-grand-at-the-press-room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesse Roper
-DTSTART:20260920T193000
-DTEND:20260920T203000
-DTSTAMP:20260920T141606Z
-UID:e377e47615a47f9924747162@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
- esse-roper-30e09fb8deab920d37f65d0da7713bce
-LOCATION:135 Congress Street\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/jesse-roper-30e09
- fb8deab920d37f65d0da7713bce
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parlor Greens
-DTSTART:20260920T193000
-DTEND:20260920T203000
-DTSTAMP:20260920T141606Z
-UID:0623f6feb7bcc091e29cf054@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- arlor-greens
-LOCATION:135 Congress St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/parlor-greens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seacoast Science Center 24th Annual BioBlitz
-DTSTART:20260920T070000
-DTEND:20260920T160000
-DTSTAMP:20260920T141606Z
-UID:5420ccc49f92870ac9b5c709@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- eacoast-science-center-24th-annual-bioblitz
-LOCATION:570 Ocean Blvd.\, in Odiorne Point State Park\, Rye\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/seacoast-science-
- center-24th-annual-bioblitz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Island Open House
-DTSTART:20260920T120000
-DTEND:20260920T190000
-DTSTAMP:20260920T141606Z
-UID:79f098e6e28b817bbcfb2a87@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
- tar-island-open-house
-LOCATION:Star Island\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/star-island-open-
- house
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Hampton Parks & Recreation 4th Annual Golf Tournament
 DTSTART:20260921T080000
 DTEND:20260921T150000
-DTSTAMP:20260920T141606Z
+DTSTAMP:20260921T163011Z
 UID:ba13d1ec330976b7ce5df3b4@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  orth-hampton-parks-recreation-4th-annual-golf-tournament
@@ -75,22 +16,10 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/north-hampton-par
  ks-recreation-4th-annual-golf-tournament
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Peace and Justice Conversations: U.S. Militarism and Racism
-DTSTART:20260921T190000
-DTEND:20260921T200000
-DTSTAMP:20260920T141606Z
-UID:c3bfad35822536c1623a00c4@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
- eace-and-justice-conversations-u-s-militarism-and-racism
-LOCATION:via Zoom\, Concord\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/peace-and-justice
- -conversations-u-s-militarism-and-racism
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rain Gardens – A Beautiful Way to Capture the Rain
 DTSTART:20260921T180000
 DTEND:20260221T190000
-DTSTAMP:20260920T141606Z
+DTSTAMP:20260921T163011Z
 UID:5eab100f1d8e288134879112@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
  ain-gardens-a-beautiful-way-to-capture-the-rain
@@ -102,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Majestic Cafe: Conway Karaoke
 DTSTART:20260922T190000
 DTEND:20260922T220000
-DTSTAMP:20260920T141606Z
+DTSTAMP:20260921T163011Z
 UID:97e8a4d053d263c7983486f7@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  ajestic-cafe-conway-karaoke
@@ -114,12 +43,85 @@ BEGIN:VEVENT
 SUMMARY:"Fly Butterfly": A Dolly Parton Tribute Concert
 DTSTART:20260923T190000
 DTEND:20260923T210000
-DTSTAMP:20260920T141606Z
+DTSTAMP:20260921T163011Z
 UID:0d123245ad21e2e90d270515@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  ly-butterfly-a-dolly-parton-tribute-concert
 LOCATION:36 Main Street\, Conway\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/fly-butterfly-a-d
  olly-parton-tribute-concert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"The Swan's Secret" Watercolor Workshop with Stephanie McQuade
+DTSTART:20260923T100000
+DTEND:20260923T140000
+DTSTAMP:20260921T163011Z
+UID:c36999f51654218154469106@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-swan-s-secret-watercolor-workshop-with-stephanie-mcquade
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-swan-s-secret
+ -watercolor-workshop-with-stephanie-mcquade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bill Charlap Trio
+DTSTART:20260923T193000
+DTEND:20260923T203000
+DTSTAMP:20260921T163011Z
+UID:64c0a454b8c2947ca437db31@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ ill-charlap-trio
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/bill-charlap-trio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRONE SHOW
+DTSTART:20260925T193000
+DTEND:20260925T203000
+DTSTAMP:20260921T163011Z
+UID:27c14c0a55e185ead6f0896d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ rone-show
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/drone-show
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Allen W. Root Distinguished Contemporary Art Lectureship: Barb
+ ara Takenaga
+DTSTART:20260925T170000
+DTEND:20260925T180000
+DTSTAMP:20260921T163011Z
+UID:8c3c11285d730fe105156a9f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ r-allen-w-root-distinguished-contemporary-art-lectureship-barbara-takenaga
+LOCATION:6 E Wheelock St. \, Hanover\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/dr-allen-w-root-d
+ istinguished-contemporary-art-lectureship-barbara-takenaga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oktoberfest: Eastern Sound Polka Band
+DTSTART:20260925T180000
+DTEND:20260925T190000
+DTSTAMP:20260921T163011Z
+UID:b84d1432f6f0a756889594a1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
+ ktoberfest-eastern-sound-polka-band
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/oktoberfest-easte
+ rn-sound-polka-band
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life Forest Midnight Market at The Bower
+DTSTART:20260925T180000
+DTEND:20260926T233000
+DTSTAMP:20260921T163011Z
+UID:8835542aef45a1d7ca931cd9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-life-forest-midnight-market-at-the-bower
+LOCATION:Free event shuttle for registered guests runs on a loop from 2297
+  Main Street\, Bethlehem\, NH (Bethlehem Elementary School) to The Bower
+ —from 6 PM to 11:30 PM both nights of the event.\, Bethlehem\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-life-forest-m
+ idnight-market-at-the-bower
 END:VEVENT
 END:VCALENDAR
