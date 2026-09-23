@@ -4,22 +4,10 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Majestic Cafe: Conway Karaoke
-DTSTART:20260922T190000
-DTEND:20260922T220000
-DTSTAMP:20260922T150028Z
-UID:97e8a4d053d263c7983486f7@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
- ajestic-cafe-conway-karaoke
-LOCATION:36 Main Street\, Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/majestic-cafe-con
- way-karaoke
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"Fly Butterfly": A Dolly Parton Tribute Concert
 DTSTART:20260923T190000
 DTEND:20260923T210000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:0d123245ad21e2e90d270515@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  ly-butterfly-a-dolly-parton-tribute-concert
@@ -31,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:"The Swan's Secret" Watercolor Workshop with Stephanie McQuade
 DTSTART:20260923T100000
 DTEND:20260923T140000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:c36999f51654218154469106@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-swan-s-secret-watercolor-workshop-with-stephanie-mcquade
@@ -43,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Charlap Trio
 DTSTART:20260923T193000
 DTEND:20260923T203000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:64c0a454b8c2947ca437db31@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ill-charlap-trio
@@ -54,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:DRONE SHOW
 DTSTART:20260925T193000
 DTEND:20260925T203000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:27c14c0a55e185ead6f0896d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  rone-show
@@ -66,7 +54,7 @@ SUMMARY:Dr. Allen W. Root Distinguished Contemporary Art Lectureship: Barb
  ara Takenaga
 DTSTART:20260925T170000
 DTEND:20260925T180000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:8c3c11285d730fe105156a9f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  r-allen-w-root-distinguished-contemporary-art-lectureship-barbara-takenaga
@@ -78,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Oktoberfest: Eastern Sound Polka Band
 DTSTART:20260925T180000
 DTEND:20260925T190000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:b84d1432f6f0a756889594a1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
  ktoberfest-eastern-sound-polka-band
@@ -90,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Spooky World 35th Anniversary Weekend
 DTSTART:20260925T190000
 DTEND:20260926T230000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:f205ea4dac780d274be54911@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  pooky-world-35th-anniversary-weekend
@@ -102,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:The Life Forest Midnight Market at The Bower
 DTSTART:20260925T180000
 DTEND:20260926T233000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:8835542aef45a1d7ca931cd9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-life-forest-midnight-market-at-the-bower
@@ -116,12 +104,24 @@ BEGIN:VEVENT
 SUMMARY:Wolfeboro's Great Pumpkin Hunt
 DTSTART:20260925T070000
 DTEND:20260928T100000
-DTSTAMP:20260922T150028Z
+DTSTAMP:20260923T150431Z
 UID:b40ce551a63f2ea2d8967b55@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  olfeboro-s-great-pumpkin-hunt-ee3bc231f47d9949eb0051321e511eaa
 LOCATION:Wolfeboro - all around town\, Wolfeboro\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/wolfeboro-s-great
  -pumpkin-hunt-ee3bc231f47d9949eb0051321e511eaa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Henniker Handmade & Homegrown
+DTSTART:20260926T100000
+DTEND:20260926T160000
+DTSTAMP:20260923T150431Z
+UID:d8c9de0f447a6143091c6a33@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ enniker-handmade-homegrown
+LOCATION:57 Main Street\, Henniker\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/henniker-handmade
+ -homegrown
 END:VEVENT
 END:VCALENDAR
