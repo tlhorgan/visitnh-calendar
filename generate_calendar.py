@@ -148,7 +148,7 @@ def collect_event_urls(page):
     if not urls:
         debug_html = page.content()
         Path("nh-debug.html").write_text(debug_html, encoding="utf-8")
-        m = re.search(r'<script[^>]+src=["\\\']([^"\\\']*app\\.esm\\.js[^"\\\']*)', debug_html, re.I)
+        m = re.search(r'src="([^"]*app\\.esm\\.js[^"]*)"', debug_html, re.I)
         if m:
             js_url = m.group(1).replace("&amp;", "&")
             if js_url.startswith("/"):
