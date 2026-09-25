@@ -179,6 +179,10 @@ def collect_event_urls(page):
                 Path("nh-app.js").write_text(fetch_html(js_url), encoding="utf-8")
             except Exception as exc:
                 print(f"Could not capture app JS: {exc}")
+        try:
+            Path("nh-events.js").write_text(fetch_html(BASE + "/ui/www/build/p-bfea9b49.entry.js"), encoding="utf-8")
+        except Exception as exc:
+            print(f"Could not capture events bundle: {exc}")
         raise RuntimeError("Visit NH calendar loaded but no event links were discovered.")
 
     return sorted(urls)
