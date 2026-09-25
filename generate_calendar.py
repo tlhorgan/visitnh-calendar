@@ -146,7 +146,17 @@ def collect_event_urls(page):
             break
 
     if not urls:
-        Path("nh-debug.html").write_text(page.content(), encoding="utf-8")
+        debug_html = page.content()
+        Path("nh-debug.html").write_text(debug_html, encoding="utf-8")
+        m = re.search(r'<script[^>]+src=["\\\']([^"\\\']*app\\.esm\\.js[^"\\\']*)', debug_html, re.I)
+        if m:
+            js_url = m.group(1).replace("&amp;", "&")
+            if js_url.startswith("/"):
+                js_url = BASE + js_url
+            try:
+                Path("nh-app.js").write_text(fetch_html(js_url), encoding="utf-8")
+            except Exception as exc:
+                print(f"Could not capture app JS: {exc}")
         raise RuntimeError("Visit NH calendar loaded but no event links were discovered.")
 
     return sorted(urls)
