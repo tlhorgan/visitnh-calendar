@@ -2,6 +2,11 @@ name: Update Visit NH calendar
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "generate_calendar.py"
+      - ".github/workflows/update-calendar.yml"
   schedule:
     - cron: "17 10 * * *"
 
