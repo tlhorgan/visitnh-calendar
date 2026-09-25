@@ -89,7 +89,20 @@ def collect_event_urls(page):
         if urls:
             return sorted(urls)
     except Exception as exc:
-        print(f"Static calendar fetch failed; falling back to browser: {exc}")
+        print(f"Static calendar fetch failed: {exc}")
+
+    # The calendar UI is client-rendered and can fail to hydrate on GitHub-hosted
+    # runners. The public sitemap provides a stable server-side inventory of
+    # event detail pages, so use it as the discovery fallback.
+    try:
+        sitemap = fetch_html(BASE + "/sitemap.xml")
+        for href in re.findall(r"<loc>\\s*(https://www\\.visitnh\\.gov/things-to-do/events-calendar/[^<]+)\\s*</loc>", sitemap, re.I):
+            urls.add(href.replace("&amp;", "&").split("#")[0].split("?")[0])
+        if urls:
+            print(f"Discovered {len(urls)} event URLs from sitemap")
+            return sorted(urls)
+    except Exception as exc:
+        print(f"Sitemap discovery failed; falling back to browser: {exc}")
 
     # Visit NH keeps background requests open, so waiting for networkidle can
     # hang even when the calendar is already usable.  Load the DOM instead and
