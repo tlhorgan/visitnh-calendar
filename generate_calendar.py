@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import re
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -90,6 +91,45 @@ def collect_event_urls(page):
             return sorted(urls)
     except Exception as exc:
         print(f"Static calendar fetch failed: {exc}")
+
+    # Visit NH's event component loads data from this JSON endpoint. Use the
+    # same endpoint directly instead of depending on client-side hydration.
+    try:
+        api_url = BASE + "/api/events/getitems"
+        page_num = 1
+        while page_num <= 200:
+            payload = json.dumps({
+                "pageNumber": page_num,
+                "region": [],
+                "city": [],
+                "category": [],
+                "startDate": None,
+                "endDate": None,
+            }).encode("utf-8")
+            req = Request(api_url, data=payload, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140.0 Safari/537.36",
+                "Accept": "application/json",
+                "Content-Type": "application/json",
+                "Referer": CALENDAR_URL,
+            }, method="POST")
+            with urlopen(req, timeout=45) as response:
+                data = json.loads(response.read().decode("utf-8"))
+            results = data.get("results") or []
+            for item in results:
+                href = item.get("url") or ""
+                if href.startswith("/"):
+                    href = BASE + href
+                if "/things-to-do/events-calendar/" in href:
+                    urls.add(href.split("#")[0].split("?")[0])
+            hits = int(data.get("hits") or 0)
+            if not results or page_num * 10 >= hits:
+                break
+            page_num += 1
+        if urls:
+            print(f"Discovered {len(urls)} event URLs from Visit NH API")
+            return sorted(urls)
+    except Exception as exc:
+        print(f"Visit NH API discovery failed: {exc}")
 
     # The calendar UI is client-rendered and can fail to hydrate on GitHub-hosted
     # runners. The public sitemap provides a stable server-side inventory of
