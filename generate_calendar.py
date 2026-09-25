@@ -5,6 +5,7 @@ import re
 from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.request import Request, urlopen
 
 from bs4 import BeautifulSoup
 from dateutil import parser as dtparser
@@ -61,8 +62,34 @@ def parse_time_range(value: str, start_date, end_date):
         return None, None
 
 
+def fetch_html(url: str) -> str:
+    req = Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml",
+    })
+    with urlopen(req, timeout=45) as response:
+        return response.read().decode("utf-8", errors="replace")
+
+
 def collect_event_urls(page):
     urls = set()
+
+    # Prefer the server-rendered HTML. Visit NH currently includes event links
+    # in the initial document, and this avoids intermittent Chromium rendering
+    # failures in GitHub Actions.
+    try:
+        soup = BeautifulSoup(fetch_html(CALENDAR_URL), "html.parser")
+        for a in soup.select('a[href*="/things-to-do/events-calendar/"]'):
+            href = a.get("href", "")
+            if href.startswith("/"):
+                href = BASE + href
+            p = urlparse(href)
+            if p.netloc.endswith("visitnh.gov") and p.path.rstrip("/") != "/things-to-do/events-calendar":
+                urls.add(href.split("#")[0].split("?")[0])
+        if urls:
+            return sorted(urls)
+    except Exception as exc:
+        print(f"Static calendar fetch failed; falling back to browser: {exc}")
 
     # Visit NH keeps background requests open, so waiting for networkidle can
     # hang even when the calendar is already usable.  Load the DOM instead and
@@ -125,9 +152,16 @@ def collect_event_urls(page):
 
 
 def scrape_event(page, url):
-    page.goto(url, wait_until="domcontentloaded", timeout=60000)
-    page.wait_for_timeout(400)
-    soup = BeautifulSoup(page.content(), "html.parser")
+    # Event detail pages are server-rendered too. Use a direct request first;
+    # keep Playwright as a fallback in case Visit NH changes that behavior.
+    try:
+        html = fetch_html(url)
+    except Exception as exc:
+        print(f"Direct event fetch failed for {url}; using browser: {exc}")
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(400)
+        html = page.content()
+    soup = BeautifulSoup(html, "html.parser")
 
     h1 = soup.find("h1")
     title = clean(h1.get_text(" ", strip=True)) if h1 else clean(
