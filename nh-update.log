@@ -1,9 +1,49 @@
+Sitemap preview: <?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.visitnh.gov/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/plan-your-trip</loc>
+    <lastmod>2026-09-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/plan-your-trip/winter</loc>
+    <lastmod>2025-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/things-to-do/events-calendar</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/industry-members</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/industry-members/login</loc>
+    <lastmod>2025-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/industry-members/register</loc>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/visitor-s-guide/subscribe-to-enewsletter</loc>
+    <lastmod>2025-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/plan-your-trip/spring</loc>
+    <lastmod>2025-11-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.visitnh.gov/plan-your-trip
 Traceback (most recent call last):
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 306, in <module>
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 307, in <module>
     main()
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 282, in main
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 283, in main
     urls = collect_event_urls(page)
            ^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 181, in collect_event_urls
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 182, in collect_event_urls
     raise RuntimeError("Visit NH calendar loaded but no event links were discovered.")
 RuntimeError: Visit NH calendar loaded but no event links were discovered.
