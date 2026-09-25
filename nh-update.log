@@ -39,11 +39,11 @@ Sitemap preview: <?xml version="1.0" encoding="utf-8"?>
   <url>
     <loc>https://www.visitnh.gov/plan-your-trip
 Traceback (most recent call last):
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 307, in <module>
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 311, in <module>
     main()
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 283, in main
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 287, in main
     urls = collect_event_urls(page)
            ^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 182, in collect_event_urls
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 186, in collect_event_urls
     raise RuntimeError("Visit NH calendar loaded but no event links were discovered.")
 RuntimeError: Visit NH calendar loaded but no event links were discovered.
