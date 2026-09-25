@@ -146,6 +146,7 @@ def collect_event_urls(page):
             break
 
     if not urls:
+        Path("nh-debug.html").write_text(page.content(), encoding="utf-8")
         raise RuntimeError("Visit NH calendar loaded but no event links were discovered.")
 
     return sorted(urls)
