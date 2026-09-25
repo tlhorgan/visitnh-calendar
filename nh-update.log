@@ -1,9 +1,9 @@
 Traceback (most recent call last):
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 274, in <module>
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 275, in <module>
     main()
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 250, in main
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 251, in main
     urls = collect_event_urls(page)
            ^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 149, in collect_event_urls
+  File "/home/runner/work/visitnh-calendar/visitnh-calendar/generate_calendar.py", line 150, in collect_event_urls
     raise RuntimeError("Visit NH calendar loaded but no event links were discovered.")
 RuntimeError: Visit NH calendar loaded but no event links were discovered.
