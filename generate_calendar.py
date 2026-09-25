@@ -96,8 +96,16 @@ def collect_event_urls(page):
     # event detail pages, so use it as the discovery fallback.
     try:
         sitemap = fetch_html(BASE + "/sitemap.xml")
-        for href in re.findall(r"<loc>\\s*(https://www\\.visitnh\\.gov/things-to-do/events-calendar/[^<]+)\\s*</loc>", sitemap, re.I):
-            urls.add(href.replace("&amp;", "&").split("#")[0].split("?")[0])
+        sitemap_docs = [sitemap]
+        child_maps = re.findall(r"<loc>\\s*([^<]+\\.xml[^<]*)\\s*</loc>", sitemap, re.I)
+        for child in child_maps[:50]:
+            try:
+                sitemap_docs.append(fetch_html(child.replace("&amp;", "&")))
+            except Exception as child_exc:
+                print(f"Child sitemap fetch failed: {child_exc}")
+        for doc in sitemap_docs:
+            for href in re.findall(r"<loc>\\s*(https://www\\.visitnh\\.gov/things-to-do/events-calendar/[^<]+)\\s*</loc>", doc, re.I):
+                urls.add(href.replace("&amp;", "&").split("#")[0].split("?")[0])
         if urls:
             print(f"Discovered {len(urls)} event URLs from sitemap")
             return sorted(urls)
