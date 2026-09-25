@@ -97,6 +97,7 @@ def collect_event_urls(page):
     try:
         sitemap = fetch_html(BASE + "/sitemap.xml")
         sitemap_docs = [sitemap]
+        print("Sitemap preview:", sitemap[:1200].replace("\\n", " "))
         child_maps = re.findall(r"<loc>\\s*([^<]+\\.xml[^<]*)\\s*</loc>", sitemap, re.I)
         for child in child_maps[:50]:
             try:
