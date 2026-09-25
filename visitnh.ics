@@ -4,57 +4,11 @@ PRODID:-//Visit NH Events Calendar//EN
 X-WR-CALNAME:Visit NH Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:"Fly Butterfly": A Dolly Parton Tribute Concert
-DTSTART:20260923T190000
-DTEND:20260923T210000
-DTSTAMP:20260923T150431Z
-UID:0d123245ad21e2e90d270515@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
- ly-butterfly-a-dolly-parton-tribute-concert
-LOCATION:36 Main Street\, Conway\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/fly-butterfly-a-d
- olly-parton-tribute-concert
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"The Swan's Secret" Watercolor Workshop with Stephanie McQuade
-DTSTART:20260923T100000
-DTEND:20260923T140000
-DTSTAMP:20260923T150431Z
-UID:c36999f51654218154469106@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
- he-swan-s-secret-watercolor-workshop-with-stephanie-mcquade
-LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/the-swan-s-secret
- -watercolor-workshop-with-stephanie-mcquade
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bill Charlap Trio
-DTSTART:20260923T193000
-DTEND:20260923T203000
-DTSTAMP:20260923T150431Z
-UID:64c0a454b8c2947ca437db31@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
- ill-charlap-trio
-LOCATION:135 Congress St\, Portsmouth\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/bill-charlap-trio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DRONE SHOW
-DTSTART:20260925T193000
-DTEND:20260925T203000
-DTSTAMP:20260923T150431Z
-UID:27c14c0a55e185ead6f0896d@visitnh-calendar
-DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
- rone-show
-LOCATION:319 New Zealand Road \, Seabrook\, NH
-URL:https://www.visitnh.gov/things-to-do/events-calendar/drone-show
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dr. Allen W. Root Distinguished Contemporary Art Lectureship: Barb
  ara Takenaga
 DTSTART:20260925T170000
 DTEND:20260925T180000
-DTSTAMP:20260923T150431Z
+DTSTAMP:20260925T233456Z
 UID:8c3c11285d730fe105156a9f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  r-allen-w-root-distinguished-contemporary-art-lectureship-barbara-takenaga
@@ -66,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Oktoberfest: Eastern Sound Polka Band
 DTSTART:20260925T180000
 DTEND:20260925T190000
-DTSTAMP:20260923T150431Z
+DTSTAMP:20260925T233456Z
 UID:b84d1432f6f0a756889594a1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
  ktoberfest-eastern-sound-polka-band
@@ -78,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Spooky World 35th Anniversary Weekend
 DTSTART:20260925T190000
 DTEND:20260926T230000
-DTSTAMP:20260923T150431Z
+DTSTAMP:20260925T233456Z
 UID:f205ea4dac780d274be54911@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  pooky-world-35th-anniversary-weekend
@@ -90,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:The Life Forest Midnight Market at The Bower
 DTSTART:20260925T180000
 DTEND:20260926T233000
-DTSTAMP:20260923T150431Z
+DTSTAMP:20260925T233456Z
 UID:8835542aef45a1d7ca931cd9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-life-forest-midnight-market-at-the-bower
@@ -104,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfeboro's Great Pumpkin Hunt
 DTSTART:20260925T070000
 DTEND:20260928T100000
-DTSTAMP:20260923T150431Z
+DTSTAMP:20260925T233456Z
 UID:b40ce551a63f2ea2d8967b55@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  olfeboro-s-great-pumpkin-hunt-ee3bc231f47d9949eb0051321e511eaa
@@ -113,15 +67,2401 @@ URL:https://www.visitnh.gov/things-to-do/events-calendar/wolfeboro-s-great
  -pumpkin-hunt-ee3bc231f47d9949eb0051321e511eaa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:14th Annual "Ralley in the Valley" Car Show
+DTSTART:20260926T090000
+DTEND:20260926T150000
+DTSTAMP:20260925T233456Z
+UID:d942bb666fed1ae48c2d6086@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/1
+ 4th-annual-ralley-in-the-valley-car-show
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/14th-annual-ralle
+ y-in-the-valley-car-show
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:27th Annual Chili Challenge
+DTSTART:20260926T120000
+DTEND:20260926T140000
+DTSTAMP:20260925T233456Z
+UID:d7695874f2bf2c5cdb7c5c96@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/2
+ 7th-annual-chili-challenge
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/27th-annual-chili
+ -challenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California Guitar Trio
+DTSTART:20260926T183000
+DTEND:20260926T213000
+DTSTAMP:20260925T233456Z
+UID:8a56f90a554f9f9f7a912e6a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ alifornia-guitar-trio-667cd87546f31bbefa08b87f69e7e767
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/california-guitar
+ -trio-667cd87546f31bbefa08b87f69e7e767
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coloring Main Street
+DTSTART:20260926T120000
+DTEND:20260926T150000
+DTSTAMP:20260925T233456Z
+UID:c818779a26c31ae1fe25d912@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ oloring-main-street
+LOCATION:Main Street\, Nashua\, Nashua\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/coloring-main-str
+ eet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Day at the Hood Museum of Art
+DTSTART:20260926T130000
+DTEND:20260926T160000
+DTSTAMP:20260925T233456Z
+UID:55f7b5a73ab9f924e8ceeb17@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ ommunity-day-at-the-hood-museum-of-art
+LOCATION:6 E Wheelock St.\, Hanover\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/community-day-at-
+ the-hood-museum-of-art
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Jovi
+DTSTART:20260926T193000
+DTEND:20260926T213000
+DTSTAMP:20260925T233456Z
+UID:80b09f2b6e9c192146bf2997@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ on-jovi
+LOCATION:58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/don-jovi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FallFest Bazaar
+DTSTART:20260926T100000
+DTEND:20260926T150000
+DTSTAMP:20260925T233456Z
+UID:3f7c60ec22dcab1e336c48d1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ allfest-bazaar
+LOCATION:Great North Woods Center for the Arts\, 1993 US Rte. 3\, Columbia
+ \, NH\, Colebrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/fallfest-bazaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvest Moon Festival
+DTSTART:20260926T100000
+DTEND:20260926T150000
+DTSTAMP:20260925T233456Z
+UID:338cf615d225849599b30853@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ arvest-moon-festival-5ce7d8478cc67712facd8c921cd6a54c
+LOCATION:18 Highlawn Road\, Warner\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/harvest-moon-fest
+ ival-5ce7d8478cc67712facd8c921cd6a54c
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Henniker Handmade & Homegrown
 DTSTART:20260926T100000
 DTEND:20260926T160000
-DTSTAMP:20260923T150431Z
+DTSTAMP:20260925T233456Z
 UID:d8c9de0f447a6143091c6a33@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  enniker-handmade-homegrown
 LOCATION:57 Main Street\, Henniker\, NH
 URL:https://www.visitnh.gov/things-to-do/events-calendar/henniker-handmade
  -homegrown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Josh Day and Friends\, A hiliarious night of stand up comedy
+DTSTART:20260926T183000
+DTEND:20260926T220000
+DTSTAMP:20260925T233456Z
+UID:81022ae2b53f53ed849cb07f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ osh-day-and-friends-a-hiliarious-night-of-stand-up-comedy
+LOCATION:8 Hanover St. \, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/josh-day-and-frie
+ nds-a-hiliarious-night-of-stand-up-comedy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ronnie Earl & the Broadcasters
+DTSTART:20260926T193000
+DTEND:20260926T203000
+DTSTAMP:20260925T233456Z
+UID:1dd618884b45fce8b9d91838@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ onnie-earl-the-broadcasters-e0f0a399e5d10a8397fe269cd7758adf
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ronnie-earl-the-b
+ roadcasters-e0f0a399e5d10a8397fe269cd7758adf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settlers Green: Fall Festival
+DTSTART:20260926T100000
+DTEND:20260926T140000
+DTSTAMP:20260925T233456Z
+UID:00b8c14de79700080c7aebdc@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ettlers-green-fall-festival
+LOCATION:2 Common Court\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-fa
+ ll-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eli "Paperboy" Reed
+DTSTART:20260927T193000
+DTEND:20260927T203000
+DTSTAMP:20260925T233456Z
+UID:30f116d5d8b28116befd09a9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ li-paperboy-reed-7f158ecae40b7df65b7f6efd6ce5ce4a
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/eli-paperboy-reed
+ -7f158ecae40b7df65b7f6efd6ce5ce4a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Henniker Handmade & Homegrown
+DTSTART:20260927T100000
+DTEND:20260927T160000
+DTSTAMP:20260925T233456Z
+UID:2bdc4c5dc428a34be5d9e307@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ enniker-handmade-homegrown-8b9be2e6bcd9075fe2580f139a8d1b10
+LOCATION:57 Main Street\, Henniker\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/henniker-handmade
+ -homegrown-8b9be2e6bcd9075fe2580f139a8d1b10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Animal Presentation with a Naturalist at Lost River Gorge & B
+ oulder Caves
+DTSTART:20260927T103000
+DTEND:20260927T113000
+DTSTAMP:20260925T233456Z
+UID:d6fdc28fb6fa4c716d2cd62d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ ive-animal-presentation-with-a-naturalist-at-lost-river-gorge-boulder-cave
+ s-7466ac60bd9489267c0ffb00da0f6cde
+LOCATION:1712 Lost River Road\, Woodstock\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/live-animal-prese
+ ntation-with-a-naturalist-at-lost-river-gorge-boulder-caves-7466ac60bd9489
+ 267c0ffb00da0f6cde
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern New Hampshire Health 5K Run/Walk
+DTSTART:20260927T090000
+DTEND:20260927T100000
+DTSTAMP:20260925T233456Z
+UID:d055de719a2f12c6c45c426a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ outhern-new-hampshire-health-5k-run-walk
+LOCATION:67 Amherst Street\, Nashua\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/southern-new-hamp
+ shire-health-5k-run-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Communities That Care
+DTSTART:20260930T090000
+DTEND:20260930T160000
+DTSTAMP:20260925T233456Z
+UID:ac808db126b42790fb8f7bf3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ ommunities-that-care
+LOCATION:24 Cottage Road\, Kensington\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/communities-that-
+ care
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition Tour
+DTSTART:20260930T123000
+DTEND:20260930T133000
+DTSTAMP:20260925T233456Z
+UID:219d2e855389068345a265a7@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ xhibition-tour
+LOCATION:6 E Wheelock St. \, Hanover\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/exhibition-tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monophonics
+DTSTART:20260930T193000
+DTEND:20260930T203000
+DTSTAMP:20260925T233456Z
+UID:2d80b0c51286c027c3b3c84a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ onophonics
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/monophonics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gifts of the Garden: Q&A Sessions - FREE
+DTSTART:20261001T090000
+DTEND:20261001T110000
+DTSTAMP:20260925T233456Z
+UID:e56b8b891bc3a95f0c24f728@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ ifts-of-the-garden-q-a-sessions-free-f1a0661444d7b44a9e6fc48533c926b5
+LOCATION:26 Audubon Way\, Auburn\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/gifts-of-the-gard
+ en-q-a-sessions-free-f1a0661444d7b44a9e6fc48533c926b5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Montgomery Band
+DTSTART:20261001T193000
+DTEND:20261001T210000
+DTSTAMP:20260925T233456Z
+UID:8b2bfc90f1ed5fd165b7b37d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ ames-montgomery-band
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/james-montgomery-
+ band
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresh Meat: A local comedy showcase headlined by touring Comedian 
+ Forrest Shaw
+DTSTART:20261002T190000
+DTEND:20261002T200000
+DTSTAMP:20260925T233456Z
+UID:717b5e04d5249832a65ba61a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ resh-meat-a-local-comedy-showcase-headlined-by-touring-comedian-forrest-sh
+ aw
+LOCATION:8 Hanover St\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/fresh-meat-a-loca
+ l-comedy-showcase-headlined-by-touring-comedian-forrest-shaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Loyalist to Liberty
+DTSTART:20261002T143000
+DTEND:20261002T160000
+DTSTAMP:20260925T233456Z
+UID:43ae4b080fc18b7e39a1e9d6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ rom-loyalist-to-liberty-d93ce053f227efe0f64aa8324dac163d
+LOCATION:10 Middle St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/from-loyalist-to-
+ liberty-d93ce053f227efe0f64aa8324dac163d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mount Washington Valley October Craft Fair
+DTSTART:20261002T100000
+DTEND:20261004T160000
+DTSTAMP:20260925T233456Z
+UID:572893b947132bc65dca07a8@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ount-washington-valley-october-craft-fair-845c84e9a08092c2e34d0e5667320fdd
+LOCATION:1 Norcross Circle\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/mount-washington-
+ valley-october-craft-fair-845c84e9a08092c2e34d0e5667320fdd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NH Book Festival
+DTSTART:20261002T103000
+DTEND:20261003T193000
+DTSTAMP:20260925T233456Z
+UID:f67d09765f4d46f2af87eae6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ h-book-festival-e51fb8118f5e161d051f5e1625e83f96
+LOCATION:44 South Main Street\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/nh-book-festival-
+ e51fb8118f5e161d051f5e1625e83f96
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruthie Foster
+DTSTART:20261002T193000
+DTEND:20261002T203000
+DTSTAMP:20260925T233456Z
+UID:b2869fbc6aed64354e277629@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ uthie-foster-50fee358635559f078742360cd9c4519
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ruthie-foster-50f
+ ee358635559f078742360cd9c4519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thoreau's WALDEN performed by William George October 2-4 at Portsm
+ outh NH's Pontine Theatre
+DTSTART:20261002T140000
+DTEND:20261004T153000
+DTSTAMP:20260925T233456Z
+UID:bf12ae5151a13fe0582a85f4@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ horeau-s-walden-performed-by-william-george-october-2-4-at-portsmouth-nh-s
+ -pontine-theatre
+LOCATION:Pontine Theatre\, Plains Schoolhouse\, #1 Plains Avenue\, Portsmo
+ uth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/thoreau-s-walden-
+ performed-by-william-george-october-2-4-at-portsmouth-nh-s-pontine-theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:27th Annual Autumn Craft Festival on the Lake
+DTSTART:20261003T100000
+DTEND:20261004T160000
+DTSTAMP:20260925T233456Z
+UID:fe7eecbbb6668a84f2dc3b01@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/2
+ 7th-annual-autumn-craft-festival-on-the-lake
+LOCATION:312 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/27th-annual-autum
+ n-craft-festival-on-the-lake
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Harvest Day
+DTSTART:20261003T090000
+DTEND:20261003T160000
+DTSTAMP:20260925T233456Z
+UID:760a9de91f9b7faf9e52204d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ pple-harvest-day
+LOCATION:550 Central Ave.\, Dover\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/apple-harvest-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applefest
+DTSTART:20261003T100000
+DTEND:20261004T160000
+DTSTAMP:20260925T233456Z
+UID:8b0d1a9f6683db796f293d28@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ pplefest-aeded3730173c4981816d631fcd5fb02
+LOCATION:70 Coburn Ave. \, Nashua\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/applefest-aeded37
+ 30173c4981816d631fcd5fb02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falling Leaf Mixed Metal Earrings Class with Deb Ryan
+DTSTART:20261003T100000
+DTEND:20261003T130000
+DTSTAMP:20260925T233456Z
+UID:ef05d25f8dc74518e5df2902@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ alling-leaf-mixed-metal-earrings-class-with-deb-ryan
+LOCATION:279 Daniel Webster Hwy\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/falling-leaf-mixe
+ d-metal-earrings-class-with-deb-ryan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Figure Drawing for Beginners
+DTSTART:20261003T100000
+DTEND:20261003T130000
+DTSTAMP:20260925T233456Z
+UID:87af5a4992a10d2f2e090d7c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ igure-drawing-for-beginners
+LOCATION:Cook Memorial Library\, 93 Main St.\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/figure-drawing-fo
+ r-beginners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harmony and Hilarity: Live A Cappella Comedy in Concord
+DTSTART:20261003T190000
+DTEND:20261003T200000
+DTSTAMP:20260925T233456Z
+UID:fbd5aaabd5a343f598a3da09@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ armony-and-hilarity-live-a-cappella-comedy-in-concord
+LOCATION:The Audi – Concord City Auditorium Concord City Auditorium\, 2 
+ Prince St.\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/harmony-and-hilar
+ ity-live-a-cappella-comedy-in-concord
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pumpkin Festival at Charmingfare Farm
+DTSTART:20261003T100000
+DTEND:20261012T160000
+DTSTAMP:20260925T233456Z
+UID:000072e409ffd534450d14ae@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ umpkin-festival-at-charmingfare-farm-07a825c9066e845c1228cc69d9205169
+LOCATION:774 High Street\, Candia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/pumpkin-festival-
+ at-charmingfare-farm-07a825c9066e845c1228cc69d9205169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skynyrd's Hatchet
+DTSTART:20261003T193000
+DTEND:20261003T203000
+DTSTAMP:20260925T233456Z
+UID:0917d3074ff025732bfac997@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ kynyrd-s-hatchet
+LOCATION:Claremont Opera House\, 58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/skynyrd-s-hatchet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Expo
+DTSTART:20261003T100000
+DTEND:20261003T150000
+DTSTAMP:20260925T233456Z
+UID:d6e312c335731e33640bf389@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-expo-7a5f7ac49e1fbf4c5b1b75bde2456909
+LOCATION:68 Technology Dr\, Bedford\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-expo-7a5f7ac4
+ 9e1fbf4c5b1b75bde2456909
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strategies for Dismantling the War Machine with Khoury Petersen-Sm
+ ith
+DTSTART:20261004T130000
+DTEND:20261004T160000
+DTSTAMP:20260925T233456Z
+UID:bb88dbfdcccb2e20def55c69@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ trategies-for-dismantling-the-war-machine-with-khoury-petersen-smith
+LOCATION:625 Mammoth Rd\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/strategies-for-di
+ smantling-the-war-machine-with-khoury-petersen-smith
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Soul Rebels
+DTSTART:20261004T193000
+DTEND:20261004T210000
+DTSTAMP:20260925T233456Z
+UID:b3e2de6d5583162ed6109583@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-soul-rebels-ae3c8fefedeabf47eeb1499409fa3ae7
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-soul-rebels-a
+ e3c8fefedeabf47eeb1499409fa3ae7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building the Past Homeschool Day
+DTSTART:20261006T100000
+DTEND:20261006T133000
+DTSTAMP:20260925T233456Z
+UID:53d609557f2bfc87ae847a50@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ uilding-the-past-homeschool-day
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/building-the-past
+ -homeschool-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Bake: Pizza with a Purpose!
+DTSTART:20261006T163000
+DTEND:20261006T200000
+DTSTAMP:20260925T233456Z
+UID:4ee10832f68aebe74eb85ea0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ ommunity-bake-pizza-with-a-purpose!
+LOCATION:Flatbread Company of North Conway\, 2952 White Mountain Highway\,
+  North Conway\, NH 03860\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/community-bake-pi
+ zza-with-a-purpose!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Beginner's Guide to Cemetery Sleuthing with Erin Moulton
+DTSTART:20261007T173000
+DTEND:20261007T183000
+DTSTAMP:20260925T233456Z
+UID:dee7000b3c38b0a247dae2c0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ -beginner-s-guide-to-cemetery-sleuthing-with-erin-moulton
+LOCATION:239 Atlantic Avenue \, North Hampton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/a-beginner-s-guid
+ e-to-cemetery-sleuthing-with-erin-moulton
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolyn Wonderland
+DTSTART:20261007T193000
+DTEND:20261007T210000
+DTSTAMP:20260925T233456Z
+UID:bbd787d833d757e880509cfe@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ arolyn-wonderland
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/carolyn-wonderlan
+ d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Fright Night Lite
+DTSTART:20261008T190000
+DTEND:20261008T203000
+DTSTAMP:20260925T233456Z
+UID:8110582bed40e9d7ba4affe6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-fright-night-lite
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ fright-night-lite
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACNH/Portsmouth Athenaeum present Continental Power\, Maritime Po
+ wer and the New World Order\,
+DTSTART:20261008T180000
+DTEND:20261008T190000
+DTSTAMP:20260925T233456Z
+UID:8f21a6e15475aaf203d014c2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ acnh-portsmouth-athenaeum-present-continental-power-maritime-power-and-the
+ -new-world-order
+LOCATION:Portsmouth Athenaeum\, 9 Market Square\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/wacnh-portsmouth-
+ athenaeum-present-continental-power-maritime-power-and-the-new-world-order
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Foliage Fest
+DTSTART:20261009T090000
+DTEND:20261011T160000
+DTSTAMP:20260925T233456Z
+UID:27b8e318ed95e9a1256100fe@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ all-foliage-fest
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/fall-foliage-fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GHOST LIGHT - A Haunting Experience
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260925T233456Z
+UID:b6421541181fea235cb68711@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ host-light-a-haunting-experience
+LOCATION:34 Papermill Drive\, Lincoln\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ghost-light-a-hau
+ nting-experience
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261009T100000
+DTEND:20261009T160000
+DTSTAMP:20260925T233456Z
+UID:1b858d42bf5580324a5a2ef0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260925T233456Z
+UID:a385afeaf059f470b2dd656d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-ad2225141af1d8bd28966abefe
+ 01e543
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-ad2225141af1d8bd28966abefe01e543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPEN STUDIOS and Bakery Pop=Up
+DTSTART:20261009T090000
+DTEND:20261012T170000
+DTSTAMP:20260925T233456Z
+UID:3503eb495df08cdda4f5f642@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
+ pen-studios-and-bakery-pop-up
+LOCATION:12 Cogswell Hill Road\, Canterbury\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/open-studios-and-
+ bakery-pop-up
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Craft: Fall Puzzle Coloring
+DTSTART:20261010T100000
+DTEND:20261010T110000
+DTSTAMP:20260925T233456Z
+UID:31417c1a4169cf152c9de4d6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ amily-craft-fall-puzzle-coloring
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/family-craft-fall
+ -puzzle-coloring
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261010T100000
+DTEND:20261010T160000
+DTSTAMP:20260925T233456Z
+UID:da526b194388308c03247ab0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-df8aec9a0dcb92b47f7c441e41fec278
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-df8aec9a0dcb92b47f7c441e41fec278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T233456Z
+UID:1cb9fd0a0a645d1521b06033@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quixotic! Presented by Franklin Opera House
+DTSTART:20261010T190000
+DTEND:20261010T200000
+DTSTAMP:20260925T233456Z
+UID:0cde9e042d57406820625b6b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/q
+ uixotic!-presented-by-franklin-opera-house
+LOCATION:310 Central St. Franklin\, NH 03235\, Franklin\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/quixotic!-present
+ ed-by-franklin-opera-house
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settlers Green: Busker Festival
+DTSTART:20261010T110000
+DTEND:20261011T150000
+DTSTAMP:20260925T233456Z
+UID:4c0086449fa5d4bdb3b096ed@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ettlers-green-busker-festival
+LOCATION:2 Common Court\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-bu
+ sker-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tell Me Lies
+DTSTART:20261010T193000
+DTEND:20261010T203000
+DTSTAMP:20260925T233456Z
+UID:a63d5cceb3aab1a7def61dab@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ ell-me-lies
+LOCATION:Claremont Opera House\, 58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/tell-me-lies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4th Annual Schwendi Fest
+DTSTART:20261011T100000
+DTEND:20261011T170000
+DTSTAMP:20260925T233456Z
+UID:113c34b9d794c0fcd781f47c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/4
+ th-annual-schwendi-fest
+LOCATION:1 Ski Area Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/4th-annual-schwen
+ di-fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261011T100000
+DTEND:20261011T160000
+DTSTAMP:20260925T233456Z
+UID:0ca96b366ea7e21c49f203c1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-a94ebf0fd0cde4a4ff9e03c889057d7e
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-a94ebf0fd0cde4a4ff9e03c889057d7e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260925T233456Z
+UID:40dc35804969d77c6e6e33a4@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-de822d3f6afc64bea7bf616d96
+ 3a86d0
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-de822d3f6afc64bea7bf616d963a86d0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oh Biscuits Breakfast!
+DTSTART:20261011T090000
+DTEND:20261011T110000
+DTSTAMP:20260925T233456Z
+UID:5872d4d3e8074c014a52c468@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
+ h-biscuits-breakfast!-eacc6f1ee86242ccbe163e43e693f921
+LOCATION:1500 South Willow Street \, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/oh-biscuits-break
+ fast!-eacc6f1ee86242ccbe163e43e693f921
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animal Encounter Series: New Hampshire Wildlife
+DTSTART:20261012T100000
+DTEND:20261012T110000
+DTSTAMP:20260925T233456Z
+UID:b934ff6cf6e1ba62b80b0b21@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ nimal-encounter-series-new-hampshire-wildlife-698629331cc2dec61901cc62a2f5
+ 6a67
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/animal-encounter-
+ series-new-hampshire-wildlife-698629331cc2dec61901cc62a2f56a67
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indigenous Peoples' Day
+DTSTART:20261012T100000
+DTEND:20261012T160000
+DTSTAMP:20260925T233456Z
+UID:f2b6e2864ce4f03d125e59f0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
+ ndigenous-peoples-day-9bcccd2c8a51762f01032c5b8a8d1723
+LOCATION:18 Highlawn Road\, Warner\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/indigenous-people
+ s-day-9bcccd2c8a51762f01032c5b8a8d1723
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bywater Call
+DTSTART:20261014T193000
+DTEND:20261014T210000
+DTSTAMP:20260925T233456Z
+UID:a5207915fc29d5120c936d4b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ ywater-call-8dd6448014927794823d5979cd391e34
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/bywater-call-8dd6
+ 448014927794823d5979cd391e34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Fright Night Lite
+DTSTART:20261015T190000
+DTEND:20261015T203000
+DTSTAMP:20260925T233456Z
+UID:d570480a8dbced1e13cb1518@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-fright-night-lite-adbfd6686ac7875230da6ac9a9f951f5
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ fright-night-lite-adbfd6686ac7875230da6ac9a9f951f5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghosts on the Banke—A Family-Friendly Halloween
+DTSTART:20261016T170000
+DTEND:20261016T200000
+DTSTAMP:20260925T233456Z
+UID:33405aeda30698bbec4456c8@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ hosts-on-the-banke-a-family-friendly-halloween
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ghosts-on-the-ban
+ ke-a-family-friendly-halloween
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261016T100000
+DTEND:20261016T160000
+DTSTAMP:20260925T233456Z
+UID:8e68d9389f7e0b537c229ea9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-03653e879716586a3710bba01003f1c8
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-03653e879716586a3710bba01003f1c8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260925T233456Z
+UID:840873660a6bf26b48d20fe0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-fe4f3edf494221b932f4dc4d18
+ 640381
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-fe4f3edf494221b932f4dc4d18640381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryan Byrne Band at the Medallion Opera House
+DTSTART:20261016T190000
+DTEND:20261016T210000
+DTSTAMP:20260925T233456Z
+UID:ca11808d087294b35e5e8b6f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ yan-byrne-band-at-the-medallion-opera-house
+LOCATION:Medallion Opera House\, 20 Park St\, Gorham\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ryan-byrne-band-a
+ t-the-medallion-opera-house
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dustbowl Revival
+DTSTART:20261016T193000
+DTEND:20261016T203000
+DTSTAMP:20260925T233456Z
+UID:052c6343a9d402934ec3651f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-dustbowl-revival
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-dustbowl-revi
+ val
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedian\, Daniel Simonsen featuring Ben Chadwick and Hosted by Ka
+ ty Coughlin in Manchester
+DTSTART:20261017T183000
+DTEND:20261017T233000
+DTSTAMP:20260925T233456Z
+UID:8b864a687db74ce99b3ab9f2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ omedian-daniel-simonsen-featuring-ben-chadwick-and-hosted-by-katy-coughlin
+ -in-manchester
+LOCATION:8 Hanover St\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/comedian-daniel-s
+ imonsen-featuring-ben-chadwick-and-hosted-by-katy-coughlin-in-manchester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghosts on the Banke—A Family-Friendly Halloween
+DTSTART:20261017T170000
+DTEND:20261017T200000
+DTSTAMP:20260925T233456Z
+UID:a2ac726209b22900a66282a3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ hosts-on-the-banke-a-family-friendly-halloween-43692ed57d01d0786f60a02fc60
+ 9b8cb
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ghosts-on-the-ban
+ ke-a-family-friendly-halloween-43692ed57d01d0786f60a02fc609b8cb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvest and Rust
+DTSTART:20261017T193000
+DTEND:20261017T203000
+DTSTAMP:20260925T233456Z
+UID:5c01d85a1d6ef6567871a914@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ arvest-and-rust
+LOCATION:Claremont Opera House\, 58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/harvest-and-rust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261017T100000
+DTEND:20261017T160000
+DTSTAMP:20260925T233456Z
+UID:ed0c5805461ea26ffd9c76bd@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-d96137443d694db650948cc4df46063f
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-d96137443d694db650948cc4df46063f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260925T233456Z
+UID:3e0f908b50145d06fe6886cc@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-b519c73dc7683843bf232bd7ae
+ e25d1a
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-b519c73dc7683843bf232bd7aee25d1a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leaf Peeper's Craft Fair
+DTSTART:20261017T100000
+DTEND:20261018T160000
+DTSTAMP:20260925T233456Z
+UID:ad829c1d26dbb8fefef1deb9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ eaf-peeper-s-craft-fair-69fef430f0434595b5b629742502229b
+LOCATION:1 Norcross Circle\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/leaf-peeper-s-cra
+ ft-fair-69fef430f0434595b5b629742502229b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powerhouse Theatre Collaborative presents Hook's Tale
+DTSTART:20261017T130000
+DTEND:20261017T150000
+DTSTAMP:20260925T233456Z
+UID:980ff21da219b9ee7acfb9ef@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ owerhouse-theatre-collaborative-presents-hook-s-tale
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/powerhouse-theatr
+ e-collaborative-presents-hook-s-tale
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seed Saving of Native Plants
+DTSTART:20261017T100000
+DTEND:20261017T113000
+DTSTAMP:20260925T233456Z
+UID:0519af4cd9f288f47124622d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ eed-saving-of-native-plants
+LOCATION:26 Audubon Way\, Auburn\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/seed-saving-of-na
+ tive-plants
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storybook Walk: Join Us to Celebrate “Halloween in Good Cheer”
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260925T233456Z
+UID:7ae17f53827796962f1e0467@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ torybook-walk-join-us-to-celebrate-halloween-in-good-cheer
+LOCATION:77 Pine Hill Drive\, Wilton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/storybook-walk-jo
+ in-us-to-celebrate-halloween-in-good-cheer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tricks and Treats
+DTSTART:20261017T183000
+DTEND:20261017T213000
+DTSTAMP:20260925T233456Z
+UID:e5e40088b66bcec65924f162@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ ricks-and-treats
+LOCATION:266 North Main Street\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/tricks-and-treats
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts Council of Tamworth Fundraiser with Revo Casino
+DTSTART:20261018T080000
+DTEND:20261022T010000
+DTSTAMP:20260925T233456Z
+UID:a8a589e98fc3e100b551e292@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ rts-council-of-tamworth-fundraiser-with-revo-casino
+LOCATION:Revo Casino and Social House in Conway 234 White Mountain Hwy. Co
+ nway\, NH 03818\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/arts-council-of-t
+ amworth-fundraiser-with-revo-casino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvest Hues
+DTSTART:20261018T130000
+DTEND:20261018T150000
+DTSTAMP:20260925T233456Z
+UID:2cb25089c85df23199d44d03@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ arvest-hues
+LOCATION:266 North Main Street\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/harvest-hues
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261018T100000
+DTEND:20261018T160000
+DTSTAMP:20260925T233456Z
+UID:f26793103eaa7e3d47c60add@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-9e500bce10752ca3996db434e37a0f7f
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-9e500bce10752ca3996db434e37a0f7f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20260925T233456Z
+UID:f07d4ae3c7f6a80f88b12fb5@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-40fcaed2c8d3748c49a7a3465b
+ 35f7e5
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-40fcaed2c8d3748c49a7a3465b35f7e5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patty Larkin & Lucy Kaplansky
+DTSTART:20261018T193000
+DTEND:20261018T203000
+DTSTAMP:20260925T233456Z
+UID:a4f7b511ef4f226df682945b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ atty-larkin-lucy-kaplansky
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/patty-larkin-lucy
+ -kaplansky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychic Medium Lauren Rainbow at Medallion Opera House
+DTSTART:20261018T180000
+DTEND:20261019T203000
+DTSTAMP:20260925T233456Z
+UID:29750aff447e2691fb25ca69@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ sychic-medium-lauren-rainbow-at-medallion-opera-house
+LOCATION:Medallion Opera House\, 20 Park St\, Gorham\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/psychic-medium-la
+ uren-rainbow-at-medallion-opera-house
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Seven to Save Announcement
+DTSTART:20261020T170000
+DTEND:20261020T190000
+DTSTAMP:20260925T233456Z
+UID:e6ebdcec249e5201f564bf03@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/2
+ 026-seven-to-save-announcement
+LOCATION:1598 Dover Road\, Epsom\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/2026-seven-to-sav
+ e-announcement
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danilo Pérez Trio: Panamonk
+DTSTART:20261021T193000
+DTEND:20261021T203000
+DTSTAMP:20260925T233456Z
+UID:3a98f909e554a70886cb9fcd@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ anilo-perez-trio-panamonk
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/danilo-perez-trio
+ -panamonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greet Halloween with Edgar Allan Poe
+DTSTART:20261022T180000
+DTEND:20261022T190000
+DTSTAMP:20260925T233456Z
+UID:132cfeac1a52283382a2260c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ reet-halloween-with-edgar-allan-poe
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/greet-halloween-w
+ ith-edgar-allan-poe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Fright Night Lite
+DTSTART:20261022T190000
+DTEND:20261022T203000
+DTSTAMP:20260925T233456Z
+UID:f5edd0f129cf1815ff6bdcf3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-fright-night-lite-5fc5b2017b707eb2542ce0b342e50067
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ fright-night-lite-5fc5b2017b707eb2542ce0b342e50067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coco Montoya
+DTSTART:20261023T193000
+DTEND:20261023T203000
+DTSTAMP:20260925T233456Z
+UID:b2945d7e99130359faedfb5d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ oco-montoya
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/coco-montoya
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghosts on the Banke—A Family-Friendly Halloween
+DTSTART:20261023T170000
+DTEND:20261023T200000
+DTSTAMP:20260925T233456Z
+UID:28a29a95b0070540219fc755@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ hosts-on-the-banke-a-family-friendly-halloween-51640558300bfd5afda7a005c2d
+ aac04
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ghosts-on-the-ban
+ ke-a-family-friendly-halloween-51640558300bfd5afda7a005c2daac04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261023T100000
+DTEND:20261023T160000
+DTSTAMP:20260925T233456Z
+UID:3d72a767f0aba9819daeb551@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-2931265cb4f214afc8145cf848a2616d
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-2931265cb4f214afc8145cf848a2616d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260925T233456Z
+UID:5ee70780b5c0ec2bbbb2d258@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-3661177585b7832a4eaaa7ef15
+ 874fa7
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-3661177585b7832a4eaaa7ef15874fa7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settlers Green: Boo Bash
+DTSTART:20261023T160000
+DTEND:20261023T190000
+DTSTAMP:20260925T233456Z
+UID:217f981baf8179a18bb3d06d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ettlers-green-boo-bash
+LOCATION:2 Common Court\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-bo
+ o-bash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Night Before Laconia Pumpkin Fest
+DTSTART:20261023T170000
+DTEND:20261023T210000
+DTSTAMP:20260925T233456Z
+UID:a41fcd34183246fef257db7f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-night-before-laconia-pumpkin-fest
+LOCATION:Downtown Laconia\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-night-before-
+ laconia-pumpkin-fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva Las Elvis
+DTSTART:20261023T193000
+DTEND:20261023T210000
+DTSTAMP:20260925T233456Z
+UID:b69365a93b89cbbebbb37651@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
+ iva-las-elvis-09890f15d55b597e776b6feda3e7b1b7
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/viva-las-elvis-09
+ 890f15d55b597e776b6feda3e7b1b7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beatles Tribute
+DTSTART:20261024T193000
+DTEND:20261024T220000
+DTSTAMP:20260925T233456Z
+UID:649a1da4f310e8af987a1982@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
+ eatles-tribute
+LOCATION:Inter-Lakes High School\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/beatles-tribute
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devine & Nix Presented By Franklin Opera House
+DTSTART:20261024T190000
+DTEND:20261024T200000
+DTSTAMP:20260925T233456Z
+UID:50840d2521a253e33336a2b5@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ evine-nix-presented-by-franklin-opera-house
+LOCATION:310 Central St. Franklin\, NH 03235\, Franklin\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/devine-nix-presen
+ ted-by-franklin-opera-house
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Halloween Bash with Meredith Parks and Rec
+DTSTART:20261024T170000
+DTEND:20261024T190000
+DTSTAMP:20260925T233456Z
+UID:e75ff146086113a99ea1526c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ amily-halloween-bash-with-meredith-parks-and-rec
+LOCATION:1 Circle Drive \, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/family-halloween-
+ bash-with-meredith-parks-and-rec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghosts on the Banke—A Family-Friendly Halloween
+DTSTART:20261024T170000
+DTEND:20261024T200000
+DTSTAMP:20260925T233456Z
+UID:18858aed4b88f59cdb134294@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ hosts-on-the-banke-a-family-friendly-halloween-1edff16902819964a367fc7f017
+ 6476c
+LOCATION:14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ghosts-on-the-ban
+ ke-a-family-friendly-halloween-1edff16902819964a367fc7f0176476c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Halloween Happenings
+DTSTART:20261024T154500
+DTEND:20261024T190000
+DTSTAMP:20260925T233456Z
+UID:53fb78b2c5641471eda26754@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-halloween-happenings-8490a26ec58574da5c5f6aad9b3eaba5
+LOCATION:33 Village Rd\, Waterville Valley\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-halloween
+ -happenings-8490a26ec58574da5c5f6aad9b3eaba5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261024T100000
+DTEND:20261024T160000
+DTSTAMP:20260925T233456Z
+UID:be967cb13eeb96102338b31c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-de52c57c29370f18179804829e931523
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-de52c57c29370f18179804829e931523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T233456Z
+UID:575cd3a0be8d7e9c572a2dbc@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-90f7f8d11d26191f94e66deb91
+ d13216
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-90f7f8d11d26191f94e66deb91d13216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laconia Pumpkin Festival
+DTSTART:20261024T000000
+DTEND:20261025T000000
+DTSTAMP:20260925T233456Z
+UID:5b3c682ecf32f836b8b709ab@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ aconia-pumpkin-festival
+LOCATION:45 Beacon East\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/laconia-pumpkin-f
+ estival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Main Street Monster Mash and Howl-O-Ween
+DTSTART:20261024T110000
+DTEND:20261024T130000
+DTSTAMP:20260925T233456Z
+UID:b3d3a268d783153e28f8bce8@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ ain-street-monster-mash-and-howl-o-ween
+LOCATION:Main Street\, Nashua\, Nashua\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/main-street-monst
+ er-mash-and-howl-o-ween
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean Discovery Day
+DTSTART:20261024T100000
+DTEND:20261024T150000
+DTSTAMP:20260925T233456Z
+UID:97a0639bec74509af1533cba@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
+ cean-discovery-day-7b526429c732fb6a546f8d680cf92300
+LOCATION:24 Colovos Rd\, Durham\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ocean-discovery-d
+ ay-7b526429c732fb6a546f8d680cf92300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Songbird: The Singular Tribute to Barbra Streisand
+DTSTART:20261024T193000
+DTEND:20261024T210000
+DTSTAMP:20260925T233456Z
+UID:3c5f08e6886f7bd7c72c0745@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ongbird-the-singular-tribute-to-barbra-streisand
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/songbird-the-sing
+ ular-tribute-to-barbra-streisand
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261025T100000
+DTEND:20261025T160000
+DTSTAMP:20260925T233456Z
+UID:097143081045999befe3fe23@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-ed59d5eb8b257f47caa45fcb689f491a
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-ed59d5eb8b257f47caa45fcb689f491a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20260925T233456Z
+UID:ae1cc35dc9d40bc6b50fbe28@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-9f5171e9b0d0f674dde786c463
+ 525f5d
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-9f5171e9b0d0f674dde786c463525f5d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Understanding Medicare and Your Options
+DTSTART:20261027T100000
+DTEND:20261027T110000
+DTSTAMP:20260925T233456Z
+UID:7a5323513d6ae70751260f70@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/u
+ nderstanding-medicare-and-your-options-dfed91ccd2250bba9bc13fdee0c10cde
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/understanding-med
+ icare-and-your-options-dfed91ccd2250bba9bc13fdee0c10cde
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2nd Annual NH Author Meet and Greet at Laconia Public Library
+DTSTART:20261028T180000
+DTEND:20261028T194500
+DTSTAMP:20260925T233456Z
+UID:3ee166dbfdc2a748674b7ab8@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/2
+ nd-annual-nh-author-meet-and-greet-at-laconia-public-library
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/2nd-annual-nh-aut
+ hor-meet-and-greet-at-laconia-public-library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five Masters of Jazz
+DTSTART:20261028T193000
+DTEND:20261028T203000
+DTSTAMP:20260925T233456Z
+UID:4f3e294559c49d4471c733d0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ ive-masters-of-jazz
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/five-masters-of-j
+ azz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five Masters of Jazz at Jimmy’s Jazz and Blues Club
+DTSTART:20261028T193000
+DTEND:20261028T210000
+DTSTAMP:20260925T233456Z
+UID:4da4bf1fc109f4c6a10a68ef@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
+ ive-masters-of-jazz-at-jimmy-s-jazz-and-blues-club
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/five-masters-of-j
+ azz-at-jimmy-s-jazz-and-blues-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Fright Night Lite
+DTSTART:20261029T190000
+DTEND:20261029T203000
+DTSTAMP:20260925T233456Z
+UID:1746c6f57a6df6f1d436ed46@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-fright-night-lite-621b38b1e0563b2240548fdc9cb62638
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ fright-night-lite-621b38b1e0563b2240548fdc9cb62638
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathis Picard
+DTSTART:20261029T193000
+DTEND:20261029T203000
+DTSTAMP:20260925T233456Z
+UID:1253d22f0f601bbf75acd17b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ athis-picard
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/mathis-picard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Monster Storytime
+DTSTART:20261029T100000
+DTEND:20261029T110000
+DTSTAMP:20260925T233456Z
+UID:0c1f240db48f578763906c93@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ pecial-monster-storytime
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/special-monster-s
+ torytime
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rocky Horror Picture Show with Live Shadow Cast
+DTSTART:20261029T200000
+DTEND:20261029T220000
+DTSTAMP:20260925T233456Z
+UID:3a52b22ce37560c0df4ea5da@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-rocky-horror-picture-show-with-live-shadow-cast
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-rocky-horror-
+ picture-show-with-live-shadow-cast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ally Venable
+DTSTART:20261030T193000
+DTEND:20261030T203000
+DTSTAMP:20260925T233456Z
+UID:100d211ca4cc9e4460a87369@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ lly-venable
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/ally-venable
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261030T100000
+DTEND:20261030T160000
+DTSTAMP:20260925T233456Z
+UID:69edc60b96a0bcbbf64a026a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-9ea5fa572a7e7c6d536e688a8ff3feb4
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-9ea5fa572a7e7c6d536e688a8ff3feb4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20260925T233456Z
+UID:0b37374e8c79e382a0fceb79@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event-ticketed-time-blocks-84662f062f6369df56565e4349
+ bab31f
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event-ticketed-time-blocks-84662f062f6369df56565e4349bab31f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rocky Horror Picture Show with Live Shadow Cast
+DTSTART:20261030T000000
+DTEND:20261030T020000
+DTSTAMP:20260925T233456Z
+UID:54a7dbe5356a14f87a414dd1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-rocky-horror-picture-show-with-live-shadow-cast-2d5e969b46cc2f27ceae498
+ d179309c8
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-rocky-horror-
+ picture-show-with-live-shadow-cast-2d5e969b46cc2f27ceae498d179309c8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rocky Horror Picture Show with Live Shadow Cast
+DTSTART:20261030T190000
+DTEND:20261030T210000
+DTSTAMP:20260925T233456Z
+UID:fbe42f2b17249ae24511c1d3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-rocky-horror-picture-show-with-live-shadow-cast-be7740536e135d6b627248a
+ 2612e23d1
+LOCATION:36 Main Street\, Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-rocky-horror-
+ picture-show-with-live-shadow-cast-be7740536e135d6b627248a2612e23d1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261031T100000
+DTEND:20261031T160000
+DTSTAMP:20260925T233456Z
+UID:8b771ac41f9dffaa1fbfd6e2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-a98968a415cf9feec06c67eb67a4a2d7
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-a98968a415cf9feec06c67eb67a4a2d7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Main Event
+DTSTART:20261031T184500
+DTEND:20261031T210000
+DTSTAMP:20260925T233456Z
+UID:47dda653e290d52fb80841bc@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-main-event
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ main-event
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High Mowing High School Open House
+DTSTART:20261031T100000
+DTEND:20261031T123000
+DTSTAMP:20260925T233456Z
+UID:6b07fc6ad658510d208e4c9e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ igh-mowing-high-school-open-house
+LOCATION:222 Isaac Frye Highway\, Wilton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/high-mowing-high-
+ school-open-house
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Craft Fair
+DTSTART:20261031T100000
+DTEND:20261101T150000
+DTSTAMP:20260925T233456Z
+UID:28f9ed9d4577e32867e7acfa@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ oliday-craft-fair
+LOCATION:120 Laconia Road\, Tilton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/holiday-craft-fai
+ r
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jimmy's Monster Halloween Dance Party
+DTSTART:20261031T210000
+DTEND:20261031T230000
+DTSTAMP:20260925T233456Z
+UID:2aed58417e9286a87bd7340f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ immy-s-monster-halloween-dance-party
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/jimmy-s-monster-h
+ alloween-dance-party
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Day Haunt
+DTSTART:20261101T100000
+DTEND:20261101T160000
+DTSTAMP:20260925T233456Z
+UID:00dcf56ebb6877f242fc02c0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-day-haunt-5ab96c92d02abd4e902c9bc4ab9776a8
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ day-haunt-5ab96c92d02abd4e902c9bc4ab9776a8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Overload - Devil’s Night (Ticketed Time Blocks)
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260925T233456Z
+UID:f5d7611b5f64507d462e105f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ aunted-overload-devil-s-night-ticketed-time-blocks
+LOCATION:20 Orchard Way\, Lee\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/haunted-overload-
+ devil-s-night-ticketed-time-blocks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12\,000 Years Ago in the Granite State
+DTSTART:20261103T183000
+DTEND:20261103T193000
+DTSTAMP:20260925T233456Z
+UID:e82f8e444f7543dbb51cf634@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/1
+ 2-000-years-ago-in-the-granite-state
+LOCATION:239 Atlantic Avenue\, North Hampton\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/12-000-years-ago-
+ in-the-granite-state
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settlers Green: Bring A Friend
+DTSTART:20261106T080000
+DTEND:20261111T200000
+DTSTAMP:20260925T233456Z
+UID:72c501694cc2ec3e237510b0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ettlers-green-bring-a-friend
+LOCATION:2 Common Court\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-br
+ ing-a-friend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journal Writing Workshop
+DTSTART:20261107T090000
+DTEND:20261107T143000
+DTSTAMP:20260925T233456Z
+UID:c141c1494c3db19d02d54d52@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ ournal-writing-workshop
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/journal-writing-w
+ orkshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn to Knit: A Simple Beanie!
+DTSTART:20261107T130000
+DTEND:20261107T150000
+DTSTAMP:20260925T233456Z
+UID:0d073c8d4d397859983ae2bd@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
+ earn-to-knit-a-simple-beanie!
+LOCATION:Tamworth History Center\, 25 Great Hill Rd.\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/learn-to-knit-a-s
+ imple-beanie!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thunderbeard
+DTSTART:20261107T193000
+DTEND:20261107T203000
+DTSTAMP:20260925T233456Z
+UID:564f7630b630887239116af2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ hunderbeard
+LOCATION:Claremont Opera House\, 58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/thunderbeard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weave a Scarf in a Day Workshop
+DTSTART:20261107T100000
+DTEND:20261107T140000
+DTSTAMP:20260925T233456Z
+UID:98c399f1c148a653ac1de375@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ eave-a-scarf-in-a-day-workshop
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/weave-a-scarf-in-
+ a-day-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gallery of Gifts: Holiday Artisan Marketplace
+DTSTART:20261110T110000
+DTEND:20261127T160000
+DTSTAMP:20260925T233456Z
+UID:39078c770f866bd9ba25311d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ allery-of-gifts-holiday-artisan-marketplace
+LOCATION:58 N. Main Street\, Newport\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/gallery-of-gifts-
+ holiday-artisan-marketplace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weave a Scarf in a Day Workshop
+DTSTART:20261111T100000
+DTEND:20261111T140000
+DTSTAMP:20260925T233456Z
+UID:08cb8b26b05887714c0a2a27@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ eave-a-scarf-in-a-day-workshop-e7ce30cf0a85178ebd86aa5fed414c9d
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/weave-a-scarf-in-
+ a-day-workshop-e7ce30cf0a85178ebd86aa5fed414c9d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patti Austin 6pm
+DTSTART:20261112T180000
+DTEND:20261112T190000
+DTSTAMP:20260925T233456Z
+UID:eeec8648c9e3ff43ad2cc47e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ atti-austin-6pm
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/patti-austin-6pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patti Austin 8:30pm
+DTSTART:20261112T203000
+DTEND:20261112T213000
+DTSTAMP:20260925T233456Z
+UID:6997f4e6807a9ec966058206@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ atti-austin-8-30pm
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/patti-austin-8-30
+ pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampires in New England - with author Thomas D'Agostino
+DTSTART:20261112T180000
+DTEND:20261112T190000
+DTSTAMP:20260925T233456Z
+UID:3acce53eb9d8ab0b0893fa67@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
+ ampires-in-new-england-with-author-thomas-d-agostino
+LOCATION:Laconia Public Library - 695 N Main St\, Laconia\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/vampires-in-new-e
+ ngland-with-author-thomas-d-agostino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Murder in Black & White" Murder Mystery Dessert Theatre
+DTSTART:20261113T190000
+DTEND:20261113T200000
+DTSTAMP:20260925T233456Z
+UID:d3de82bbf1b591a5b1b41220@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ urder-in-black-white-murder-mystery-dessert-theatre
+LOCATION:Franklin Lodge of Elks S. Main St. Franklin\, NH\, Franklin\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/murder-in-black-w
+ hite-murder-mystery-dessert-theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dueling Pianos LIVE!
+DTSTART:20261113T193000
+DTEND:20261113T210000
+DTSTAMP:20260925T233456Z
+UID:ec9e392731511f77db34619b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ ueling-pianos-live!
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/dueling-pianos-li
+ ve!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening With - John Splithoff Stripped Tour
+DTSTART:20261113T193000
+DTEND:20261113T203000
+DTSTAMP:20260925T233456Z
+UID:9864c279481814635234fedd@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ vening-with-john-splithoff-stripped-tour
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/evening-with-john
+ -splithoff-stripped-tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Murder in Black & White" Murder Mystery Dessert Theatre
+DTSTART:20261114T190000
+DTEND:20261114T200000
+DTSTAMP:20260925T233456Z
+UID:32c94fac6a45754c470cc9a1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ urder-in-black-white-murder-mystery-dessert-theatre-fa3e8ad01ffd323f20a0cd
+ 0820344367
+LOCATION:Franklin Lodge of Elks S. Main St. Franklin\, NH\, Franklin\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/murder-in-black-w
+ hite-murder-mystery-dessert-theatre-fa3e8ad01ffd323f20a0cd0820344367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crosswind - The Chris Stapleton Experience
+DTSTART:20261114T190000
+DTEND:20261114T210000
+DTSTAMP:20260925T233456Z
+UID:d5e77e5656a535235ed98581@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ rosswind-the-chris-stapleton-experience
+LOCATION:Medallion Opera House\, 20 Park St\, Gorham\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/crosswind-the-chr
+ is-stapleton-experience
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening With - John Splithoff Stripped Tour
+DTSTART:20261114T193000
+DTEND:20261114T203000
+DTSTAMP:20260925T233456Z
+UID:3a5ef15d8afa5f645ca98659@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/e
+ vening-with-john-splithoff-stripped-tour-a37fb734815c175a8530c03fa0db6b45
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/evening-with-john
+ -splithoff-stripped-tour-a37fb734815c175a8530c03fa0db6b45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Folsom 4
+DTSTART:20261114T193000
+DTEND:20261114T203000
+DTSTAMP:20260925T233456Z
+UID:6f4c7a86f0a5a6d3ee9dd68d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ ohnny-folsom-4-04a4963df2dde9d7dfa0e3b305cb01f0
+LOCATION:Claremont Opera House\, 58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/johnny-folsom-4-0
+ 4a4963df2dde9d7dfa0e3b305cb01f0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pope Memorial SPCA Frosty Paws 5K
+DTSTART:20261114T080000
+DTEND:20261114T113000
+DTSTAMP:20260925T233456Z
+UID:6de573b74847a153575575c6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ ope-memorial-spca-frosty-paws-5k
+LOCATION:Banks Humane Education Center 95 Silk Farm Road\, Concord\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/pope-memorial-spc
+ a-frosty-paws-5k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand Up Comedy w/ Orlando Baxter and more
+DTSTART:20261114T190000
+DTEND:20261114T200000
+DTSTAMP:20260925T233456Z
+UID:5b7824658c465f7ef4b93333@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ tand-up-comedy-w-orlando-baxter-and-more
+LOCATION:8 Hanover St\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/stand-up-comedy-w
+ -orlando-baxter-and-more
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weave a Scarf in a Day Workshop
+DTSTART:20261114T100000
+DTEND:20261114T140000
+DTSTAMP:20260925T233456Z
+UID:9ee38a6b585ad41f425e5155@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ eave-a-scarf-in-a-day-workshop-70c263fd42f816f24a4d28f274b5eb20
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/weave-a-scarf-in-
+ a-day-workshop-70c263fd42f816f24a4d28f274b5eb20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15th Annual Community Holiday Craft Fair
+DTSTART:20261121T090000
+DTEND:20261121T140000
+DTSTAMP:20260925T233456Z
+UID:ad1bc325254edc72bc6091a9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/1
+ 5th-annual-community-holiday-craft-fair
+LOCATION:1 Circle Drive\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/15th-annual-commu
+ nity-holiday-craft-fair
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mania
+DTSTART:20261121T193000
+DTEND:20261121T203000
+DTSTAMP:20260925T233456Z
+UID:f160505a5c247e8adf46d761@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
+ amma-mania
+LOCATION:Claremont Opera House\, 58 Opera House Square\, Claremont\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/mamma-mania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Sullivan
+DTSTART:20261121T193000
+DTEND:20261121T203000
+DTSTAMP:20260925T233456Z
+UID:dc873e548189e93d10d3a49f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/q
+ uinn-sullivan-ffe383a6e44baf20e813bd2c2807447e
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/quinn-sullivan-ff
+ e383a6e44baf20e813bd2c2807447e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weave a Scarf in a Day Workshop
+DTSTART:20261121T100000
+DTEND:20261121T140000
+DTSTAMP:20260925T233456Z
+UID:1f60722f560deca3b156043b@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ eave-a-scarf-in-a-day-workshop-1cd86a0adaf25bcf8e598c52e6f9aeae
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/weave-a-scarf-in-
+ a-day-workshop-1cd86a0adaf25bcf8e598c52e6f9aeae
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brit Pack - British Invasion and More
+DTSTART:20261122T193000
+DTEND:20261122T203000
+DTSTAMP:20260925T233456Z
+UID:b2fa9c330f79d17c3e471ccb@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-brit-pack-british-invasion-and-more
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-brit-pack-bri
+ tish-invasion-and-more
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G. Love & Special Sauce
+DTSTART:20261125T200000
+DTEND:20261125T210000
+DTSTAMP:20260925T233456Z
+UID:2d42fce9bd59535d301df175@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ -love-special-sauce
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/g-love-special-sa
+ uce
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tim Theriault
+DTSTART:20261125T193000
+DTEND:20261125T203000
+DTSTAMP:20260925T233456Z
+UID:900f7b2bc003309b5e3a4cba@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ im-theriault
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/tim-theriault
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving Day Buffet at Epoch
+DTSTART:20261126T110000
+DTEND:20261126T180000
+DTSTAMP:20260925T233456Z
+UID:e74981a690b8750e321b98b1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ hanksgiving-day-buffet-at-epoch
+LOCATION:90 Front Street\, Exeter\, NH 03833\, Exeter\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/thanksgiving-day-
+ buffet-at-epoch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nate Smith 7pm
+DTSTART:20261128T190000
+DTEND:20261128T200000
+DTSTAMP:20260925T233456Z
+UID:0b1d5644a61c83b5829b1db7@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ ate-smith-7pm
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/nate-smith-7pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nate Smith 9:30pm
+DTSTART:20261128T213000
+DTEND:20261128T223000
+DTSTAMP:20260925T233456Z
+UID:8b210fbde6157559140e8d95@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
+ ate-smith-9-30pm
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/nate-smith-9-30pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261204T180000
+DTEND:20261204T203000
+DTSTAMP:20260925T233456Z
+UID:3c5a31279431f2d766865bb8@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-ccf58e2c1bbeff5cbcd6ce5aeb141cb1
+LOCATION:14 Hancock St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-ccf58e2c1bbeff5cbcd6ce5aeb141cb1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedian\, Larry Venturino in Manchester\, NH
+DTSTART:20261204T183000
+DTEND:20261204T220000
+DTSTAMP:20260925T233456Z
+UID:b8872c4a30542c66ccea6bd4@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ omedian-larry-venturino-in-manchester-nh
+LOCATION:8 Hanover St\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/comedian-larry-ve
+ nturino-in-manchester-nh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adam Vinatieri
+DTSTART:20261205T190000
+DTEND:20261205T203000
+DTSTAMP:20260925T233456Z
+UID:73052213608f6c9af93909ff@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ dam-vinatieri
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/adam-vinatieri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261205T163000
+DTEND:20261205T203000
+DTSTAMP:20260925T233456Z
+UID:f9404e3b4a6b9b6497dba580@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-e64f2a5aac6de28cdcde008e3bf1de0e
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-e64f2a5aac6de28cdcde008e3bf1de0e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settlers Green: Holiday Festival & Tree Lighting
+DTSTART:20261205T100000
+DTEND:20261205T160000
+DTSTAMP:20260925T233456Z
+UID:7ab9f69cbc4dbdfed371a3d2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ettlers-green-holiday-festival-tree-lighting
+LOCATION:2 Common Court\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-ho
+ liday-festival-tree-lighting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victorian Christmas Cards Workshop
+DTSTART:20261205T100000
+DTEND:20261205T140000
+DTSTAMP:20260925T233456Z
+UID:61dadd0f955ceab9413a000c@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
+ ictorian-christmas-cards-workshop
+LOCATION:Remick Country Doctor Museum & Farm\, 58 Cleveland Hill Rd.\, Tam
+ worth\, NH 03886\, Tamworth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/victorian-christm
+ as-cards-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winston Hodges from Netflix's Funny AF with Kevin Hart(2 shows)
+DTSTART:20261205T183000
+DTEND:20261205T233000
+DTSTAMP:20260925T233456Z
+UID:7a4737f5c659befc933c7455@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ inston-hodges-from-netflix-s-funny-af-with-kevin-hart-2-shows
+LOCATION:8 Hanover St\, Manchester\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/winston-hodges-fr
+ om-netflix-s-funny-af-with-kevin-hart-2-shows
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Tree Lighting at Hesky Park
+DTSTART:20261206T170000
+DTEND:20261206T180000
+DTSTAMP:20260925T233456Z
+UID:e86d3ae91bbd9d0d495e3706@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ nnual-tree-lighting-at-hesky-park
+LOCATION:309 Daniel Webster Highway\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/annual-tree-light
+ ing-at-hesky-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261206T140000
+DTEND:20261206T183000
+DTSTAMP:20260925T233456Z
+UID:633c09aedc6bc01aea2fa900@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-ad4d2abf2a382fef0b3eeb0e5173340d
+LOCATION:Strawbery Banke Museum\, 14 Hancock St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-ad4d2abf2a382fef0b3eeb0e5173340d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Kelly
+DTSTART:20261206T193000
+DTEND:20261206T203000
+DTSTAMP:20260925T233456Z
+UID:0f3273dca35a3a0a75ba3da6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
+ race-kelly-abe42cf32f881cef6b09c8c8921d6eff
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/grace-kelly-abe42
+ cf32f881cef6b09c8c8921d6eff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Open House with Meredith Parks and Rec
+DTSTART:20261206T140000
+DTEND:20261206T160000
+DTSTAMP:20260925T233456Z
+UID:123dd13831174c7321505e7d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ oliday-open-house-with-meredith-parks-and-rec
+LOCATION:1 Circle Drive\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/holiday-open-hous
+ e-with-meredith-parks-and-rec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Benoit Christmas Tribute to Charlie Brown with Courtney Fort
+ une
+DTSTART:20261208T193000
+DTEND:20261208T203000
+DTSTAMP:20260925T233456Z
+UID:2979edf143179f7f64c9bfe0@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
+ avid-benoit-christmas-tribute-to-charlie-brown-with-courtney-fortune
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/david-benoit-chri
+ stmas-tribute-to-charlie-brown-with-courtney-fortune
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albert Cummings
+DTSTART:20261209T193000
+DTEND:20261209T203000
+DTSTAMP:20260925T233456Z
+UID:44bcc8268e97b9ea38d67ed1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
+ lbert-cummings
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/albert-cummings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Celebrations Homeschool Guided Tour
+DTSTART:20261210T093000
+DTEND:20261210T123000
+DTSTAMP:20260925T233456Z
+UID:6d16f86526efaedd411d14d9@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ inter-celebrations-homeschool-guided-tour
+LOCATION:14 Hancock St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/winter-celebratio
+ ns-homeschool-guided-tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261211T180000
+DTEND:20261211T203000
+DTSTAMP:20260925T233456Z
+UID:3885e669b0e759024c3d6485@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-eeaf57b430011ce22503f47d1a9a3cb6
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-eeaf57b430011ce22503f47d1a9a3cb6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261212T163000
+DTEND:20261212T203000
+DTSTAMP:20260925T233456Z
+UID:37c7843fead99647320faab6@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-cbaec73063acf11f142e89933cc7885d
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-cbaec73063acf11f142e89933cc7885d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Movie Night with Meredith Parks and Rec
+DTSTART:20261212T173000
+DTEND:20261212T200000
+DTSTAMP:20260925T233456Z
+UID:2d063b8997160abe22ea66e3@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ oliday-movie-night-with-meredith-parks-and-rec
+LOCATION:1 Circle Drive\, Meredith\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/holiday-movie-nig
+ ht-with-meredith-parks-and-rec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kandace Springs 7pm
+DTSTART:20261212T190000
+DTEND:20261212T200000
+DTSTAMP:20260925T233456Z
+UID:fd5f820124ef85d6317855df@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
+ andace-springs-7pm
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/kandace-springs-7
+ pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kandace Springs 9:30pm
+DTSTART:20261212T213000
+DTEND:20261212T223000
+DTSTAMP:20260925T233456Z
+UID:31a4c2ff848eda4c1a72a93e@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
+ andace-springs-9-30pm
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/kandace-springs-9
+ -30pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261213T140000
+DTEND:20261213T183000
+DTSTAMP:20260925T233456Z
+UID:ca9d1e0ef19ff535883da096@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-54455ea0e4a3c8274290a4b8dc099c51
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-54455ea0e4a3c8274290a4b8dc099c51
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rachael & Vilray
+DTSTART:20261213T203000
+DTEND:20261213T213000
+DTSTAMP:20260925T233456Z
+UID:84c73de6b7888cbcfb059e96@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ achael-vilray
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/rachael-vilray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rachael & Vilray 6:00pm
+DTSTART:20261213T180000
+DTEND:20261213T190000
+DTSTAMP:20260925T233456Z
+UID:8b6439d70593732858ae23f1@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
+ achael-vilray-6-00pm
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/rachael-vilray-6-
+ 00pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cherish The Ladies Celtic Christmas
+DTSTART:20261216T193000
+DTEND:20261216T203000
+DTSTAMP:20260925T233456Z
+UID:ee7ff031a3e8196919a19f98@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ herish-the-ladies-celtic-christmas
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/cherish-the-ladie
+ s-celtic-christmas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261218T180000
+DTEND:20261218T203000
+DTSTAMP:20260925T233456Z
+UID:089598e729f4d941d0d15ec2@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-1bed6ec17a0c5a7b475d25d412f2eb17
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-1bed6ec17a0c5a7b475d25d412f2eb17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Acapella
+DTSTART:20261218T190000
+DTEND:20261218T203000
+DTSTAMP:20260925T233456Z
+UID:d2e30799a1987cca733e77bf@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ oliday-acapella
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/holiday-acapella
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bean Tones: A Holiday Special
+DTSTART:20261218T193000
+DTEND:20261218T203000
+DTSTAMP:20260925T233456Z
+UID:6e2d1833d2ee0676f7b8052d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-bean-tones-a-holiday-special
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-bean-tones-a-
+ holiday-special
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261219T163000
+DTEND:20261219T203000
+DTSTAMP:20260925T233456Z
+UID:2e55f2925361eb9915432b3d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-18ad943b6d8f25e484f2629da9a18417
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-18ad943b6d8f25e484f2629da9a18417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holly Jolly Craft Fair
+DTSTART:20261219T090000
+DTEND:20261219T150000
+DTSTAMP:20260925T233456Z
+UID:a2ce9714ecc6640de79d1dce@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
+ olly-jolly-craft-fair-bc3af023ce91fe0363b79561a8b0c534
+LOCATION:2 Somerset Parkway\, Nashua\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/holly-jolly-craft
+ -fair-bc3af023ce91fe0363b79561a8b0c534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon McLaughlin Home for The Holidays 9:30pm
+DTSTART:20261219T213000
+DTEND:20261219T223000
+DTSTAMP:20260925T233456Z
+UID:c38681c3cc31edfcf8bf839d@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ on-mclaughlin-home-for-the-holidays-9-30pm
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/jon-mclaughlin-ho
+ me-for-the-holidays-9-30pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon McLaughlin Home for the Holidays 7:00pm
+DTSTART:20261219T190000
+DTEND:20261219T200000
+DTSTAMP:20260925T233456Z
+UID:b0b9359dbdda53800900e49a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
+ on-mclaughlin-home-for-the-holidays-7-00pm
+LOCATION:135 Congress St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/jon-mclaughlin-ho
+ me-for-the-holidays-7-00pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TubaChristmas!
+DTSTART:20261219T130000
+DTEND:20261219T140000
+DTSTAMP:20260925T233456Z
+UID:083237debefb377459b6532f@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ ubachristmas!
+LOCATION:Trinity United Methodist Church\, Bridge St.\, Colebrook\, NH\, C
+ olebrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/tubachristmas!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelight Stroll
+DTSTART:20261220T140000
+DTEND:20261220T183000
+DTSTAMP:20260925T233456Z
+UID:5414f06798ed5f74a240ef82@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
+ andlelight-stroll-f14e4a387b08f526301d1aec4e27c589
+LOCATION:Strawbery Banke Museum\, 14 Hancock St\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/candlelight-strol
+ l-f14e4a387b08f526301d1aec4e27c589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warren Wolf's Christmas Vibes
+DTSTART:20261223T193000
+DTEND:20261223T203000
+DTSTAMP:20260925T233456Z
+UID:e1b9be9b65bd1dd7929c5231@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
+ arren-wolf-s-christmas-vibes
+LOCATION:135 Congress Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/warren-wolf-s-chr
+ istmas-vibes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Settlers Green: Noon Year's Eve
+DTSTART:20261231T103000
+DTEND:20261231T123000
+DTSTAMP:20260925T233456Z
+UID:bedd6728eb89b5fb32a45e96@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
+ ettlers-green-noon-year-s-eve
+LOCATION:2 Common Court\, North Conway\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/settlers-green-no
+ on-year-s-eve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rat Pack Tribute
+DTSTART:20261231T150000
+DTEND:20261231T160000
+DTSTAMP:20260925T233456Z
+UID:e61b27fcabbef102c9e47f2a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
+ he-rat-pack-tribute
+LOCATION:319 New Zealand Road \, Seabrook\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/the-rat-pack-trib
+ ute
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Drop Spinning
+DTSTART:20270109T100000
+DTEND:20270109T113000
+DTSTAMP:20260925T233456Z
+UID:4468ff1a2c493b4ddf007f05@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
+ ntroduction-to-drop-spinning
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/introduction-to-d
+ rop-spinning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Textile Weaving
+DTSTART:20270109T090000
+DTEND:20270109T160000
+DTSTAMP:20260925T233456Z
+UID:fd686042b3aac3469d720dbf@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
+ ntroduction-to-textile-weaving
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/introduction-to-t
+ extile-weaving
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knit a Watch Cap Workshop
+DTSTART:20270116T100000
+DTEND:20270116T140000
+DTSTAMP:20260925T233456Z
+UID:eeb0dd152775eed467f3aabd@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
+ nit-a-watch-cap-workshop
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/knit-a-watch-cap-
+ workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Twist Basket Workshop
+DTSTART:20270123T100000
+DTEND:20270123T150000
+DTSTAMP:20260925T233456Z
+UID:99474714ba6b2daf7f37204a@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
+ eppermint-twist-basket-workshop
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/peppermint-twist-
+ basket-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Drop Spinning
+DTSTART:20270206T100000
+DTEND:20270206T113000
+DTSTAMP:20260925T233456Z
+UID:629e8bca0bc45d52ae1dd0af@visitnh-calendar
+DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
+ ntroduction-to-drop-spinning-fa3fe29b9792fd10d1a47dce54f6128d
+LOCATION:Strawbery Banke Museum\, 14 Hancock Street\, Portsmouth\, NH
+URL:https://www.visitnh.gov/things-to-do/events-calendar/introduction-to-d
+ rop-spinning-fa3fe29b9792fd10d1a47dce54f6128d
 END:VEVENT
 END:VCALENDAR
