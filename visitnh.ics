@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:G. Love & Special Sauce
 DTSTART:20261125T200000
 DTEND:20261125T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2d42fce9bd59535d301df175@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  -love-special-sauce
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Tim Theriault
 DTSTART:20261125T193000
 DTEND:20261125T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:900f7b2bc003309b5e3a4cba@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  im-theriault
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Buffet at Epoch
 DTSTART:20261126T110000
 DTEND:20261126T180000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e74981a690b8750e321b98b1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  hanksgiving-day-buffet-at-epoch
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Christmas
 DTSTART:20261127T140000
 DTEND:20261127T151500
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2eeb2674158caf7b7a0ffab9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  -new-england-christmas
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Alpine Advent Holiday Market
 DTSTART:20261127T160000
 DTEND:20261231T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ceba1166ce48c03f59b04977@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  lpine-advent-holiday-market
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Alpine Advent Holiday Market\, Waterville Valley
 DTSTART:20261127T160000
 DTEND:20261129T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ca4b499a86c7a34ab274574e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  lpine-advent-holiday-market-waterville-valley
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Bektash Shriner's 26th Annual Feztival of Trees
 DTSTART:20261127T100000
 DTEND:20261127T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c7ffc99be7dbe6ab6e588a85@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ektash-shriner-s-26th-annual-feztival-of-trees-275a3c5a39525ef0c205b1a7562
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas Tree Spree at Charmingfare Farm
 DTSTART:20261127T100000
 DTEND:20261128T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:a449b1386c77e39ad28f287c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  hristmas-tree-spree-at-charmingfare-farm
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Journey to the North Pole™ - Lincoln\, NH
 DTSTART:20261127T161500
 DTEND:20261223T213000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2f26dfabebeb97f831498884@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
  ourney-to-the-north-pole™-lincoln-nh
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Lyle Brewer
 DTSTART:20261127T193000
 DTEND:20261127T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7fb5cea3de4a59c9f69a1969@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  yle-brewer
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Plaid Friday
 DTSTART:20261127T110000
 DTEND:20261127T130000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:fa1495be350c0083592edc1f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  laid-friday
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Santa’s Christmas at Charmingfare Farm
 DTSTART:20261127T130000
 DTEND:20261224T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7de0009fd376be902bb6be05@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  anta-s-christmas-at-charmingfare-farm-88e2e6996d505b943977f5a6d07bbed0
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:14th Annual Cold Turkey Plunge
 DTSTART:20261128T113000
 DTEND:20261128T123000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:bc5fc7be13f870aa09349b3b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/1
  4th-annual-cold-turkey-plunge
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:3rd Annual Christmas Tree Lighting
 DTSTART:20261128T163000
 DTEND:20261128T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b0a37fac20d0c293218d870a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/3
  rd-annual-christmas-tree-lighting
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Keene Holiday Craft Show
 DTSTART:20261128T090000
 DTEND:20261128T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2bcedfec0064eed5b166fe9c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  nnual-keene-holiday-craft-show-f0b60bee040d64eb760c41bfdcce98e8
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Bektash Shriner's 26th Annual Feztival of Trees
 DTSTART:20261128T100000
 DTEND:20261128T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:06b9c743828cd42ce3cc8815@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ektash-shriner-s-26th-annual-feztival-of-trees-86a3b32237865de9499bd1b858d
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Tree Lighting
 DTSTART:20261128T153000
 DTEND:20261128T173000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:bc2bdd89fd4df5c936169863@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  oliday-tree-lighting
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Kingswood Regional High School Annual Craft Fair
 DTSTART:20261128T090000
 DTEND:20261128T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:71a99619f81ea81c965f4914@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
  ingswood-regional-high-school-annual-craft-fair
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Nate Smith 7pm
 DTSTART:20261128T190000
 DTEND:20261128T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:0b1d5644a61c83b5829b1db7@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  ate-smith-7pm
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Nate Smith 9:30pm
 DTSTART:20261128T213000
 DTEND:20261128T223000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:8b210fbde6157559140e8d95@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  ate-smith-9-30pm
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Comes to Town Square
 DTSTART:20261128T153000
 DTEND:20261128T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:5763d8c19b6ad4bd472d4f6a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  anta-comes-to-town-square
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Shanghai Saloon
 DTSTART:20261128T190000
 DTEND:20261128T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2672b0c12a2c36882e6af693@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  hanghai-saloon
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Sip & Shop
 DTSTART:20261128T110000
 DTEND:20261128T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e3083db6e68aeb8d14bd82fb@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ip-shop
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Tree Lighting Ceremony & Fireworks Show
 DTSTART:20261128T190000
 DTEND:20261128T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d59939077cc9b1ffbe627e47@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  ree-lighting-ceremony-fireworks-show
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Stroll
 DTSTART:20261128T170000
 DTEND:20261128T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:4caa3d0af1a2d641aa9b21d9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  inter-stroll
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Bektash Shriner's 26th Annual Feztival of Trees
 DTSTART:20261129T100000
 DTEND:20261129T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b7aa47cb16be041b340a3f59@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ektash-shriner-s-26th-annual-feztival-of-trees-27a049fca560535c05d7811c3af
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Storytime with Mrs. Claus
 DTSTART:20261129T100000
 DTEND:20261129T110000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:eaee0ee915d26235faed4a33@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  torytime-with-mrs-claus
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:The Kinds Kids Music Show
 DTSTART:20261129T130000
 DTEND:20261129T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:dd3865bb696538bd3abb98fc@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-kinds-kids-music-show
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Local Artist Series: Corduroy "Yacht Rock Party"
 DTSTART:20261130T190000
 DTEND:20261130T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2fb833af604ce7ac76c1d985@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ocal-artist-series-corduroy-yacht-rock-party
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:New and Original Uses for Religious Properties
 DTSTART:20261201T100000
 DTEND:20261201T120000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c1b0bf2075f5f27e8653488a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  ew-and-original-uses-for-religious-properties
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Bath with Marci Starr
 DTSTART:20261201T110000
 DTEND:20261201T120000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:de6d6b6ea7694f1e349889c7@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ound-bath-with-marci-starr-bbc65292af060fd40d920d133afe3258
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Creating Morning and Evening Routines to Improve Mental Health
 DTSTART:20261202T100000
 DTEND:20261202T110000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d391bb97189e56630b8bbfcc@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  reating-morning-and-evening-routines-to-improve-mental-health
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Gingerbread House Decorating @ The Bistro
 DTSTART:20261202T170000
 DTEND:20261202T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:98fdffd75e8b7d56be388c99@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  ingerbread-house-decorating-@-the-bistro
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Plymouth Square Dance
 DTSTART:20261202T193000
 DTEND:20261202T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b4d6c28773a1f3c6f29ef596@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  lymouth-square-dance-79ff28404774b8fdfb7d3032ab34c1d6
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas Tree Lighting
 DTSTART:20261203T180000
 DTEND:20261203T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:03a4a5ffaf2655efebff42fe@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  hristmas-tree-lighting
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Holidays at the Estate 2026
 DTSTART:20261203T120000
 DTEND:20261203T130000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:68624b3ec6d65b8975539e9c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  olidays-at-the-estate-2026
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Illuminated Grounds
 DTSTART:20261203T160000
 DTEND:20261203T170000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:80c5244f1de193cbcdbaf6e6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
  lluminated-grounds
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:The Artisan’s Nook
 DTSTART:20261203T120000
 DTEND:20261203T130000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:85cae742730d678fca774ba1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-artisan-s-nook
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:"The Women of Tamworth: Then & Now" Photo Exhibit
 DTSTART:20261204T121500
 DTEND:20261205T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c0f0bf43750479f82f6a5902@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-women-of-tamworth-then-now-photo-exhibit-6ec28439d2ccb6af68606aa16d5d0e
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:49th Annual Pine Hill Holiday Fair
 DTSTART:20261204T183000
 DTEND:20261204T213000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d90d5fbd6a17b9d4dfecbef2@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/4
  9th-annual-pine-hill-holiday-fair
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:6x6 Exhibition
 DTSTART:20261204T120000
 DTEND:20261204T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c07327b77356b81481e40122@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/6
  x6-exhibition
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261204T180000
 DTEND:20261204T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:3c5a31279431f2d766865bb8@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-ccf58e2c1bbeff5cbcd6ce5aeb141cb1
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Comedian\, Larry Venturino in Manchester\, NH
 DTSTART:20261204T183000
 DTEND:20261204T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b8872c4a30542c66ccea6bd4@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  omedian-larry-venturino-in-manchester-nh
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Contoocook Artisans Holiday Craft Fair
 DTSTART:20261204T100000
 DTEND:20261204T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:87515dd3d66f9cd3b2d4f585@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  ontoocook-artisans-holiday-craft-fair
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Creches\, Carols\, and Cookies 2026: The Natvitiy
 DTSTART:20261204T170000
 DTEND:20261206T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d7ca6cf7ce5add6dfb3cb568@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  reches-carols-and-cookies-2026-the-natvitiy
@@ -545,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Merriment
 DTSTART:20261204T170000
 DTEND:20261205T000000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e574a8733cbdc8e6d4df01de@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  idnight-merriment
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:49th Annual Pine Hill Holiday Fair
 DTSTART:20261205T100000
 DTEND:20261205T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:794493a0e919e0e215e3376a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/4
  9th-annual-pine-hill-holiday-fair-8622ba9e4798ee803dbd64fdff6ac459
@@ -569,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:Adam Vinatieri
 DTSTART:20261205T190000
 DTEND:20261205T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:73052213608f6c9af93909ff@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  dam-vinatieri
@@ -580,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261205T163000
 DTEND:20261205T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:f9404e3b4a6b9b6497dba580@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-e64f2a5aac6de28cdcde008e3bf1de0e
@@ -592,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:Contoocook Artisans Holiday Craft Fair
 DTSTART:20261205T100000
 DTEND:02061205T170000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b631ca316110d6ca608edf88@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  ontoocook-artisans-holiday-craft-fair-05491e4186f85e6e69c4adc37f497a0d
@@ -604,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:Cookies and Cocoa with Santa
 DTSTART:20261205T170000
 DTEND:20261205T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:719525a245777445cfdd1e6b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  ookies-and-cocoa-with-santa
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:LeSpecial
 DTSTART:20261205T180000
 DTEND:20261205T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e465edf2cb4937e9ef9b3844@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  especial
@@ -627,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Madison Elementary PTO Craft Fair & Cafe Noel
 DTSTART:20261205T090000
 DTEND:20261205T130000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ea0c08bdbd57028e07ca3830@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  adison-elementary-pto-craft-fair-cafe-noel
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:Mr. Aaron Concert and Visit with Santa
 DTSTART:20261205T113000
 DTEND:20261205T133000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7b3e415557978b766ff562ac@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  r-aaron-concert-and-visit-with-santa
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:Salisbury Historical Society Christmas Sale - at our Hearse House
 DTSTART:20261205T090000
 DTEND:20261205T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:308a3db972a03c0581820473@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  alisbury-historical-society-christmas-sale-at-our-hearse-house-d3ef04c805e
@@ -665,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:Settlers Green: Holiday Festival & Tree Lighting
 DTSTART:20261205T100000
 DTEND:20261205T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7ab9f69cbc4dbdfed371a3d2@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ettlers-green-holiday-festival-tree-lighting
@@ -677,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:Snow Snake Decorating Workshop
 DTSTART:20261205T130000
 DTEND:20261205T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:cb1d0034fe951ef58b8bb61e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  now-snake-decorating-workshop-e9689b0c9dd88abec9a25da342fd9ab7
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Sugar Plum Fairy Tea
 DTSTART:20261205T123000
 DTEND:20261205T133000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d79ab11072dfdbe96f350020@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ugar-plum-fairy-tea
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:Trees & Trimmings at Remick Museum
 DTSTART:20261205T100000
 DTEND:20261205T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:012066fb7c74e59210be7412@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  rees-trimmings-at-remick-museum
@@ -713,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:Victorian Christmas Cards Workshop
 DTSTART:20261205T100000
 DTEND:20261205T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:61dadd0f955ceab9413a000c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
  ictorian-christmas-cards-workshop
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:What the Dickens?
 DTSTART:20261205T193000
 DTEND:20261205T213000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:318df860d38a3f01807ddd5c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  hat-the-dickens
@@ -737,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:Who's Holiday at the Medallion Opera House
 DTSTART:20261205T190000
 DTEND:20261205T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9270f2bbb41f56896fdebeef@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  ho-s-holiday-at-the-medallion-opera-house
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:Winston Hodges from Netflix's Funny AF with Kevin Hart(2 shows)
 DTSTART:20261205T183000
 DTEND:20261205T233000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7a4737f5c659befc933c7455@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  inston-hodges-from-netflix-s-funny-af-with-kevin-hart-2-shows
@@ -761,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Tree Lighting at Hesky Park
 DTSTART:20261206T170000
 DTEND:20261206T180000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e86d3ae91bbd9d0d495e3706@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  nnual-tree-lighting-at-hesky-park
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261206T140000
 DTEND:20261206T183000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:633c09aedc6bc01aea2fa900@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-ad4d2abf2a382fef0b3eeb0e5173340d
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:Contoocook Artisans Holiday Craft Fair
 DTSTART:20261206T100000
 DTEND:20261206T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c7591700de426d385bbd6b8f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  ontoocook-artisans-holiday-craft-fair-54f6f5f4809fc14eb4e1663d05088494
@@ -797,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:Grace Kelly
 DTSTART:20261206T193000
 DTEND:20261206T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:0f3273dca35a3a0a75ba3da6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  race-kelly-abe42cf32f881cef6b09c8c8921d6eff
@@ -809,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Open House with Meredith Parks and Rec
 DTSTART:20261206T140000
 DTEND:20261206T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:123dd13831174c7321505e7d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  oliday-open-house-with-meredith-parks-and-rec
@@ -822,7 +822,7 @@ SUMMARY:Live Jazz: Celebrating Miles Davis\, John Coltrane\, and the Holid
  ays!
 DTSTART:20261206T183000
 DTEND:20261206T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9f1d60805d8035f340850133@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ive-jazz-celebrating-miles-davis-john-coltrane-and-the-holidays!
@@ -834,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Merrymaking on West Merrimack
 DTSTART:20261206T110000
 DTEND:20261206T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:f9e32c53ce860311e9365bda@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  errymaking-on-west-merrimack-bc30bfc6d044eab84b020fdd15d54d7b
@@ -847,7 +847,7 @@ SUMMARY:Nashua Choral Society Concert: The Work of Christmas - Where Peace
   and Joy Begin
 DTSTART:20261206T150000
 DTEND:20261206T170000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:0113262dbccad967c6a35b82@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  ashua-choral-society-concert-the-work-of-christmas-where-peace-and-joy-beg
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:Artist Reception with Alexis Stefano - FREE
 DTSTART:20261208T180000
 DTEND:20261208T193000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e97615f2edf88bd99e8c95ec@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  rtist-reception-with-alexis-stefano-free
@@ -874,7 +874,7 @@ SUMMARY:David Benoit Christmas Tribute to Charlie Brown with Courtney Fort
  une
 DTSTART:20261208T193000
 DTEND:20261208T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2979edf143179f7f64c9bfe0@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  avid-benoit-christmas-tribute-to-charlie-brown-with-courtney-fortune
@@ -886,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Family Craft: Gingerbread-Style Decorating
 DTSTART:20261208T173000
 DTEND:20261208T183000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:54812f9da67c442acddb02fc@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  amily-craft-gingerbread-style-decorating
@@ -898,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:Albert Cummings
 DTSTART:20261209T193000
 DTEND:20261209T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:44bcc8268e97b9ea38d67ed1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  lbert-cummings
@@ -909,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Velvet & Evergreen Evening
 DTSTART:20261209T180000
 DTEND:20261209T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:51436c789fcb8081b4c4aa70@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
  elvet-evergreen-evening
@@ -921,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:Discovering Magic with Andrew Pinard
 DTSTART:20261210T153000
 DTEND:20261210T163000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:8b43fdde415cb132722d5572@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  iscovering-magic-with-andrew-pinard
@@ -933,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:Heist
 DTSTART:20261210T170000
 DTEND:20261210T180000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:24613884aa2316a942ad8460@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  eist
@@ -944,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Northern Voices A Capella and Northern Voices Quartet
 DTSTART:20261210T190000
 DTEND:20261210T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:09e3f22f3a79e91a4db12107@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  orthern-voices-a-capella-and-northern-voices-quartet
@@ -956,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Celebrations Homeschool Guided Tour
 DTSTART:20261210T093000
 DTEND:20261210T123000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:6d16f86526efaedd411d14d9@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  inter-celebrations-homeschool-guided-tour
@@ -968,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:A Charlie Brown Christmas Show at the Medallion Opera House
 DTSTART:20261211T190000
 DTEND:20261211T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d59fd7d81bf9cd8c631df6ca@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  -charlie-brown-christmas-show-at-the-medallion-opera-house
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol: The Musical Ghost Story
 DTSTART:20261211T193000
 DTEND:20261220T161500
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:951dc4548d08c1c4992bc379@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  -christmas-carol-the-musical-ghost-story
@@ -992,7 +992,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261211T180000
 DTEND:20261211T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:3885e669b0e759024c3d6485@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-eeaf57b430011ce22503f47d1a9a3cb6
@@ -1004,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:Mt Kearsarge Indian Museum Hometown Holiday Sale
 DTSTART:20261211T100000
 DTEND:20261212T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ff52119e24cd11a310c74be0@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  t-kearsarge-indian-museum-hometown-holiday-sale
@@ -1016,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:The Community Players of Concord
 DTSTART:20261211T180000
 DTEND:20261211T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:4c080f6fecf6581cfd91f829@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-community-players-of-concord
@@ -1028,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol with Cedric Flower
 DTSTART:20261212T130000
 DTEND:20261212T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d70f73a1bbb0fcbdb5d3d18e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  -christmas-carol-with-cedric-flower
@@ -1040,7 +1040,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261212T163000
 DTEND:20261212T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:37c7843fead99647320faab6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-cbaec73063acf11f142e89933cc7885d
@@ -1052,7 +1052,7 @@ BEGIN:VEVENT
 SUMMARY:Concord Arts Market
 DTSTART:20261212T230000
 DTEND:20261213T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:220e458c35fa6f8e1dd2d856@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  oncord-arts-market
@@ -1064,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Movie Night with Meredith Parks and Rec
 DTSTART:20261212T173000
 DTEND:20261212T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2d063b8997160abe22ea66e3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  oliday-movie-night-with-meredith-parks-and-rec
@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Open Mic
 DTSTART:20261212T190000
 DTEND:20261212T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d0c619947e93fd7f913af6b8@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  oliday-open-mic
@@ -1087,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:Kandace Springs 7pm
 DTSTART:20261212T190000
 DTEND:20261212T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:fd5f820124ef85d6317855df@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
  andace-springs-7pm
@@ -1099,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:Kandace Springs 9:30pm
 DTSTART:20261212T213000
 DTEND:20261212T223000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:31a4c2ff848eda4c1a72a93e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
  andace-springs-9-30pm
@@ -1111,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:NH Audubon Annual Holiday Craft Fair
 DTSTART:20261212T100000
 DTEND:20261212T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9aef78000915324a7d63c791@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  h-audubon-annual-holiday-craft-fair-41b6a7e2550d2ce165c16116d0b81e01
@@ -1123,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:NH World Christmas Market
 DTSTART:20261212T110000
 DTEND:20261213T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e78bae68a0ab376a76eca6c3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  h-world-christmas-market
@@ -1135,7 +1135,7 @@ BEGIN:VEVENT
 SUMMARY:Salisbury Historical Society Christmas Sale - at our Hearse House
 DTSTART:20261212T090000
 DTEND:20261212T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:41f1e71db6ae832b69450d76@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  alisbury-historical-society-christmas-sale-at-our-hearse-house
@@ -1147,7 +1147,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Visit
 DTSTART:20261212T150000
 DTEND:20261212T170000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2ddea764b2a120552538aad8@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  anta-visit
@@ -1158,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:Shop Wild Saturday
 DTSTART:20261212T100000
 DTEND:20261212T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:5db8b01f8cf43015113cfe1d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  hop-wild-saturday
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:Breakfast with Santa at Dave and Busters
 DTSTART:20261213T090000
 DTEND:20261213T100000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:6b1aab01d314d8a7d1af1ef0@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  reakfast-with-santa-at-dave-and-busters
@@ -1182,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261213T140000
 DTEND:20261213T183000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ca9d1e0ef19ff535883da096@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-54455ea0e4a3c8274290a4b8dc099c51
@@ -1194,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Rachael & Vilray
 DTSTART:20261213T203000
 DTEND:20261213T213000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:84c73de6b7888cbcfb059e96@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
  achael-vilray
@@ -1205,7 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:Rachael & Vilray 6:00pm
 DTSTART:20261213T180000
 DTEND:20261213T190000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:8b6439d70593732858ae23f1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/r
  achael-vilray-6-00pm
@@ -1217,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:Local Artist Series: Higher Ground
 DTSTART:20261214T190000
 DTEND:20261214T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:240409ebbebb17b7d00abd26@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/l
  ocal-artist-series-higher-ground-efc356289a3302c52400d0854206fd3d
@@ -1229,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:Cherish The Ladies Celtic Christmas
 DTSTART:20261216T193000
 DTEND:20261216T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ee7ff031a3e8196919a19f98@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  herish-the-ladies-celtic-christmas
@@ -1241,7 +1241,7 @@ BEGIN:VEVENT
 SUMMARY:Cherish The Ladies Celtic Christmas
 DTSTART:20261216T193000
 DTEND:20261216T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:142add1bdc0767354814820b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  herish-the-ladies-celtic-christmas-b349f86af03af96eff940b2a31e6d195
@@ -1253,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:A Charlie Brown Christmas with The Heather Pierson Trio
 DTSTART:20261217T190000
 DTEND:20261217T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9f539a5d935d40f46f43e32e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  -charlie-brown-christmas-with-the-heather-pierson-trio
@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:Alejandro’s Olde Tyme Magik Showe
 DTSTART:20261217T170000
 DTEND:20261217T180000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b193840df32d8a1d592ae587@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  lejandro-s-olde-tyme-magik-showe
@@ -1277,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:The Concord Coachmen Chorus
 DTSTART:20261217T190000
 DTEND:20261217T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:f4e0e5a94278990b25459b81@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-concord-coachmen-chorus
@@ -1289,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261218T180000
 DTEND:20261218T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:089598e729f4d941d0d15ec2@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-1bed6ec17a0c5a7b475d25d412f2eb17
@@ -1301,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Acapella
 DTSTART:20261218T190000
 DTEND:20261218T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d2e30799a1987cca733e77bf@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  oliday-acapella
@@ -1312,7 +1312,7 @@ BEGIN:VEVENT
 SUMMARY:Movies at the Majestic: Home Alone
 DTSTART:20261218T190000
 DTEND:20261218T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:bff75d50464c48ea6badbfa4@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/m
  ovies-at-the-majestic-home-alone
@@ -1324,7 +1324,7 @@ BEGIN:VEVENT
 SUMMARY:The Bean Tones: A Holiday Special
 DTSTART:20261218T193000
 DTEND:20261218T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:6e2d1833d2ee0676f7b8052d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-bean-tones-a-holiday-special
@@ -1336,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:Voices of Christmas Holiday Concert at Medallion Opera House
 DTSTART:20261218T190000
 DTEND:20261218T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d7d20073205a1eeaccd8ff92@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/v
  oices-of-christmas-holiday-concert-at-medallion-opera-house
@@ -1348,7 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261219T163000
 DTEND:20261219T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2e55f2925361eb9915432b3d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-18ad943b6d8f25e484f2629da9a18417
@@ -1360,7 +1360,7 @@ BEGIN:VEVENT
 SUMMARY:Gingerbread Cookie Decorating
 DTSTART:20261219T120000
 DTEND:20261219T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b610830e6cee8e5172d8fe84@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  ingerbread-cookie-decorating
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 SUMMARY:Holly Jolly Craft Fair
 DTSTART:20261219T090000
 DTEND:20261219T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:a2ce9714ecc6640de79d1dce@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  olly-jolly-craft-fair-bc3af023ce91fe0363b79561a8b0c534
@@ -1384,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:Jon McLaughlin Home for The Holidays 9:30pm
 DTSTART:20261219T213000
 DTEND:20261219T223000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c38681c3cc31edfcf8bf839d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
  on-mclaughlin-home-for-the-holidays-9-30pm
@@ -1396,7 +1396,7 @@ BEGIN:VEVENT
 SUMMARY:Jon McLaughlin Home for the Holidays 7:00pm
 DTSTART:20261219T190000
 DTEND:20261219T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b0b9359dbdda53800900e49a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/j
  on-mclaughlin-home-for-the-holidays-7-00pm
@@ -1408,7 +1408,7 @@ BEGIN:VEVENT
 SUMMARY:TubaChristmas!
 DTSTART:20261219T130000
 DTEND:20261219T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:083237debefb377459b6532f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  ubachristmas!
@@ -1420,7 +1420,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Drone Show
 DTSTART:20261219T200000
 DTEND:20261219T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:ff54f1ed8eef93edc04886a8@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  inter-drone-show
@@ -1431,7 +1431,7 @@ BEGIN:VEVENT
 SUMMARY:Arpeggione Ensemble: Miniature Nutcracker
 DTSTART:20261220T150000
 DTEND:20261220T170000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:44bd78e3067796787ca108bc@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  rpeggione-ensemble-miniature-nutcracker
@@ -1443,7 +1443,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Stroll
 DTSTART:20261220T140000
 DTEND:20261220T183000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:5414f06798ed5f74a240ef82@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  andlelight-stroll-f14e4a387b08f526301d1aec4e27c589
@@ -1455,7 +1455,7 @@ BEGIN:VEVENT
 SUMMARY:Stella Cole
 DTSTART:20261222T190000
 DTEND:20261222T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c07fd5176cc90446254a82de@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  tella-cole
@@ -1466,7 +1466,7 @@ BEGIN:VEVENT
 SUMMARY:Stella Cole
 DTSTART:20261222T213000
 DTEND:20261222T230000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b1991b0556008c3bb10c5663@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  tella-cole-5fa4cdb4c7ae743ca4c47de65ebff86a
@@ -1478,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:Warren Wolf's Christmas Vibes
 DTSTART:20261223T193000
 DTEND:20261223T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e1b9be9b65bd1dd7929c5231@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  arren-wolf-s-christmas-vibes
@@ -1490,7 +1490,7 @@ BEGIN:VEVENT
 SUMMARY:Glow Into the New Year at RiverWalk Resort
 DTSTART:20261231T190000
 DTEND:20270101T001500
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:8af4d0ee84c491caed72f4e1@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  low-into-the-new-year-at-riverwalk-resort
@@ -1502,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:Settlers Green: Noon Year's Eve
 DTSTART:20261231T103000
 DTEND:20261231T123000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:bedd6728eb89b5fb32a45e96@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  ettlers-green-noon-year-s-eve
@@ -1514,7 +1514,7 @@ BEGIN:VEVENT
 SUMMARY:The Rat Pack Tribute
 DTSTART:20261231T150000
 DTEND:20261231T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e61b27fcabbef102c9e47f2a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-rat-pack-tribute
@@ -1526,7 +1526,7 @@ BEGIN:VEVENT
 SUMMARY:Plymouth Square Dance
 DTSTART:20270107T193000
 DTEND:20270107T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:5026e96c82ede7735143b8f5@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  lymouth-square-dance-9a134d34ef51c64b3a1e50de67f8744c
@@ -1538,7 +1538,7 @@ BEGIN:VEVENT
 SUMMARY:"Asian Art at Dartmouth" Exhibition Opening
 DTSTART:20270108T170000
 DTEND:20270108T183000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:6f9d9b8b510e50016bf67a67@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  sian-art-at-dartmouth-exhibition-opening
@@ -1550,7 +1550,7 @@ BEGIN:VEVENT
 SUMMARY:A Band of Brothers
 DTSTART:20270109T193000
 DTEND:20270109T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7dbeb40f7bfb21d9984efb0f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  -band-of-brothers
@@ -1562,7 +1562,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Drop Spinning
 DTSTART:20270109T100000
 DTEND:20270109T113000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:4468ff1a2c493b4ddf007f05@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
  ntroduction-to-drop-spinning
@@ -1574,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Textile Weaving
 DTSTART:20270109T090000
 DTEND:20270109T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:fd686042b3aac3469d720dbf@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
  ntroduction-to-textile-weaving
@@ -1586,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:The Nth Power
 DTSTART:20270113T193000
 DTEND:20270113T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:57befd72893dd6aa61cf7069@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-nth-power
@@ -1597,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:Atomic Habits for Mental Health
 DTSTART:20270114T100000
 DTEND:20270114T110000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:a7e0827900500a9f0b95a048@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  tomic-habits-for-mental-health
@@ -1609,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:The Dirty Dozen Brass Band
 DTSTART:20270114T193000
 DTEND:20270114T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:7aff08d51c00fb1cb64eb082@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-dirty-dozen-brass-band
@@ -1621,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Adam Neely X Lau Noah
 DTSTART:20270115T193000
 DTEND:20270115T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c7769511ec4379abaee18c40@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  dam-neely-x-lau-noah
@@ -1633,7 +1633,7 @@ BEGIN:VEVENT
 SUMMARY:Knit a Watch Cap Workshop
 DTSTART:20270116T100000
 DTEND:20270116T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:eeb0dd152775eed467f3aabd@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
  nit-a-watch-cap-workshop
@@ -1645,7 +1645,7 @@ BEGIN:VEVENT
 SUMMARY:April Varner
 DTSTART:20270117T193000
 DTEND:20270117T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:aa0b0e50b8a52743f376357d@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  pril-varner
@@ -1656,7 +1656,7 @@ BEGIN:VEVENT
 SUMMARY:What's The History of Your House
 DTSTART:20270120T180000
 DTEND:20270120T193000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:0f2ef99c36eab70ea61be3f3@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/w
  hat-s-the-history-of-your-house-116fc466e51d6beb3153817c6e66d892
@@ -1668,7 +1668,7 @@ BEGIN:VEVENT
 SUMMARY:The Smithereens
 DTSTART:20270122T193000
 DTEND:20270122T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:17220a2e407bb3bd86841a8b@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  he-smithereens
@@ -1679,7 +1679,7 @@ BEGIN:VEVENT
 SUMMARY:POP DIVAS and the Women Who Shaped Them
 DTSTART:20270123T193000
 DTEND:20270123T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c108b5dd528bf35b4a72c554@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  op-divas-and-the-women-who-shaped-them
@@ -1691,7 +1691,7 @@ BEGIN:VEVENT
 SUMMARY:Peppermint Twist Basket Workshop
 DTSTART:20270123T100000
 DTEND:20270123T150000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:99474714ba6b2daf7f37204a@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  eppermint-twist-basket-workshop
@@ -1703,7 +1703,7 @@ BEGIN:VEVENT
 SUMMARY:Dee Dee Bridgewater & Bill Charlap
 DTSTART:20270128T193000
 DTEND:20270128T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9027f04f84288119bebdcd4f@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  ee-dee-bridgewater-bill-charlap
@@ -1715,7 +1715,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton De Holanda
 DTSTART:20270129T193000
 DTEND:20270129T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:580a9458aa4db1486a451471@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/h
  amilton-de-holanda
@@ -1727,7 +1727,7 @@ BEGIN:VEVENT
 SUMMARY:Braided Mug Rug Workshop
 DTSTART:20270130T100000
 DTEND:20270130T140000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:8d8aad73e3f9babddfd6c285@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  raided-mug-rug-workshop
@@ -1740,7 +1740,7 @@ SUMMARY:Stand Up Comedy with Comedian Matt Ruby Hosted by Lloyd "Legacy" S
  harp(2 shows)
 DTSTART:20270130T190000
 DTEND:20270130T233000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2427ed92f5551262d25ae3ed@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/s
  tand-up-comedy-with-comedian-matt-ruby-hosted-by-lloyd-legacy-sharp-2-show
@@ -1753,7 +1753,7 @@ BEGIN:VEVENT
 SUMMARY:Telula
 DTSTART:20270130T193000
 DTEND:20270130T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:1d8d19b7e0857d02a89be338@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/t
  elula
@@ -1764,7 +1764,7 @@ BEGIN:VEVENT
 SUMMARY:Back To The Start: A Tribute to Coldplay
 DTSTART:20270131T193000
 DTEND:20270131T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b83cb46accd5204788caee92@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/b
  ack-to-the-start-a-tribute-to-coldplay
@@ -1776,7 +1776,7 @@ BEGIN:VEVENT
 SUMMARY:Don Was and the Pan-Detroit Ensemble
 DTSTART:20270203T193000
 DTEND:20270203T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:242e128e601c5da13ef098a6@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/d
  on-was-and-the-pan-detroit-ensemble
@@ -1788,7 +1788,7 @@ BEGIN:VEVENT
 SUMMARY:Plymouth Square Dance
 DTSTART:20270204T193000
 DTEND:20270204T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b512691ccb748fe7b6bbcdda@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  lymouth-square-dance-44c83139196f9a7613d84835643eeb92
@@ -1800,7 +1800,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Drop Spinning
 DTSTART:20270206T100000
 DTEND:20270206T113000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:629e8bca0bc45d52ae1dd0af@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/i
  ntroduction-to-drop-spinning-fa3fe29b9792fd10d1a47dce54f6128d
@@ -1812,7 +1812,7 @@ BEGIN:VEVENT
 SUMMARY:NCO Free Family Concert
 DTSTART:20270206T150000
 DTEND:20270206T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:d3685bd3236f99f932f4ed8c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  co-free-family-concert
@@ -1824,7 +1824,7 @@ BEGIN:VEVENT
 SUMMARY:One Drop Redemption
 DTSTART:20270206T190000
 DTEND:20270206T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:811668dc800a4e1181351cae@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/o
  ne-drop-redemption
@@ -1836,7 +1836,7 @@ BEGIN:VEVENT
 SUMMARY:Gabe Dixon
 DTSTART:20270210T193000
 DTEND:20270210T210000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:c4a2b0b64074397a6e48bd3c@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/g
  abe-dixon
@@ -1847,7 +1847,7 @@ BEGIN:VEVENT
 SUMMARY:Altan
 DTSTART:20270218T193000
 DTEND:20270218T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9043b1e22de2ccafbdcc7833@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/a
  ltan
@@ -1858,7 +1858,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macked
 DTSTART:20270226T190000
 DTEND:20270226T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:02c6162fcf4adc760828a495@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/f
  leetwood-macked
@@ -1869,7 +1869,7 @@ BEGIN:VEVENT
 SUMMARY:Plymouth Square Dance
 DTSTART:20270304T193000
 DTEND:20270304T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:634d31cd1d4db9152b1a2fbb@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  lymouth-square-dance-f533f8b7b6051fe93c465ce6e4c860fd
@@ -1881,7 +1881,7 @@ BEGIN:VEVENT
 SUMMARY:Christian McBride and Ursa Major
 DTSTART:20270312T193000
 DTEND:20270312T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:4d74e86e599d98b3a22ad997@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  hristian-mcbride-and-ursa-major
@@ -1893,7 +1893,7 @@ BEGIN:VEVENT
 SUMMARY:Christian McBride and Ursa Major
 DTSTART:20270313T193000
 DTEND:20270313T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:b0d88d1082e4e7a2745f2a2e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/c
  hristian-mcbride-and-ursa-major-d0f1f44c87b142be5abb11f9d9c26909
@@ -1905,7 +1905,7 @@ BEGIN:VEVENT
 SUMMARY:NCO Winter Concert - Tchaikovsky and Incantations
 DTSTART:20270313T190000
 DTEND:20270313T200000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:2238e0f6bce8bb5b52e7efee@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  co-winter-concert-tchaikovsky-and-incantations
@@ -1918,7 +1918,7 @@ BEGIN:VEVENT
 SUMMARY:NCO Winter Concert - Tchaikovsky and Incantations
 DTSTART:20270314T150000
 DTEND:20270314T160000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:9f4b56e284c9b3ca112635ce@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/n
  co-winter-concert-tchaikovsky-and-incantations-891c01ce9445d4d47aa23412d68
@@ -1932,7 +1932,7 @@ BEGIN:VEVENT
 SUMMARY:Plymouth Square Dance
 DTSTART:20270401T193000
 DTEND:20270401T220000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:af33d39d3d572008e438e07e@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/p
  lymouth-square-dance-c671e4bb5ad9b8ee80018391c56136c1
@@ -1944,7 +1944,7 @@ BEGIN:VEVENT
 SUMMARY:KT Tunstall
 DTSTART:20270509T193000
 DTEND:20270509T203000
-DTSTAMP:20261124T204157Z
+DTSTAMP:20261125T195842Z
 UID:e4f5345fd12984061f5349fe@visitnh-calendar
 DESCRIPTION:Source: https://www.visitnh.gov/things-to-do/events-calendar/k
  t-tunstall
